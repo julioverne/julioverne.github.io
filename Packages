@@ -32,11 +32,11 @@ Package: com.julioverne.gravity
 Section: Tweaks
 Maintainer: Julio
 Architecture: iphoneos-arm
-Version: 0.3
+Version: 0.4
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.gravity_0.3_iphoneos-arm.deb
-Size: 147432
-MD5sum: 2944028739f7bf9ede8007ea851acef2
+Filename: ./com.julioverne.gravity_0.4_iphoneos-arm.deb
+Size: 146468
+MD5sum: 36f703cf6bf023e33e9147c52a59d4e7
 Description: Graviboard alternative
 Name: Gravity
 Author: julioverne <julioverne@me.com>
