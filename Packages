@@ -28,6 +28,21 @@ Author: julioverne <julioverne@me.com>
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/NCGroup.bundle/icon@2x.png
 
+Package: com.julioverne.mimport
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./com.julioverne.mimport_0.0~beta_iphoneos-arm.deb
+Size: 270536
+MD5sum: 0fb4452b15e9ecf76eec3a1b7c8b65ec
+Description: Import Music directly from Music App
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+
 Package: com.julioverne.gravity
 Section: Tweaks
 Maintainer: Julio
