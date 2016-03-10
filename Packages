@@ -32,11 +32,11 @@ Package: com.julioverne.mimport
 Section: Tweaks
 Maintainer: Julio
 Architecture: iphoneos-arm
-Version: 0.0~beta
+Version: 0.0~beta1
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: ./com.julioverne.mimport_0.0~beta_iphoneos-arm.deb
-Size: 270536
-MD5sum: 0fb4452b15e9ecf76eec3a1b7c8b65ec
+Filename: ./com.julioverne.mimport_0.0~beta1_iphoneos-arm.deb
+Size: 297648
+MD5sum: b400c1c9ee2fc9bbe7f8ab3fbf862e38
 Description: Import Music directly from Music App
 Name: MImport
 Author: julioverne <julioverne@me.com>
