@@ -17,11 +17,11 @@ Package: com.julioverne.ncgroup
 Section: Tweaks
 Maintainer: Julio
 Architecture: iphoneos-arm
-Version: 0.0~beta10-1
+Version: 0.0~beta11
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.ncgroup_0.0~beta10-1_iphoneos-arm.deb
-Size: 62238
-MD5sum: 0f48c4315428c632a250295865978690
+Filename: ./com.julioverne.ncgroup_0.0~beta11_iphoneos-arm.deb
+Size: 62878
+MD5sum: d9a08fff46d9d1c0a79f4f8b5205f4cd
 Description: Group Notification Center items
 Name: NCGroup
 Author: julioverne <julioverne@me.com>
