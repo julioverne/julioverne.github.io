@@ -410,24 +410,6 @@ Name: DropbearSwitch
 Author: julioverne
 Homepage: http://twitter.com/ijulioverne
 
-Package: com.julioverne.ext3nder-installer
-Section: Utilities
-Maintainer: Julio
-Architecture: iphoneos-arm
-Version: 012
-Depends: mobilesubstrate
-Pre-Depends: ldid, curl, unzip, coreutils, zip
-Conflicts: com.julioverne.ext3nder
-Filename: ./com.julioverne.ext3nder-installer_012_iphoneos-arm.deb
-Size: 419520
-MD5sum: 6ccc714a7a5e7f3ce0e57e9a193d1c5b
-SHA1: ccb20a465e91feefaf7c782f8eda87568571b139
-SHA256: fb89a7f87aca5b045623b03fb003435b1b74c959269b4b119274b394f1229814
-Description: Cydia Extender Installer With Extra Features
-Name: Ext3nder Installer
-Author: julioverne
-Homepage: http://twitter.com/ijulioverne
-
 Package: com.julioverne.fastuprepo
 Section: Tweaks
 Maintainer: Julio
@@ -491,6 +473,24 @@ SHA1: c88d9674b461a3f9125de1b38613b4bfa953f18d
 SHA256: dedb45997341d296eb62be1d0bfa04c41249997d388b0c496a4df2e3acc3fa7b
 Description: Use Bluetooth HFP Headset in Apps like BT Headphones
 Name: HeadsetBTSound
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.ext3nder-installer
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 012a
+Depends: mobilesubstrate
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Conflicts: com.julioverne.ext3nder
+Filename: ./com.julioverne.ext3nder-installer_012a_iphoneos-arm.deb
+Size: 557800
+MD5sum: bb607351a5afedef83ebfe56943ad224
+SHA1: ff420081d4679a6c5e7885ba9781706aea1b1d61
+SHA256: d540a57543197ec7c0307e1b8e5089e61b5dfc1a87ab8cf8f83b0d1bdd7dba21
+Description: Cydia Extender Installer With Extra Features
+Name: Ext3nder Installer
 Author: julioverne
 Homepage: http://twitter.com/ijulioverne
 
