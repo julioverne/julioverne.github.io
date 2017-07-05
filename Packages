@@ -478,3 +478,19 @@ Author: julioverne
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/fmydBlockerSettings.bundle/icon@2x.png
 
+Package: com.julioverne.headsetbtsound
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta
+Depends: mobilesubstrate
+Filename: ./com.julioverne.headsetbtsound_0.0~beta_iphoneos-arm.deb
+Size: 4326
+MD5sum: 654f9c77b8d9efdd9a82714971a2cd34
+SHA1: c88d9674b461a3f9125de1b38613b4bfa953f18d
+SHA256: dedb45997341d296eb62be1d0bfa04c41249997d388b0c496a4df2e3acc3fa7b
+Description: Use Bluetooth HFP Headset in Apps like BT Headphones
+Name: HeadsetBTSound
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
