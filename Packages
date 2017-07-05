@@ -1,0 +1,480 @@
+Package: com.julioverne.gravity
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.5
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.gravity_0.5_iphoneos-arm.deb
+Size: 148116
+MD5sum: 87c89ac9f439b7b5b5a1bea94dd7f842
+SHA1: 3b4bb2e6b43435391dc020924dd7c48a8c31253f
+SHA256: 53770560c634c12b55ac71734194b015effc18659b436cb4ad2f52681bdc222d
+Description: Graviboard alternative
+Name: Gravity
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+
+Package: com.julioverne.kbmover
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Depends: mobilesubstrate
+Filename: ./com.julioverne.kbmover_0.0~beta1_iphoneos-arm.deb
+Size: 20432
+MD5sum: 032b2b5493b1561b0a6c5d3f62f4ef5f
+SHA1: 5f5617c01ebe6115619aa072b967a32a610fd259
+SHA256: 6aa727a86baa345f59dd53d1432fe6bde16fc88ee8a383afd6fe4dc55d119470
+Description: Move your Keyboard on Screen
+Name: KBMover
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
+
+Package: com.julioverne.mcast
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./com.julioverne.mcast_0.0~beta2_iphoneos-arm.deb
+Size: 180088
+MD5sum: 3b1593019a937f2c7540954f7c7cbbb5
+SHA1: d789a3c54cddaf2c51f082737701c723a3d4bf70
+SHA256: 835497cd7bd07129cd141cfbdfe24ac2decf14dbc89109b048a00bdd9e663199
+Description: Chromecast from Music App... Cast Music from Now Playing View. tested in Chromecast model 2014
+Name: mCast
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.mibandalert
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0.4
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: com.pigigaldi.mibandutility
+Filename: ./com.julioverne.mibandalert_0.0.4_iphoneos-arm.deb
+Size: 89246
+MD5sum: 3dfe6d21698bc21087cde387cf51499e
+SHA1: 2c290bed7a2750356280dd48b826ac2dd07e2431
+SHA256: 1bff0eb018ecc49319d1195a949f6bd4f878be004c80ef64e8fd2e6fb231f6e7
+Description: System Notification XiaoMi Mi Band for iOS.
+Name: MiBand Alert
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MiBandAlertSettings.bundle/MiBandAlert@2x.png
+
+Package: com.julioverne.mimport
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta17
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./com.julioverne.mimport_0.0~beta17_iphoneos-arm.deb
+Size: 417786
+MD5sum: 014800d9f312d69e3479b2f273b28733
+SHA1: 9f792aafb421c2c4711cd79e0aff029d1af887ad
+SHA256: 1f3b8876bb3df7afce5ef56fbc96043b47cbc2f9d2b70cd546a7e4549f9b4cb6
+Description: Import Media directly from Music App
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+
+Package: com.julioverne.musicv
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta2-0
+Depends: mobilesubstrate
+Filename: ./com.julioverne.musicv_0.0~beta2-0_iphoneos-arm.deb
+Size: 30496
+MD5sum: 26373d0abd59e3e8d706789cbe40420d
+SHA1: 312a834a4d10526a0ed30173db9d05ddfbd7bca8
+SHA256: c2bd5da893d26345f3937381f7772d89464feeabdd70f6ce4e1f8e02fcf39f82
+Description: Better Now Playing View in Music App
+Name: MusicV
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.musilyric
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.5~beta3
+Depends: mobilesubstrate
+Filename: ./com.julioverne.musilyric_0.5~beta3_iphoneos-arm.deb
+Size: 35210
+MD5sum: db8ab4c40ae0e47b36a3b2231bd55626
+SHA1: afab2e58530eb0c7a6a27614fcf21d95f60930f9
+SHA256: 7df18e45e913583027974f472cdf7bd51387f6d05146f1100821983dc852d804
+Description: Best Lyrics Music
+Name: MusiLyric
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.ncgroup
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta11
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.ncgroup_0.0~beta11_iphoneos-arm.deb
+Size: 62880
+MD5sum: 716a55c5a83bcfc41c49c088408a1b70
+SHA1: 44981c59e501519f8f975467f8eb88c9fd3f82d7
+SHA256: f406926302203678a1cbb029222cf1c8b93968092fc5628a08a86612d9ce340f
+Description: Group Notification Center items
+Name: NCGroup
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/NCGroup.bundle/icon@2x.png
+
+Package: com.julioverne.nonceset
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.2
+Filename: ./com.julioverne.nonceset_0.2_iphoneos-arm.deb
+Size: 58162
+MD5sum: 5a13cbbbc49db4864a3e792bb48a24b2
+SHA1: 49f779bf2e75c8c0633b30b04c52e56660e35c94
+SHA256: b9f0e048fe5efa16c9bc6a8fec7cf20b4f36694f2f2b0a0e247af68e8b26a8dd
+Description: Manage boot-nonce easy.
+Name: NonceSet
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.ntspeed
+Section: Tweaks
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Architecture: iphoneos-arm
+Version: 0.2~beta3
+Depends: firmware (>= 6.0), mobilesubstrate
+Filename: ./com.julioverne.ntspeed_0.2~beta3_iphoneos-arm.deb
+Size: 21092
+MD5sum: ed34f675f61d165678dff1ac491d2132
+SHA1: 42361dc7e7e0b5ca87c1b0b418e045df6da0e920
+SHA256: 2f2ee7af8e9767952a6f0bca1cc533d9e85b62d5ea1f4d0063b22e98be0d0b3b
+Description: See Active Traffic Network Speed
+Name: NtSpeed
+Author: julioverne <jlio_verne@hotmail.com>
+Depiction: http://modmyi.com/info/ntspeed.d.php
+Homepage: http://modmyi.com/info/ntspeed.php
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.julioverne.otablocker
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.1
+Filename: ./com.julioverne.otablocker_0.1_iphoneos-arm.deb
+Size: 5248
+MD5sum: 396324e6fba7ce9e3e9b6a452310411a
+SHA1: c18491d0de8250beb0f9cea611f59f151c85ddfa
+SHA256: ec3415621aa7b67b9f0f895b36a064e597a56237800eb0be8831ef05dc03555b
+Description: Block iOS OTA Updates
+Name: OTABlocker
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.pipenabler
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.2
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./com.julioverne.pipenabler_0.2_iphoneos-arm.deb
+Size: 51296
+MD5sum: c52ba449a3dbb61fb4e2e0c1e5d77aaf
+SHA1: 2c3f8b6b0532bf96fa23b354787863ea71d4392d
+SHA256: f49c1ee43ced46211237953f3b5c6ecd7d7d08ae738acd41a65e1df3e1f80597
+Description: Enabler Picture In Picture Feature
+Name: PIPEnabler
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
+
+Package: com.julioverne.sftpenabler
+Section: Networking
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: openssl, firmware (>> 9)
+Conflicts: openssh
+Filename: ./com.julioverne.sftpenabler_0.1_iphoneos-arm.deb
+Size: 34276
+MD5sum: 97927ef051eca29958e0a0ab89f8e57f
+SHA1: 758c62bccd22926b56dbe283863064a579a7bc33
+SHA256: 357ea749ac603f01bd6791810742262217a12cfcc44fd7a6b12b84098f192631
+Description: SFTP connection for SSH Dropbear in iOS 10
+Name: SFTPEnabler
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.trustdevalert
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./com.julioverne.trustdevalert_0.1-1_iphoneos-arm.deb
+Size: 9328
+MD5sum: 938f2e2a382c4cc4c47b3cf4e68bdce1
+SHA1: 759abfaf36380813e917a37e49236f29660333bb
+SHA256: 8e901247098d5cda23a35629180d2a23326f39bcd4e496dd7599fe023efe38c8
+Description: Add Trust Button In Alert Of Free Developer Profile Not Trusted.
+Name: trustDevAlert
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.uicachefix10
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: uikittools (= 1.1.12)
+Filename: ./com.julioverne.uicachefix10_0.1_iphoneos-arm.deb
+Size: 758
+MD5sum: 55ac95dd7aae7ac1bf90a7a3dae6175f
+SHA1: 7d725c4489ae8d5b87f70fd6dca8efa1a9691a80
+SHA256: 1e96a724f088634431085c88c742368ba6afc93269bd9448fd4e89b014da1cf1
+Description: Temp Fix uicache in iOS 10 by setting chmod 4755 in uicache and preventing Substrate loading intro uicache.
+Name: uicache Fix
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.widplayer
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 3.5.3
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./com.julioverne.widplayer_3.5.3_iphoneos-arm.deb
+Size: 210874
+MD5sum: 3264bb2f6eba68d1591b119edea4ed09
+SHA1: 15fda30839c25f8719ac9a2ccfd752b4d34214b4
+SHA256: 70990e74e566e93385ceba79ad788f3fd45afd25281ea2f0dd2b47a236b1ecbc
+Description: Music Widget In Screen
+Name: WidPlayer
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/WidPlayer.bundle/icon@2x.png
+
+Package: com.julioverne.adblock
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.2~beta1
+Depends: mobilesubstrate
+Filename: ./com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
+Size: 9990
+MD5sum: 62e4c0515c0a1b39c15c9abfc0bb6e6d
+SHA1: 2797f64e2a3e71879cbf71059a1a9f482bf8e320
+SHA256: d2c883da06fe98cbbcb5d9b0e0ba30ab8edcb90b18f7c2091d9444b2585f0cda
+Description: ADs Blocker for Apps.. Note: may not load page or app crash.
+Name: ADs Blocker
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.bgmodekill
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta
+Depends: firmware (>= 6.0), firmware (<< 11.0), mobilesubstrate
+Filename: ./com.julioverne.bgmodekill_0.0~beta_iphoneos-arm.deb
+Size: 8274
+MD5sum: d1d1456ba80dff98a73809b1690251b6
+SHA1: 057c6b01caa37076025fc7437f650b117c3a7ad6
+SHA256: c31c618c8cf3a3bb5011324354040687d1bc6223df129fd3bfece8e239071973
+Description: Kill Auto-Launch Background Apps Some Apps has Auto-Launch Background whem system start or remove from multitask (like Mail/WhatsApp App) with this will disable Auto-Launch Background in All Apps. No options to Configure.
+Name: BGModeKill
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.biotap
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: mobilesubstrate, firmware (>= 10)
+Filename: ./com.julioverne.biotap_0.1_iphoneos-arm.deb
+Size: 5550
+MD5sum: d83e164db7a3ed3cf8cbf96388c4518a
+SHA1: f96896572fb3055314d92f04a2be25dfb534f216
+SHA256: 301b7b942fb7c3a0b4cc1d8bbf6112aaeba2a292e8cd1eb59dc05e2ddaf1eea7
+Description: Bio Authenticated Auto Tap to Unlock
+Name: BioTap
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.blightalert
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta3
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.blightalert_0.0~beta3_iphoneos-arm.deb
+Size: 55100
+MD5sum: 5eec4a7ecf85ccbbdb489260a485b7dd
+SHA1: a027aea395d41cad6045184870541e2a536fd453
+SHA256: 1db2e1fcf87693008574d384152a79b487b50a87eefa1818dce573ebbe230ba3
+Description: Use Brightness As Alert
+Name: BLightAlert
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.celldia
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Depends: mobilesubstrate, cydia
+Filename: ./com.julioverne.celldia_0.0~beta4_iphoneos-arm.deb
+Size: 31518
+MD5sum: 7d00db75997a7bd459de926b3304f475
+SHA1: 75d361e008c5729e25a56ef1a446dcb9eb6aa99d
+SHA256: 33f54b9deca95932af09f8ef39deba3d94a9e51069425c7923af0adf257ed5cc
+Description: Redesigned Cell Cydia
+Name: CellDia
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.chargemode
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta3
+Depends: mobilesubstrate
+Filename: ./com.julioverne.chargemode_0.0~beta3_iphoneos-arm.deb
+Size: 23252
+MD5sum: 059821a1eea05fdbd74a2353ece82360
+SHA1: e8ab41c40f328853dea9174878b8f19b144faae9
+SHA256: 36df424f624f773d12c9144431061fb4eaa4075118c5f93af111d25a90343851
+Description: Lite Charging View with Batt Dots and Hour.
+Name: ChargeMode
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.cypush
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.7
+Depends: firmware (>= 6.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.cypush_0.7_iphoneos-arm.deb
+Size: 144170
+MD5sum: 7a926d004038f8302ba2303a50f270ef
+SHA1: 82ed8c186b2304f17f93961980f59a96afa886e7
+SHA256: b087e545dfbca7e7acd5747f48b0726ae508e3406b63dce762e087f33b98434b
+Description: Cydia Push Notifications Background
+Name: CyPush
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+
+Package: com.julioverne.cypush2
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: firmware (>= 7.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cypush
+Filename: ./com.julioverne.cypush2_1.0_iphoneos-arm.deb
+Size: 114360
+MD5sum: 22978281e0f708ebac9ddd6919fcec35
+SHA1: 0548d51c979b4416182b17deb3a72d224424985b
+SHA256: 9d97b66e3a8b47bf2fd5677434b31de910e945b35a0c0d7489d72e71b7b123eb
+Description: Cydia Push Notifications Background
+Name: CyPush2
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+
+Package: com.julioverne.dropbearswith
+Section: Addons (Flipswitch)
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.3
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 10)
+Filename: ./com.julioverne.dropbearswith_0.3_iphoneos-arm.deb
+Size: 22472
+MD5sum: bd9ba302749a1abee7090b08ec4e536f
+SHA1: 072ffe0efe5f299e19268f2d3804f7e307f32566
+SHA256: ce871e527191ae75b6356249d2f17f7ce88156727691e0b3abb84287955cf004
+Description: SSH Toogle for Dropbear via Flipswitch in iOS 10
+Name: DropbearSwitch
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.ext3nder-installer
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 012
+Depends: mobilesubstrate
+Pre-Depends: ldid, curl, unzip, coreutils, zip
+Conflicts: com.julioverne.ext3nder
+Filename: ./com.julioverne.ext3nder-installer_012_iphoneos-arm.deb
+Size: 419520
+MD5sum: 6ccc714a7a5e7f3ce0e57e9a193d1c5b
+SHA1: ccb20a465e91feefaf7c782f8eda87568571b139
+SHA256: fb89a7f87aca5b045623b03fb003435b1b74c959269b4b119274b394f1229814
+Description: Cydia Extender Installer With Extra Features
+Name: Ext3nder Installer
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.fastuprepo
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64
+Filename: ./com.julioverne.fastuprepo_0.0~beta4_iphoneos-arm.deb
+Size: 7776
+MD5sum: 48befe074d66d228240ed9bdbba5a2eb
+SHA1: 5782dbf369e484965fea62993e3f538a5b223405
+SHA256: 6575d318120effb95fb217a20644ffc551e0d06e724b4ef7b0abc41c3fa55c9b
+Description: SpeedUp Cydia Update Sources by blocking download translation.
+Name: fastUpRepo
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.fiona
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.fiona_0.1_iphoneos-arm.deb
+Size: 48950
+MD5sum: c2dd8688bbfae7755fdd04f61fe3f03c
+SHA1: a6204ec0f7a2bb70e9f5fa898ab703795c63e613
+SHA256: 1a876038a71e3286082302b0bfeb9856f4d2f10912434e8e7c425a8978aa5422
+Description: Keep WiFi Always Connected
+Name: Fiona
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
+
+Package: com.julioverne.fmydblocker
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.fmydblocker_0.0~beta1_iphoneos-arm.deb
+Size: 32790
+MD5sum: 14aebc62b0a425ea0df11219c1a4d5f4
+SHA1: 4905ab7016e9c896bf38918257158b77177bcfbb
+SHA256: 1b6a54b2811aeaa18d163ac87279755b9e513b63953b27a59dd43995b76b8876
+Description: Find My iPhone Block Remote Actions via iCloud, Configure From Settings
+Name: fmydBlocker
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/fmydBlockerSettings.bundle/icon@2x.png
+
