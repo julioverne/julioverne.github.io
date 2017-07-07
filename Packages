@@ -66,23 +66,6 @@ Author: julioverne <julioverne@me.com>
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/MiBandAlertSettings.bundle/MiBandAlert@2x.png
 
-Package: com.julioverne.mimport
-Section: Tweaks
-Maintainer: Julio
-Architecture: iphoneos-arm
-Version: 0.0~beta17
-Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./com.julioverne.mimport_0.0~beta17_iphoneos-arm.deb
-Size: 417786
-MD5sum: 014800d9f312d69e3479b2f273b28733
-SHA1: 9f792aafb421c2c4711cd79e0aff029d1af887ad
-SHA256: 1f3b8876bb3df7afce5ef56fbc96043b47cbc2f9d2b70cd546a7e4549f9b4cb6
-Description: Import Media directly from Music App
-Name: MImport
-Author: julioverne <julioverne@me.com>
-Homepage: http://twitter.com/ijulioverne
-Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
-
 Package: com.julioverne.musicv
 Section: Tweaks
 Maintainer: Julio
@@ -493,4 +476,21 @@ Description: Cydia Extender Installer With Extra Features
 Name: Ext3nder Installer
 Author: julioverne
 Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.mimport
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta18
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./com.julioverne.mimport_0.0~beta18_iphoneos-arm.deb
+Size: 297876
+MD5sum: 0c9481456b8231634cd032079c9c3e93
+SHA1: 71b0e200c43a6d69f361d1669672e5d67daea879
+SHA256: 2dad3172a17100741c2c7472c7f2c4d350b2c36e7c72538e8813d14622be3b5b
+Description: Import Media Directly From Music App
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 
