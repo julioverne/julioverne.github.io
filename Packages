@@ -481,13 +481,13 @@ Package: com.julioverne.mimport
 Section: Tweaks
 Maintainer: Julio
 Architecture: iphoneos-arm
-Version: 0.0~beta19
+Version: 0.0~beta20
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./com.julioverne.mimport_0.0~beta19_iphoneos-arm.deb
-Size: 299582
-MD5sum: 34ca8aca873bc25866bb1507382bc2f6
-SHA1: adcd981d51bc22672aa4d5d8e58041c9c067b8a6
-SHA256: 0e95a2bd62195025d3a83bb4825e6913a0a1fef3d0395744c9096a799d4420c6
+Filename: ./com.julioverne.mimport_0.0~beta20_iphoneos-arm.deb
+Size: 300254
+MD5sum: 8b03870dc4610bc5dc10f5b56209ac12
+SHA1: 8fdac1320b806d11312c6c5a06451c6b4bed1a95
+SHA256: c90ed5ab571e5c8f77f816d8f56fd2ef77418525edd54f06cec439e67e89a798
 Description: Import Media Directly From Music App
 Name: MImport
 Author: julioverne <julioverne@me.com>
