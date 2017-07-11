@@ -115,21 +115,6 @@ Author: julioverne <julioverne@me.com>
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/NCGroup.bundle/icon@2x.png
 
-Package: com.julioverne.nonceset
-Section: Utilities
-Maintainer: Julio
-Architecture: iphoneos-arm
-Version: 0.2
-Filename: ./com.julioverne.nonceset_0.2_iphoneos-arm.deb
-Size: 58162
-MD5sum: 5a13cbbbc49db4864a3e792bb48a24b2
-SHA1: 49f779bf2e75c8c0633b30b04c52e56660e35c94
-SHA256: b9f0e048fe5efa16c9bc6a8fec7cf20b4f36694f2f2b0a0e247af68e8b26a8dd
-Description: Manage boot-nonce easy.
-Name: NonceSet
-Author: julioverne
-Homepage: http://twitter.com/ijulioverne
-
 Package: com.julioverne.ntspeed
 Section: Tweaks
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
@@ -493,4 +478,19 @@ Name: MImport
 Author: julioverne <julioverne@me.com>
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+
+Package: com.julioverne.nonceset
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.3
+Filename: ./com.julioverne.nonceset_0.3_iphoneos-arm.deb
+Size: 81138
+MD5sum: a84ef28414aa5337e0a8a92629d8f1a3
+SHA1: 3e70f8e01139db3f4b03e4c52f92563e712f8c2c
+SHA256: 0dab85162cde4960481b9ab75da622c59bd087441c898079f93f379b699add19
+Description: Manage boot-nonce easy.
+Name: NonceSet
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
 
