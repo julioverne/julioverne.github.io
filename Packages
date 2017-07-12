@@ -462,23 +462,6 @@ Name: Ext3nder Installer
 Author: julioverne
 Homepage: http://twitter.com/ijulioverne
 
-Package: com.julioverne.mimport
-Section: Tweaks
-Maintainer: Julio
-Architecture: iphoneos-arm
-Version: 0.0~beta20
-Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./com.julioverne.mimport_0.0~beta20_iphoneos-arm.deb
-Size: 300254
-MD5sum: 8b03870dc4610bc5dc10f5b56209ac12
-SHA1: 8fdac1320b806d11312c6c5a06451c6b4bed1a95
-SHA256: c90ed5ab571e5c8f77f816d8f56fd2ef77418525edd54f06cec439e67e89a798
-Description: Import Media Directly From Music App
-Name: MImport
-Author: julioverne <julioverne@me.com>
-Homepage: http://twitter.com/ijulioverne
-Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
-
 Package: com.julioverne.nonceset
 Section: Utilities
 Maintainer: Julio
@@ -493,4 +476,21 @@ Description: Manage boot-nonce easy.
 Name: NonceSet
 Author: julioverne
 Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.mimport
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.0~beta21
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./com.julioverne.mimport_0.0~beta21_iphoneos-arm.deb
+Size: 313476
+MD5sum: 8a783818a2a110d185282983317813be
+SHA1: ecaea0e63c4c047ced9ea0683e4e699896bc1e9d
+SHA256: 63c1102d82b5bc53f845065d18197c81f1cb60622cb87df49a433489b826f789
+Description: Import Media Directly From Music App
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 
