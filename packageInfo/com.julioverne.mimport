@@ -1,0 +1,8 @@
+{
+	"name": "MImport",
+	"desc_short": "Import Music/Video directly from Music App",
+	"desc_long": "✔️ Supported Audio files: mp3, m4a, m4r, aac, wav, aif, aiff, aifc, caf, amr<br>✔️ Supported Video files: mp4, m4v, mov, 3gp<br>✔️ Edit Tags before Import.<br>✔️ Select Multiples files to Import.<br>✔️ Import m4a/m4r as Ringtone.<br>✔️ Import Media Via Documents Share/Open In App<br>✔️ URL Schema to Import Media<br>✔️ One Click to Fetch Artwork, Metadatas<br><br>URL Schema like this:music:///mimport?path=/var/mobile/music_to_import.mp3",
+	"compatitle": "iOS 6 through 10",
+	"changelog": "<strong>0.0~beta12</strong><br>+ Support Import Video/Music from Camera Roll and Mail Attachments via Share/Open In<br>+ Some Bug Fix<br><strong>0.0~beta10</strong><br>+ One Click to Fetch Artwork, Metadatas<br><strong>0.0~beta8</strong><br>+ New Import Media Via Documents Share/Open In App<br>+ New URL Schema to Import Media like: ( music:///mimport?path=/var/mobile/music_to_import.mp3 )<br>+ Some Bug Fix<br><strong>0.0~beta6</strong><br>+ Root Access (bypass Sandbox protection)<br><strong>0.0~beta5</strong><br>+ Add Support Audio formats: aac, wav, aif, aiff, aifc, caf, amr<br>+ Add Support Video formats: mov, 3gp<br><strong>0.0~beta4</strong><br>+ Added iOS 6 Support.<br>+ Select Multiples files to Import.<br><strong>0.0~beta3</strong><br>+ Edit Artwork<br>+ Set Media Type as: Song, Video, TV episode or Ringtone<br>+ Support Audio m4r<br><strong>0.0~beta2</strong><br>+ Add Support Video formats: mp4, m4v<br><strong>0.0~beta1</strong><br>+ Edit Music Tags before Import<br>+ Now no requires Wi-Fi connection.<br><strong>0.0~beta</strong><br>+ Initial Release<br>",
+	"screenshot": null,
+}
