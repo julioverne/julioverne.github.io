@@ -1,0 +1,8 @@
+{
+	"name": "NonceSet",
+	"desc_short": "Manage boot-nonce easy.",
+	"desc_long": "✔️ Set/Change/Delete boot-nonce from an simple App.<br>✔️ Save/Restore boot-nonce from your Dropbox Account.<br>✔️ View device ECID in Decimal and Hexadecimal.",
+	"compatitle": "iOS 9 & 10",
+	"changelog": "<strong>0.3</strong><br>+ Add Dropbox Save/Restore nonce.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/D46OeEA.png' target='_blank'><img width=95% src='http://i.imgur.com/D46OeEA.png'/></a><br></div>",
+}
