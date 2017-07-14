@@ -1,0 +1,8 @@
+{
+	"name": "CyPush",
+	"desc_short": "Cydia Push Notifications In Background",
+	"desc_long": "✔️ Receive Push Notifications from Cydia.<br>✔️ Configure to receive in New/Updates/Changes Packages.<br>✔️ Flipswitch Toggle for Manual Cydia Refresh.<br>✔️ Option to use in WiFi only.<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 7 through 10",
+	"changelog": "<strong>0.5</strong><br>+ iOS 10 Support.<br>",
+	"screenshot": null,
+}

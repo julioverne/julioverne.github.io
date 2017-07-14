@@ -1,0 +1,8 @@
+{
+	"name": "Fiona",
+	"desc_short": "Keep WiFi Always Connected",
+	"desc_long": "When device is locked WiFi goes disconnected. Fiona will allow device to keep WiFi always connected.<br><br>Configure Options from Settings.",
+	"compatitle": null,
+	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}

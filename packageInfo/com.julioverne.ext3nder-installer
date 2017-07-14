@@ -1,0 +1,8 @@
+{
+	"name": "Ext3nder Installer",
+	"desc_short": "Cydia Extender Installer With Extra Features",
+	"desc_long": "✔️ Auto-Sign Apps<br>✔️ Install .ipa Files with Apple Private API<br>✔️ Documents Manager<br>✔️ Revoke Certificates<br>✔️ WiFi Sharing<br>✔️ Manage Installed Apps<br>✔️ Rebuild Apps To .ipa<br><br>Configure Options from Ext3nder Settings.<br>",
+	"compatitle": "iOS 9 through 10 in arm64",
+	"changelog": "<strong>0.9.41_012</strong><br>+ Manage Profiles Inside Ext3nder.<br>+ Import File From iCloud Drive and Others Apps Inside Ext3nder.<br>",
+	"screenshot": null,
+}

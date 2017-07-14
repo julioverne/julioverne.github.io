@@ -1,0 +1,8 @@
+{
+	"name": "KBMover",
+	"desc_short": "Move your Keyboard on Screen",
+	"desc_long": null,
+	"compatitle": "iOS 7, 8 and 9",
+	"changelog": "<strong>0.0~beta1</strong><br>- Fix reset frame KB when press key.<br><strong>0.0~beta</strong><br>+ Initial Release<br>",
+	"screenshot": null,
+}

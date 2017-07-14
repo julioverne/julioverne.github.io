@@ -1,0 +1,8 @@
+{
+	"name": "CyPush2",
+	"desc_short": "Cydia Push Notifications In Background",
+	"desc_long": "For You That's Loving CyPush, CyPush2 has rewrite with Improvements In Battery Performance.<br><br>✔️ Receive Push Notifications from Cydia.<br>✔️ Configure to receive in New/Updates/Changes Packages.<br>✔️ Flipswitch Toggle for Manual Cydia Refresh.<br>✔️ Option to use in WiFi only.<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 7 through 10",
+	"changelog": "<strong>1.0</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}

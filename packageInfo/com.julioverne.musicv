@@ -1,0 +1,8 @@
+{
+	"name": "MusicV",
+	"desc_short": "Better Now Playing View in Music App",
+	"desc_long": "No Options to Configure.",
+	"compatitle": "iOS 9",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/1cI9zGh.jpg' target='_blank'><img width=95% src='http://i.imgur.com/1cI9zGh.jpg'/></a><br></div>",
+}

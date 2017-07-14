@@ -1,0 +1,8 @@
+{
+	"name": "Gravity",
+	"desc_short": "Graviboard alternative",
+	"desc_long": "Configure options from Settings.",
+	"compatitle": "iOS 7, 8 and 9",
+	"changelog": <strong>0.5</strong><br>+ Support iOS 9.3.x.<br><strong>0.3</strong><br>+ Angular Resistance of Icon.<br><strong>0.2</strong><br>+ Added a lot of customizable settings.<br>+ Anchor compatibility.<br>",
+	"screenshot": null,
+}
