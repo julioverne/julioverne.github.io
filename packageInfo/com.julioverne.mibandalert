@@ -4,5 +4,5 @@
 	"desc_long": "✔️ When you receive a push notification on iPhone your XiaoMi Mi Band will vibrate.<br>✔️ Enable Notification for all apps or for selected apps.<br><br>Guide Connection<br>1. Install 'Mi Fit' on AppStore.<br>2. Open 'Mi Fit' go to Settings MiBand on 'Mi Fit' and Enable Vibrate to Received Calls (to keep your  Mi Band payred with BlueTooth).<br>3. Test your Mi Band.<br><br>Configure options from Settings.",
 	"compatitle": "iOS 7, 8 and 9<br>Works on all Mi Band Models",
 	"changelog": "<strong>0.0.4</strong><br>- Activator Gestures;<br>- Device Low Battery Alert;<br><strong>0.0.3</strong><br>- Option to vibrate without Led;<br>",
-	"screenshot": "<div style='text-align:center;'><a href='miband_1.png' target='_blank'><img width=95% src='miband_1.png'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/WrKHSI1.png' target='_blank'><img width=95% src='http://i.imgur.com/WrKHSI1.png'/></a><br></div>",
 }
