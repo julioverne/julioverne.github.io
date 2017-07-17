@@ -231,6 +231,20 @@ Name: HeadsetBTSound
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.headsetbtsound
 
+Package: com.julioverne.jbme93xwebclip
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Utilities
+Maintainer: Julio
+Filename: ./com.julioverne.jbme93xwebclip_0.1_iphoneos-arm.deb
+Size: 371670
+MD5sum: 1180b797d4a1d85daf16377df97cb019
+Homepage: http://twitter.com/ijulioverne
+Description: Re-Active Pangu 9.3.x Jailbreak Offilne, Install JailbreakMe 9.3.x Webclip Profile 100% Offline.
+Name: JBMe 9.3.x Webclip
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.jbme93xwebclip
+
 Package: com.julioverne.kbmover
 Architecture: iphoneos-arm
 Version: 0.0~beta1
