@@ -1,0 +1,8 @@
+{
+	"name": "OTABlocker",
+	"desc_short": "Block iOS OTA Updates",
+	"desc_long": "Based in tvOS/WatchOS Beta profile, this will save to Settings Server thats check for updates... and will blocking any iOS OTA updates.",
+	"compatitle": "iOS 5 through 10",
+	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}

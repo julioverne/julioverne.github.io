@@ -1,0 +1,8 @@
+{
+	"name": "DropbearSwitch",
+	"desc_short": "SSH Toogle for Dropbear via Flipswitch in iOS 10",
+	"desc_long": "Enable/Disable SSH over Wi-Fi easy via Flipswitch.<br>iOS 10 have dropbear that's by default is only allowed SSH via usb cable, this allow you toggle between Wi-Fi & usb cable.",
+	"compatitle": "iOS 10",
+	"changelog": "<strong>0.3</strong><br>+ Remember Settings When you Reboot & Re-Jailbreak.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/CydXmG1.png' target='_blank'><img width=95% src='http://i.imgur.com/CydXmG1.png'/></a><br></div>",
+}

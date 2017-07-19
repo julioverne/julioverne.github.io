@@ -1,8 +1,6 @@
 function loadPackageInfo() {
-	var urlSelf = window.location.href;
-	var packageID = urlSelf.split('?id=')[1];
-	var form_url = urlSelf.split('description.html')[0] + "packageInfo/" + packageID;
-	$("#loader").show();
+	var urlSelfParts = window.location.href.split('description.html?id=');
+	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	$.ajax({
 		url: form_url,
 		type: "GET",
@@ -38,7 +36,7 @@ function loadPackageInfo() {
 			}
         },
 		error: function (err) {
-			$("#errorInfo").html("Description unavailable for "+packageID);
+			$("#errorInfo").html("Description unavailable for "+urlSelfParts[1]);
 		}
 	});
 }

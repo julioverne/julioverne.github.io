@@ -1,0 +1,8 @@
+{
+	"name": "fastUpRepo",
+	"desc_short": "SpeedUp Cydia Update Sources by blocking download translation.",
+	"desc_long": "Fast Up Cydia Refresh Repo by blocking Translatioin & /InRelase Requests.<br><br>If you have a lot of Sources speed up will drastically notable.",
+	"compatitle": "iOS 5 through 10",
+	"changelog": "<strong>0.0~beta4</strong><br>+ Better Detection.<br>",
+	"screenshot": null,
+}

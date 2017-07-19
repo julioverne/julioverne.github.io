@@ -1,0 +1,8 @@
+{
+	"name": "fmydBlocker",
+	"desc_short": "Find My iPhone Block Remote Actions via iCloud",
+	"desc_long": "fmydBlocker will block actions from iCloud Server (https://www.icloud.com/)<br><br>Can block:<br>- Erease iPhone;<br>- Play Sound;<br>- Lost Mode;<br>- Location;<br><br>Reboot after install.<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 9, 10",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/S1710KP.jpg' target='_blank'><img width=95% src='http://i.imgur.com/S1710KP.jpg'/></a><br></div>",
+}
