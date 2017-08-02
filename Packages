@@ -261,6 +261,22 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kbmover
 
+Package: com.julioverne.lockdroid
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.lockdroid_0.0~beta1_iphoneos-arm.deb
+Size: 76822
+MD5sum: 459a0ed07527aaba261581a641484604
+Homepage: http://twitter.com/ijulioverne
+Description: Android Lockscreen
+Name: LockDroid
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/LockDroidSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroid
+
 Package: com.julioverne.mcast
 Architecture: iphoneos-arm
 Version: 0.0~beta2
