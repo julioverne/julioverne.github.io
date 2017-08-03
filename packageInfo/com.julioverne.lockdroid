@@ -2,7 +2,7 @@
 	"name": "LockDroid",
 	"desc_short": "Android Lockscreen",
 	"desc_long": "Requires Device Passcode Enabled.<br><br>Configure Options from Settings.",
-	"compatitle": "iOS 10",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"compatitle": "iOS 7, 8, 9, 10",
+	"changelog": "<strong>0.0~beta3</strong><br>+ Add Support iOS 7, 8, 9.<br>+ Option for Attempt Error.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/KUeCshE.png' target='_blank'><img width=95% src='https://i.imgur.com/KUeCshE.png'/></a><br></div>",
 }

@@ -263,13 +263,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kbmove
 
 Package: com.julioverne.lockdroid
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.lockdroid_0.0~beta2_iphoneos-arm.deb
-Size: 76840
-MD5sum: 54885fdf5ddb8b55c901143af2a59506
+Filename: ./com.julioverne.lockdroid_0.0~beta3_iphoneos-arm.deb
+Size: 78880
+MD5sum: a21070af296c01709c71b5250e292c9d
 Homepage: http://twitter.com/ijulioverne
 Description: Android Lockscreen
 Name: LockDroid
