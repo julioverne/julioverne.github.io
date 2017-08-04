@@ -1,0 +1,8 @@
+{
+	"name": "BLightAlert",
+	"desc_short": "Use Brightness As Alert",
+	"desc_long": "Use Brightness Level As Alert.<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 7, 8, 9, 10",
+	"changelog": "<strong>0.0~beta4</strong><br>+ Support iOS 10.<br>",
+	"screenshot": null,
+}

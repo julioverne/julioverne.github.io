@@ -45,13 +45,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.biotap
 
 Package: com.julioverne.blightalert
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.blightalert_0.0~beta3_iphoneos-arm.deb
-Size: 55136
-MD5sum: 1401ac1525e940a6eb5024cc96c3e571
+Filename: ./com.julioverne.blightalert_0.0~beta4_iphoneos-arm.deb
+Size: 39614
+MD5sum: f4c813a2c6b0519406f14c4f1fbab657
 Homepage: http://twitter.com/ijulioverne
 Description: Use Brightness As Alert
 Name: BLightAlert
