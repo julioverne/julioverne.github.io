@@ -1,0 +1,8 @@
+{
+	"name": "HeySiri",
+	"desc_short": "Hey Siri While Not Charging",
+	"desc_long": "Hey Siri Feature is Only Available if device is plugged to external power source, HeySiri will allow you to use when your device is not connected to external power source.<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 10",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
