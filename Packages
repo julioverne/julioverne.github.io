@@ -200,6 +200,22 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/fmydBlockerSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fmydblocker
 
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.goodwifi_0.0~beta1_iphoneos-arm.deb
+Size: 38240
+MD5sum: 3d03974c8d4a01e2b63c18a860136a8e
+Homepage: http://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+
 Package: com.julioverne.gravity
 Architecture: iphoneos-arm
 Version: 0.5

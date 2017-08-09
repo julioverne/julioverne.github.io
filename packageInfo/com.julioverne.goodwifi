@@ -1,0 +1,8 @@
+{
+	"name": "GoodWiFi",
+	"desc_short": "Better WiFi Preferences",
+	"desc_long": "Features:<br>- Remove RSSI Limit;<br>- Show Know Networks;<br>- Show Mac Address;<br><br><br>Configure Options from Settings.",
+	"compatitle": "iOS 10",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
