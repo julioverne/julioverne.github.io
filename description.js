@@ -18,6 +18,10 @@ function loadPackageInfo() {
 				$("#desc_short").html(decodeResp.desc_short);
 				$("#desc_short_").show();
 			}
+			if(decodeResp.warning) {
+				$("#warning").html(decodeResp.warning);
+				$("#warning_").show();
+			}
 			if(decodeResp.desc_long) {
 				$("#desc_long").html(decodeResp.desc_long);
 				$("#desc_long_").show();
