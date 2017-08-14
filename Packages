@@ -136,6 +136,21 @@ Name: DropbearSwitch
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.dropbearswith
 
+Package: com.julioverne.edgealert
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.edgealert_0.0~beta1_iphoneos-arm.deb
+Size: 19042
+MD5sum: 3d20c93dcf7c162357cdcec05881209c
+Homepage: http://twitter.com/ijulioverne
+Description: S8 Edge Alert
+Name: EdgeAlert
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.edgealert
+
 Package: com.julioverne.ext3nder-installer
 Architecture: iphoneos-arm
 Version: 012a
