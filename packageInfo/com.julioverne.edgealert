@@ -1,8 +1,8 @@
 {
 	"name": "EdgeAlert",
 	"desc_short": "S8 Edge Alert",
-	"desc_long": "No Options To Configure.",
+	"desc_long": "Configure Options From Settings.",
 	"compatitle": "iOS 7, 8, 9, 10",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>0.0~beta2</strong><br>+ Add Settings.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 }

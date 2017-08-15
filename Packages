@@ -138,13 +138,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.dropbe
 
 Package: com.julioverne.edgealert
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./com.julioverne.edgealert_0.0~beta1_iphoneos-arm.deb
-Size: 19042
-MD5sum: 3d20c93dcf7c162357cdcec05881209c
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./com.julioverne.edgealert_0.0~beta2_iphoneos-arm.deb
+Size: 51462
+MD5sum: 5e6745ce2b2e94ca4d7de3b6acccff14
 Homepage: http://twitter.com/ijulioverne
 Description: S8 Edge Alert
 Name: EdgeAlert
