@@ -1,0 +1,8 @@
+{
+	"name": "cmdsapp",
+	"desc_short": "bash command list installed apps..",
+	"desc_long": "\"getapplist\" or \"getapplist -id\" to show only id, \"getappdir com.something.something\" to get path of this app.<br><br>Requested in /r/TweakBounty by /u/kevinpavons",
+	"compatitle": null,
+	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
