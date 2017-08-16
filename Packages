@@ -88,6 +88,20 @@ Name: ChargeMode
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.chargemode
 
+Package: com.julioverne.cmdsapp
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Utilities
+Maintainer: Julio
+Filename: ./com.julioverne.cmdsapp_0.1_iphoneos-arm.deb
+Size: 8618
+MD5sum: 56883a7ab8d704fd7ce63c70f1c8c586
+Homepage: http://twitter.com/ijulioverne
+Description: bash command list installed apps.. (getapplist [-id], getappdir [APP_ID])
+Name: cmdsapp
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cmdsapp
+
 Package: com.julioverne.cypush2
 Architecture: iphoneos-arm
 Version: 1.0
