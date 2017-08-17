@@ -135,6 +135,21 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cypush
 
+Package: com.julioverne.dropbearalert
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.dropbearalert_0.0~beta1_iphoneos-arm.deb
+Size: 53006
+MD5sum: 5135be1f3b62885618498616ea0c54ec
+Homepage: http://twitter.com/ijulioverne
+Description: Dropbear System Login Alert for iOS 10
+Name: DropbearAlert
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.dropbearalert
+
 Package: com.julioverne.dropbearswith
 Architecture: iphoneos-arm
 Version: 0.3

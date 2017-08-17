@@ -1,0 +1,8 @@
+{
+	"name": "DropbearAlert",
+	"desc_short": "Dropbear System Login Alert",
+	"desc_long": "Configure Options In DropbearAlert App from HomeScreen.",
+	"compatitle": "iOS 10",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
