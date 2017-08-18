@@ -368,6 +368,21 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroid
 
+Package: com.julioverne.lowerinstall
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.lowerinstall_0.0~beta1_iphoneos-arm.deb
+Size: 36918
+MD5sum: 416017be5383eda507abb12f27c542cc
+Homepage: http://twitter.com/ijulioverne
+Description: Install Apps In Lower iOS Version
+Name: LowerInstall
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lowerinstall
+
 Package: com.julioverne.mcast
 Architecture: iphoneos-arm
 Version: 0.0~beta2
