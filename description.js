@@ -1,4 +1,7 @@
 function loadPackageInfo() {
+	if (navigator.userAgent.search(/Cydia/) == -1) {
+		$("#showAddRepo_").show();
+	}
 	var urlSelfParts = window.location.href.split('description.html?id=');
 	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	$.ajax({
