@@ -553,6 +553,21 @@ Name: SFTPEnabler
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpenabler
 
+Package: com.julioverne.siriifpossible
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.siriifpossible_0.0~beta1_iphoneos-arm.deb
+Size: 8758
+MD5sum: 256ebb05c7325d2d964c27deb05ae228
+Homepage: http://twitter.com/ijulioverne
+Description: If Siri Unavailable Use Voice Control
+Name: SiriIfPossible
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.siriifpossible
+
 Package: com.julioverne.trustdevalert
 Architecture: iphoneos-arm
 Version: 0.1-1

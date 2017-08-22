@@ -1,0 +1,8 @@
+{
+	"name": "SiriIfPossible",
+	"desc_short": "If Siri Unavailable Use Voice Control",
+	"desc_long": "<br>No Options To Configure.",
+	"compatitle": "iOS 10",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
