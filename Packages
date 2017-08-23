@@ -58,6 +58,22 @@ Name: BLightAlert
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.blightalert
 
+Package: com.julioverne.cachewipe
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Addons (Flipswitch)
+Maintainer: Julio
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./com.julioverne.cachewipe_0.0~beta1_iphoneos-arm.deb
+Size: 17176
+MD5sum: 78cfdabc3bd5e8d556b103597f1d1857
+Homepage: http://twitter.com/ijulioverne
+Description: Clear Apps Caches Switch
+Name: CacheWipe
+Author: julioverne
+Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cachewipe
+
 Package: com.julioverne.celldia
 Architecture: iphoneos-arm
 Version: 0.0~beta4
