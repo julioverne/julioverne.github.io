@@ -324,13 +324,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.headse
 
 Package: com.julioverne.heysiri
 Architecture: iphoneos-arm
-Version: 0.0~beta4
+Version: 0.0~beta5
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.heysiri_0.0~beta4_iphoneos-arm.deb
-Size: 103410
-MD5sum: 2ae3c14ffd9c09bda8d29ef5bd3a8eb8
+Filename: ./com.julioverne.heysiri_0.0~beta5_iphoneos-arm.deb
+Size: 103364
+MD5sum: a5cc4fc03051ab62d9160554f93853c8
 Homepage: http://twitter.com/ijulioverne
 Description: Hey Siri While Not Charging
 Name: HeySiri
