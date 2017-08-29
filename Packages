@@ -386,13 +386,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdr
 
 Package: com.julioverne.lowerinstall
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.lowerinstall_0.0~beta2_iphoneos-arm.deb
-Size: 38878
-MD5sum: 6f36b78c2977b13825acfc6bce017836
+Filename: ./com.julioverne.lowerinstall_0.0~beta3_iphoneos-arm.deb
+Size: 39614
+MD5sum: 375d896161131f0c85ad4ed7ba79792c
 Homepage: http://twitter.com/ijulioverne
 Description: Install Apps In Lower iOS Version
 Name: LowerInstall

@@ -1,6 +1,16 @@
+
+function iOSVersion() {
+	var match = (navigator.appVersion).split('OS ');
+	if (match.length > 1) {
+		return match[1].split(' ')[0].split('_').join('.');
+	}
+	return false;
+}
+
 function loadPackageInfo() {
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
+		$("#showAddRepoUrl_").show();
 	}
 	var urlSelfParts = window.location.href.split('description.html?id=');
 	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
@@ -32,6 +42,11 @@ function loadPackageInfo() {
 			if(decodeResp.compatitle) {
 				$("#compatitle").html(decodeResp.compatitle);
 				$("#compatitle_").show();
+				var ios_ver = iOSVersion();
+				if(ios_ver) {
+					$("#your_ios").show();
+					$("#your_ios").html("Current iOS: "+ios_ver);
+				}
 			}
 			if(decodeResp.changelog) {
 				$("#changelog").html(decodeResp.changelog);
