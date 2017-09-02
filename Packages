@@ -368,15 +368,29 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kbmover
 
+Package: com.julioverne.lockdroiddonuts
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Themes
+Maintainer: Julio
+Filename: ./com.julioverne.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
+Size: 178432
+MD5sum: ef34fa0ab5fec723693676eeefcba969
+Homepage: http://twitter.com/ijulioverne
+Description: Donuts Theme For LockDroid
+Name: Donuts LockDroid
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroiddonuts
+
 Package: com.julioverne.lockdroid
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./com.julioverne.lockdroid_0.0~beta3_iphoneos-arm.deb
-Size: 78880
-MD5sum: a21070af296c01709c71b5250e292c9d
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./com.julioverne.lockdroid_0.0~beta4_iphoneos-arm.deb
+Size: 98998
+MD5sum: c1605dcfb8d6f3c9afa102598efcadee
 Homepage: http://twitter.com/ijulioverne
 Description: Android Lockscreen
 Name: LockDroid
