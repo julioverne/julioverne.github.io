@@ -338,6 +338,22 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/HeySiriSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.heysiri
 
+Package: com.julioverne.jailprotect
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.jailprotect_0.0~beta1_iphoneos-arm.deb
+Size: 45348
+MD5sum: 73e59c060536a25fdfb66154cfc5ae01
+Homepage: http://twitter.com/ijulioverne
+Description: No Substrate Mode Alternative
+Name: JailProtect
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/JailProtectSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.jailprotect
+
 Package: com.julioverne.jbme93xwebclip
 Architecture: iphoneos-arm
 Version: 0.1

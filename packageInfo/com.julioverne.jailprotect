@@ -1,0 +1,8 @@
+{
+	"name": "JailProtect",
+	"desc_short": "No Substrate Mode Alternative",
+	"desc_long": "Disable Cydia Substrate In Selected User Apps For Trying Prevent Jailbreak Detect.<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 10",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
