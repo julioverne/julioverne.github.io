@@ -340,13 +340,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.heysir
 
 Package: com.julioverne.jailprotect
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.jailprotect_0.0~beta2_iphoneos-arm.deb
-Size: 46180
-MD5sum: e926beb9fd9c9291da3f86eb7cce553e
+Filename: ./com.julioverne.jailprotect_0.0~beta3_iphoneos-arm.deb
+Size: 49180
+MD5sum: a06ed1ee453ccfc8d8f1cecd81c584b3
 Homepage: http://twitter.com/ijulioverne
 Description: No Substrate Mode Alternative
 Name: JailProtect
