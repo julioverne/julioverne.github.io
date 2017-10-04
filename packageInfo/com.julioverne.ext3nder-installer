@@ -4,6 +4,6 @@
 	"desc_long": "✔️ Auto-Sign Apps<br>✔️ Install .ipa Files with Apple Private API<br>✔️ Documents Manager<br>✔️ Revoke Certificates<br>✔️ WiFi Sharing<br>✔️ Manage Installed Apps<br>✔️ Rebuild Apps To .ipa<br><br>Configure Options from Ext3nder Settings.<br>",
 	"compatitle": "iOS 9 through 10 in arm64",
 	"warning": "Non arm64 Users, Cydia Extender needs to be compiled to support armv7, u need wait a possible update from saurik.",
-	"changelog": "<strong>013</strong><br>+ Activator Support.<br>+ Flipswitch Toggle.<br>",
+	"changelog": "<strong>014</strong><br>+ More Detailed Error When Manage Account.<br><strong>013</strong><br>+ Activator Support.<br>+ Flipswitch Toggle.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/sfzFo6O.png' target='_blank'><img width=95% src='http://i.imgur.com/sfzFo6O.png'/></a><br></div>",
 }
