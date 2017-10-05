@@ -3,6 +3,6 @@
 	"desc_short": "Import Media Directly From Music App",
 	"desc_long": "✔️ Supported Audio files: mp3, m4a, m4r, aac, wav, aif, aiff, aifc, caf, amr<br>✔️ Supported Video files: mp4, m4v, mov, 3gp<br>✔️ Edit Tags before Import.<br>✔️ Select Multiples files to Import.<br>✔️ Import m4a/m4r as Ringtone.<br>✔️ Import Media Via Documents Share/Open In App<br>✔️ URL Schema to Import Media<br>✔️ One Click to Fetch Artwork, Metadatas<br><br>URL Schema like this:music:///mimport?path=/var/mobile/music_to_import.mp3",
 	"compatitle": "iOS 6 through 10",
-	"changelog": "<strong>0.0~beta27</strong><br>- Bug Fix.<br><strong>0.0~beta26</strong><br>+ Support Extract Zip/Rar Files.<br>",
+	"changelog": "<strong>0.0~beta28</strong><br>+ History Last Access Section.<br><strong>0.0~beta27</strong><br>- Bug Fix.<br><strong>0.0~beta26</strong><br>+ Support Extract Zip/Rar Files.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/yLZ7HkP.png' target='_blank'><img width=95% src='http://i.imgur.com/yLZ7HkP.png'/></a><br></div>",
 }
