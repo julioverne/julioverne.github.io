@@ -1,0 +1,8 @@
+{
+	"name": "TW280",
+	"desc_short": "Twitter 280 Character Enabler",
+	"desc_long": "Tweet 280 Character in Twitter App.",
+	"compatitle": "Twitter App",
+	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
