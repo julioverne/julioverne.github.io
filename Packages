@@ -525,12 +525,12 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ncgrou
 
 Package: com.julioverne.nonceset
 Architecture: iphoneos-arm
-Version: 0.3
+Version: 0.4
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.nonceset_0.3_iphoneos-arm.deb
-Size: 81174
-MD5sum: e5564eaa99c04c5977b5dbae9338e832
+Filename: ./com.julioverne.nonceset_0.4_iphoneos-arm.deb
+Size: 79690
+MD5sum: 40f3d68e9145c3d3fff7ce743c555249
 Homepage: http://twitter.com/ijulioverne
 Description: Manage boot-nonce easy.
 Name: NonceSet
