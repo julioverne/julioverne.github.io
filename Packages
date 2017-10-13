@@ -198,15 +198,15 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.edgeal
 
 Package: com.julioverne.ext3nder-installer
 Architecture: iphoneos-arm
-Version: 014
+Version: 015
 Section: Utilities
 Maintainer: Julio
 Pre-Depends: ldid, unzip, coreutils, zip, sed
 Depends: mobilesubstrate
 Conflicts: com.julioverne.ext3nder
-Filename: ./com.julioverne.ext3nder-installer_014_iphoneos-arm.deb
-Size: 566544
-MD5sum: fdf43461bf1289af1d7cc0d871dca833
+Filename: ./com.julioverne.ext3nder-installer_015_iphoneos-arm.deb
+Size: 573720
+MD5sum: daf70ec786a2fd5bb17aae8fe2fef214
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Extender Installer With Extra Features
 Name: Ext3nder Installer
