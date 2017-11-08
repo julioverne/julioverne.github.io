@@ -614,6 +614,21 @@ Name: SiriIfPossible
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.siriifpossible
 
+Package: com.julioverne.slackhistory
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.slackhistory_0.1_iphoneos-arm.deb
+Size: 12972
+MD5sum: 20db36287293d11f620b45a3d8c462a1
+Homepage: http://twitter.com/ijulioverne
+Description: Slack See Edited Message History
+Name: SlackHistory
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.slackhistory
+
 Package: com.julioverne.trustdevalert
 Architecture: iphoneos-arm
 Version: 0.1-1
