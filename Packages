@@ -646,13 +646,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.trustd
 
 Package: com.julioverne.tw280
 Architecture: iphoneos-arm
-Version: 0.1a
+Version: 0.2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.tw280_0.1a_iphoneos-arm.deb
-Size: 5824
-MD5sum: f73478c14b4a10c23ff357497db08dab
+Filename: ./com.julioverne.tw280_0.2_iphoneos-arm.deb
+Size: 5914
+MD5sum: e7323832b8368edc6f66109b2ef22907
 Homepage: http://twitter.com/ijulioverne
 Description: Twitter 280 Character Enabler
 Name: TW280
