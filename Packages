@@ -629,6 +629,21 @@ Name: SlackHistory
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.slackhistory
 
+Package: com.julioverne.tb280
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.tb280_0.1_iphoneos-arm.deb
+Size: 6834
+MD5sum: c0da27b590285894554c816e3b1f85b0
+Homepage: http://twitter.com/ijulioverne
+Description: Tweetbot 3/4 280 Character Enabler
+Name: TB280
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.tb280
+
 Package: com.julioverne.trustdevalert
 Architecture: iphoneos-arm
 Version: 0.1-1
