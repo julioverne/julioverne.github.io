@@ -616,13 +616,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.siriif
 
 Package: com.julioverne.slackhistory
 Architecture: iphoneos-arm
-Version: 0.1b
+Version: 0.1c
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.slackhistory_0.1b_iphoneos-arm.deb
-Size: 15490
-MD5sum: daf4fee6fec86a116b27ec046eec7a4a
+Filename: ./com.julioverne.slackhistory_0.1c_iphoneos-arm.deb
+Size: 15480
+MD5sum: f67af1064dd443f4a1fa6eb007f398f4
 Homepage: http://twitter.com/ijulioverne
 Description: Slack See Edited Message History
 Name: SlackHistory
