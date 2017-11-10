@@ -631,15 +631,15 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.slackh
 
 Package: com.julioverne.tb280
 Architecture: iphoneos-arm
-Version: 0.1
+Version: 0.2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.tb280_0.1_iphoneos-arm.deb
-Size: 6834
-MD5sum: c0da27b590285894554c816e3b1f85b0
+Filename: ./com.julioverne.tb280_0.2_iphoneos-arm.deb
+Size: 7072
+MD5sum: 366d035a20640c76f7953b0a36c2974c
 Homepage: http://twitter.com/ijulioverne
-Description: Tweetbot 3/4 280 Character Enabler
+Description: Tweetbot 280 Character Enabler
 Name: TB280
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.tb280

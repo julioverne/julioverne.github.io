@@ -1,8 +1,8 @@
 {
 	"name": "TB280",
-	"desc_short": "Tweetbot 3/4 280 Character Enabler",
-	"desc_long": "Tweet 280 Character in Tweetbot 3/4 App.",
-	"compatitle": "Tweetbot 3/4 App",
-	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"desc_short": "Tweetbot 280 Character Enabler",
+	"desc_long": "Tweet 280 Character in Tweetbot App.",
+	"compatitle": "Tweetbot App",
+	"changelog": "<strong>0.2</strong><br>+ Tweetbot 2 Support.<br><strong>0.1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 }
