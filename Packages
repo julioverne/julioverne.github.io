@@ -118,6 +118,21 @@ Name: cmdsapp
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cmdsapp
 
+Package: com.julioverne.coverflowm
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./com.julioverne.coverflowm_0.1_iphoneos-arm.deb
+Size: 112794
+MD5sum: dc1d863a330852a0d4630103183550d3
+Homepage: http://twitter.com/ijulioverne
+Description: Landscape Music Styles for Music App
+Name: CoverflowM
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.coverflowm
+
 Package: com.julioverne.cypush2
 Architecture: iphoneos-arm
 Version: 1.0
