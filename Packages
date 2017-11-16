@@ -120,13 +120,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cmdsap
 
 Package: com.julioverne.coverflowm
 Architecture: iphoneos-arm
-Version: 0.1a
+Version: 0.1b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./com.julioverne.coverflowm_0.1a_iphoneos-arm.deb
-Size: 139674
-MD5sum: a90f3f326ff3a8e0428a3109a5ab535e
+Filename: ./com.julioverne.coverflowm_0.1b_iphoneos-arm.deb
+Size: 167876
+MD5sum: 521115f193c938e1f8a6bbf40ff6efdf
 Homepage: http://twitter.com/ijulioverne
 Description: Landscape Music Styles for Music App
 Name: CoverflowM
