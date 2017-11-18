@@ -5,9 +5,13 @@ function iOSVersion() {
 	}
 	return false;
 }
-function showDnt() {
-    alert("You can donate USD via PayPal mail: julioverne"+"@"+"icloud.com");
-}
+$(function() {
+  $("li").on("click",function() {
+	  if(this.id=="dnt") {
+		  alert("You can donate USD via PayPal mail: julioverne"+"@"+"icloud.com");
+	  }
+  });
+});
 function loadPackageInfo() {
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
