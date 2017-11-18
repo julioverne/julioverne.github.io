@@ -1,4 +1,3 @@
-
 function iOSVersion() {
 	var match = (navigator.appVersion).split('OS ');
 	if (match.length > 1) {
@@ -6,7 +5,9 @@ function iOSVersion() {
 	}
 	return false;
 }
-
+function showDnt() {
+    alert("You can donate USD via PayPal mail: julioverne"+"@"+"icloud.com");
+}
 function loadPackageInfo() {
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();

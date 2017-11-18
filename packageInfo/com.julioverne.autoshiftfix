@@ -1,0 +1,8 @@
+{
+	"name": "AutoShiftFix",
+	"desc_short": "No shift when delete capitalized letter",
+	"desc_long": "No Options To Configure.",
+	"compatitle": null,
+	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}

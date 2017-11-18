@@ -13,6 +13,21 @@ Name: ADs Blocker
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
 
+Package: com.julioverne.autoshiftfix
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.autoshiftfix_0.1_iphoneos-arm.deb
+Size: 3632
+MD5sum: e9ae0ad96261c402cd32c0cf30ce15c1
+Homepage: http://twitter.com/ijulioverne
+Description: No shift when delete capitalized letter
+Name: AutoShiftFix
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.autoshiftfix
+
 Package: com.julioverne.bgmodekill
 Architecture: iphoneos-arm
 Version: 0.0~beta
