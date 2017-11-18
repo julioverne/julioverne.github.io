@@ -8,7 +8,7 @@ function iOSVersion() {
 $(function() {
   $("li").on("click",function() {
 	  if(this.id=="dnt") {
-		  alert("You can donate USD via PayPal mail: julioverne"+"@"+"icloud.com");
+		  $("#dnt_txt").html("You can donate USD via PayPal mail: julioverne"+"@"+"icloud.com");
 	  }
   });
 });
