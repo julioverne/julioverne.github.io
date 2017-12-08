@@ -307,13 +307,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fmydbl
 
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.goodwifi_0.0~beta2_iphoneos-arm.deb
-Size: 45246
-MD5sum: 7f3309a8ffd3ee54f780933b9de9fa1f
+Filename: ./com.julioverne.goodwifi_0.0~beta3_iphoneos-arm.deb
+Size: 45928
+MD5sum: 011f211fb7c2e50d88c9266201595e1f
 Homepage: http://twitter.com/ijulioverne
 Description: Better WiFi Preferences
 Name: GoodWiFi
