@@ -15,13 +15,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.artworkify
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.artworkify_0.0~beta1_iphoneos-arm.deb
-Size: 17638
-MD5sum: 8c0f63e069655fa540ad831310d0868a
+Filename: ./com.julioverne.artworkify_0.0~beta2_iphoneos-arm.deb
+Size: 22062
+MD5sum: 495a5eff62b698170046530d7a0cb60f
 Homepage: http://twitter.com/ijulioverne
 Description: Spotify Artwork In Playlist
 Name: Artworkify
