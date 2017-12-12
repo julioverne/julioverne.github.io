@@ -15,13 +15,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.artworkify
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.artworkify_0.0~beta3_iphoneos-arm.deb
-Size: 25826
-MD5sum: 65aa207e54a9b7d766a745fe82059274
+Filename: ./com.julioverne.artworkify_0.0~beta4_iphoneos-arm.deb
+Size: 26648
+MD5sum: 19b346c1ba2e49529c24ee4dcea649d4
 Homepage: http://twitter.com/ijulioverne
 Description: Spotify Artwork In Playlist
 Name: Artworkify
@@ -521,6 +521,21 @@ Name: MImport
 Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
+
+Package: com.julioverne.mshuffle
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.mshuffle_0.0~beta1_iphoneos-arm.deb
+Size: 7134
+MD5sum: 3e9f3f8e4ba806f164c063647617e776
+Homepage: http://twitter.com/ijulioverne
+Description: Music Album End Playing Go To Shuffle.. Music App
+Name: MShuffle
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mshuffle
 
 Package: com.julioverne.musicv
 Architecture: iphoneos-arm
