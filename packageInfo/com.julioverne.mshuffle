@@ -1,7 +1,7 @@
 {
 	"name": "MShuffle",
-	"desc_short": "Music Album End Playing Go To Shuffle.. Music App",
-	"desc_long": null,
+	"desc_short": "Music Album End Playing Hit Play To Shuffle.. Music App",
+	"desc_long": "when an album finished playing, you could hit the play button on the lock screen or headset and it would play the rest of your music on shuffle. Apple seemed to have removed this functionality.",
 	"compatitle": "iOS 10",
 	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
