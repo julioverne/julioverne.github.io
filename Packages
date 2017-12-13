@@ -385,13 +385,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.heysir
 
 Package: com.julioverne.hotspotting
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Addons (Flipswitch)
 Maintainer: Julio
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
-Filename: ./com.julioverne.hotspotting_0.0~beta1_iphoneos-arm.deb
-Size: 15452
-MD5sum: 82da6df9f0ce7c3f3020938d8840cb45
+Filename: ./com.julioverne.hotspotting_0.0~beta2_iphoneos-arm.deb
+Size: 16628
+MD5sum: c42d26b65ded94b65021b88175c8575f
 Homepage: http://twitter.com/ijulioverne
 Description: Hotspot Switch Enhanced
 Name: Hotspotting
