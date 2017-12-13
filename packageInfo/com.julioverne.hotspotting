@@ -1,0 +1,8 @@
+{
+	"name": "Hotspotting",
+	"desc_short": "Hotspot Switch Enhanced",
+	"desc_long": "WiFi hotspot to become discoverable When Device is Locked.<br><br>Enable/Disable via Flipswitch Toggle or Activator Actions.",
+	"compatitle": "iOS 9, 10",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}

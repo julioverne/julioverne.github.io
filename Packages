@@ -383,6 +383,22 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/HeySiriSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.heysiri
 
+Package: com.julioverne.hotspotting
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Addons (Flipswitch)
+Maintainer: Julio
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./com.julioverne.hotspotting_0.0~beta1_iphoneos-arm.deb
+Size: 15452
+MD5sum: 82da6df9f0ce7c3f3020938d8840cb45
+Homepage: http://twitter.com/ijulioverne
+Description: Hotspot Switch Enhanced
+Name: Hotspotting
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/HotspottingSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hotspotting
+
 Package: com.julioverne.jailprotect
 Architecture: iphoneos-arm
 Version: 0.0~beta4a
