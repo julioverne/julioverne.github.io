@@ -540,13 +540,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimpor
 
 Package: com.julioverne.mshuffle
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.mshuffle_0.0~beta3_iphoneos-arm.deb
-Size: 32408
-MD5sum: 2530be96de21b01ae23bc925b78c4b99
+Filename: ./com.julioverne.mshuffle_0.0~beta4_iphoneos-arm.deb
+Size: 36360
+MD5sum: 952e38aef5190722b4d40b0c57fb80ef
 Homepage: http://twitter.com/ijulioverne
 Description: Music Album End Playing Hit Play To Shuffle.. Music App
 Name: MShuffle
