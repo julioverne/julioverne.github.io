@@ -1,0 +1,8 @@
+{
+	"name": "mCast",
+	"desc_short": "Chromecast from Music App",
+	"desc_long": "Cast Music from Now Playing View. tested in Chromecast model 2014",
+	"compatitle": "iOS 10",
+	"changelog": "<strong>0.0~beta3</strong><br>+ Better Detect Chromecast.<br><strong>0.0~beta1</strong><br>+ Initial Release<br>",
+	"screenshot": null,
+}

@@ -492,13 +492,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.loweri
 
 Package: com.julioverne.mcast
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./com.julioverne.mcast_0.0~beta2_iphoneos-arm.deb
-Size: 180118
-MD5sum: 9b5a4ec2eab0695afa90e1221d438183
+Filename: ./com.julioverne.mcast_0.0~beta3_iphoneos-arm.deb
+Size: 180046
+MD5sum: e89afa453b20f9340ff6f39ca1b16400
 Homepage: http://twitter.com/ijulioverne
 Description: Chromecast from Music App... Cast Music from Now Playing View. tested in Chromecast model 2014
 Name: mCast
