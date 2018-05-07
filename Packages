@@ -781,3 +781,18 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/WidPlayer.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.widplayer
 
+Package: com.julioverne.ytnoautoplay
+Architecture: iphoneos-arm
+Version: 0.0~beta
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.ytnoautoplay_0.0~beta_iphoneos-arm.deb
+Size: 10520
+MD5sum: 960028f77d01c6908856870396e0de98
+Homepage: http://twitter.com/ijulioverne
+Description: YouTube Disable Autoplay Videos
+Name: YTNoAutoPlay
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ytnoautoplay
+
