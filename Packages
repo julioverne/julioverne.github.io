@@ -492,12 +492,12 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.loweri
 
 Package: com.julioverne.mbcache
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: ./com.julioverne.mbcache_0.0~beta1_iphoneos-arm.deb
-Size: 21606
-MD5sum: 8336fa60b32a3d305e8ee717aa63139c
+Filename: ./com.julioverne.mbcache_0.0~beta2_iphoneos-arm.deb
+Size: 21874
+MD5sum: 77c1cb1ba7a0d6963a068d59bd3aeaeb
 Homepage: http://twitter.com/ijulioverne
 Description: Video Buffer Cache System for MovieBox
 Name: MBCache
