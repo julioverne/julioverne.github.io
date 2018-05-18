@@ -1,0 +1,8 @@
+{
+	"name": "MBCache",
+	"desc_short": "Video Buffer Cache System for MovieBox",
+	"desc_long": "lets you real buffer cache video by downloadding video and put in file buffer cache, and player will request bytes thats need to play direct to file buffer cache.<br><br>if you seeker at time that's is not buffered player will wait until this part is buffered and will play..<br><br>one time in buffer you can Close Player or Close App or Seeker to any time this will work. MovieBox by default has buffer catalog menu list that's recently viewed, so video buffer will play without network too.<br><br>file cache buffer of video like is format: [MovieBoxAPP_SANDBOX_DIR]/Library/Caches/BufferCache/[videoId][videoResolution].mp4<br><br>some times iOS can clean Caches path of any app if no memory left in device.",
+	"compatitle": "MovieBox App",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+}
