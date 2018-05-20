@@ -43,6 +43,20 @@ Name: AutoShiftFix
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.autoshiftfix
 
+Package: com.julioverne.avcache
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./com.julioverne.avcache_0.0~beta1_iphoneos-arm.deb
+Size: 24712
+MD5sum: 69d09293ecc15355c7cef88fb570bba7
+Homepage: http://twitter.com/ijulioverne
+Description: Video Buffer System for AVPlayer
+Name: AVCache
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.avcache
+
 Package: com.julioverne.bgmodekill
 Architecture: iphoneos-arm
 Version: 0.0~beta
