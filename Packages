@@ -490,20 +490,6 @@ Name: LowerInstall
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lowerinstall
 
-Package: com.julioverne.mbcache
-Architecture: iphoneos-arm
-Version: 0.0~beta3
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: ./com.julioverne.mbcache_0.0~beta3_iphoneos-arm.deb
-Size: 24704
-MD5sum: dcd5b3ef63cd58fd2fd893b23621a65d
-Homepage: http://twitter.com/ijulioverne
-Description: Video Buffer Cache System for MovieBox
-Name: MBCache
-Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mbcache
-
 Package: com.julioverne.mcast
 Architecture: iphoneos-arm
 Version: 0.0~beta3
