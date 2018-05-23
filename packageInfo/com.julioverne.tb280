@@ -5,4 +5,5 @@
 	"compatitle": "Tweetbot App",
 	"changelog": "<strong>0.2</strong><br>+ Tweetbot 2 Support.<br><strong>0.1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
+	"open": true,
 }

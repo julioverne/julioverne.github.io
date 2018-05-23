@@ -5,4 +5,5 @@
 	"compatitle": "iOS 9, 10",
 	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
+	"open": true,
 }

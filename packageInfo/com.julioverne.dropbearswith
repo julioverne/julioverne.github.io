@@ -5,4 +5,5 @@
 	"compatitle": "iOS 10",
 	"changelog": "<strong>0.3</strong><br>+ Remember Settings When you Reboot & Re-Jailbreak.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/CydXmG1.png' target='_blank'><img width=95% src='http://i.imgur.com/CydXmG1.png'/></a><br></div>",
+	"open": true,
 }

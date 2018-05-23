@@ -61,6 +61,10 @@ function loadPackageInfo() {
 				$("#screenshot").html(decodeResp.screenshot);
 				$("#screenshot_").show();
 			}
+			if(decodeResp.open == true) {
+				$("#is_open_source_").show();
+			}
+			
         },
 		error: function (err) {
 			$("#errorInfo").html("Description unavailable for "+urlSelfParts[1]);

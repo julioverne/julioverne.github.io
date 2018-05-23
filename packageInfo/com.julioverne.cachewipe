@@ -5,4 +5,5 @@
 	"compatitle": "iOS 10",
 	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/LxHYTCX.jpg' target='_blank'><img width=95% src='https://i.imgur.com/LxHYTCX.jpg'/></a><br></div>",
+	"open": true,
 }

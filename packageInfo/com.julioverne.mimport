@@ -5,4 +5,5 @@
 	"compatitle": "iOS 6 through 10",
 	"changelog": "<strong>0.0~beta31</strong><br>+ Favorites section.<br><strong>0.0~beta30</strong><br>+ Import from Dropbox.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/yLZ7HkP.png' target='_blank'><img width=95% src='http://i.imgur.com/yLZ7HkP.png'/></a><br></div>",
+	"open": true,
 }

@@ -5,4 +5,5 @@
 	"compatitle": "iOS 8, 9 and 10",
 	"changelog": "<strong>3.5.3</strong><br>+ Minimal Mode.<br>+ iOS 10 Support.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/jxMGwmc.jpg' target='_blank'><img width=95% src='http://i.imgur.com/jxMGwmc.jpg'/></a><br></div>",
+	"open": true,
 }

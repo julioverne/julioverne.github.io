@@ -3,6 +3,7 @@
 	"desc_short": "Video Buffer System for AVPlayer",
 	"desc_long": "Enhancer Buffer of Online Video in AVPlayer part of AVFoundation.framework<br><br>Compatible with Some Apps that's use AVPlayer.",
 	"compatitle": null,
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>0.0~beta2</strong><br>+ Fix Airplay After Buffer Complete.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
+	"open": true,
 }

@@ -5,4 +5,5 @@
 	"compatitle": "iOS 7, 8 and 9<br>Works on all Mi Band Models",
 	"changelog": "<strong>0.0.4</strong><br>- Activator Gestures;<br>- Device Low Battery Alert;<br><strong>0.0.3</strong><br>- Option to vibrate without Led;<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/WrKHSI1.png' target='_blank'><img width=95% src='http://i.imgur.com/WrKHSI1.png'/></a><br></div>",
+	"open": true,
 }

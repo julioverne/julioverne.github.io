@@ -5,4 +5,5 @@
 	"compatitle": "iOS 10",
 	"changelog": "<strong>0.0~beta5</strong><br>+ Fix Freeze when Enable/Disable.<br><strong>0.0~beta2</strong><br>+ Fix Crash when Enable/Disable.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
+	"open": true,
 }

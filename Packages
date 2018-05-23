@@ -45,12 +45,12 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.autosh
 
 Package: com.julioverne.avcache
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: ./com.julioverne.avcache_0.0~beta1_iphoneos-arm.deb
-Size: 24712
-MD5sum: 69d09293ecc15355c7cef88fb570bba7
+Filename: ./com.julioverne.avcache_0.0~beta2_iphoneos-arm.deb
+Size: 25508
+MD5sum: c213978abe7ab6810772976be5b7c6ca
 Homepage: http://twitter.com/ijulioverne
 Description: Video Buffer System for AVPlayer
 Name: AVCache
