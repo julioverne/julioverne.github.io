@@ -538,13 +538,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.miband
 
 Package: com.julioverne.mimport
 Architecture: iphoneos-arm
-Version: 0.0~beta31a
+Version: 0.0~beta32
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
-Filename: ./com.julioverne.mimport_0.0~beta31a_iphoneos-arm.deb
-Size: 414952
-MD5sum: 60de50566a7f5df7c2a0bc72a3b2c1a1
+Filename: ./com.julioverne.mimport_0.0~beta32_iphoneos-arm.deb
+Size: 415082
+MD5sum: aed298bbf7fb6c72527f27583f45ea65
 Homepage: http://twitter.com/ijulioverne
 Description: Media Importer Directly From Music App
 Name: MImport
@@ -584,13 +584,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musicv
 
 Package: com.julioverne.musilyric
 Architecture: iphoneos-arm
-Version: 0.5~beta3
+Version: 0.5~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.musilyric_0.5~beta3_iphoneos-arm.deb
-Size: 35240
-MD5sum: 8fe5ecfdd6146f6eeb3521e5396f1f58
+Filename: ./com.julioverne.musilyric_0.5~beta4_iphoneos-arm.deb
+Size: 24022
+MD5sum: 9cd777a0c4ab4a7d2c09cf67de81c25e
 Homepage: http://twitter.com/ijulioverne
 Description: Best Lyrics Music
 Name: MusiLyric
@@ -781,13 +781,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.uicach
 
 Package: com.julioverne.widplayer
 Architecture: iphoneos-arm
-Version: 3.5.3
+Version: 3.5.4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: ./com.julioverne.widplayer_3.5.3_iphoneos-arm.deb
-Size: 210902
-MD5sum: a22bada6828e573e926fda7a06be6e65
+Filename: ./com.julioverne.widplayer_3.5.4_iphoneos-arm.deb
+Size: 136852
+MD5sum: 24fe8751802a8512022e9e36c1b78227
 Homepage: http://twitter.com/ijulioverne
 Description: Music Widget In Screen
 Name: WidPlayer
