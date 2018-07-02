@@ -1,0 +1,9 @@
+{
+	"name": "HSBC Bypass",
+	"desc_short": "Jailbreak Detection Bypass for HSBC HK/UK/France Banking App.",
+	"desc_long": "Bypass Jailbreak Detection HSBC Banking App.",
+	"compatitle": "HSBC App",
+	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": false,
+}

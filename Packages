@@ -413,6 +413,21 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/HotspottingSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hotspotting
 
+Package: com.julioverne.hsbcbypass
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, org.coolstar.tweakinject | firmware (<< 11)
+Filename: ./com.julioverne.hsbcbypass_0.1_iphoneos-arm.deb
+Size: 15394
+MD5sum: 27a92184c4866ed2f91bd1f4c3071397
+Homepage: http://twitter.com/ijulioverne
+Description: Jailbreak Detection Bypass for HSBC HK/UK/France Banking App.
+Name: HSBC Bypass
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hsbcbypass
+
 Package: com.julioverne.jailprotect
 Architecture: iphoneos-arm
 Version: 0.0~beta4a
