@@ -15,13 +15,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.appstorenohistory
 Architecture: iphoneos-arm
-Version: 0.0~beta4
+Version: 0.0~beta4a
 Section: Tweaks
 Maintainer: Julio
-Depends: preferenceloader, mobilesubstrate, org.coolstar.tweakinject | firmware (<< 11)
-Filename: ./com.julioverne.appstorenohistory_0.0~beta4_iphoneos-arm.deb
-Size: 26366
-MD5sum: 8037db40ae0da8c25d2900df7c97ff26
+Depends: preferenceloader, mobilesubstrate
+Filename: ./com.julioverne.appstorenohistory_0.0~beta4a_iphoneos-arm.deb
+Size: 25984
+MD5sum: e63d0c1d544dff8a87aeace89b45c7c9
 Homepage: http://twitter.com/ijulioverne
 Description: Hide Apps Updated History
 Name: Appstore No History
@@ -31,13 +31,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appsto
 
 Package: com.julioverne.appstoreunrestrict
 Architecture: iphoneos-arm
-Version: 0.0~beta4
+Version: 0.0~beta4a
 Section: Tweaks
 Maintainer: Julio
-Depends: preferenceloader, mobilesubstrate, org.coolstar.tweakinject | firmware (<< 11)
-Filename: ./com.julioverne.appstoreunrestrict_0.0~beta4_iphoneos-arm.deb
-Size: 26552
-MD5sum: 0d7fdc1c9b8588f0bfc05fe29732f1ce
+Depends: preferenceloader, mobilesubstrate
+Filename: ./com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
+Size: 26200
+MD5sum: 669e6b1c112f3d59801b048a3adc3fa3
 Homepage: http://twitter.com/ijulioverne
 Description: No Download Size Limit In AppStore Over Cellular
 Name: Appstore Unrestrict
