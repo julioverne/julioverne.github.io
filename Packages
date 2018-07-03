@@ -447,13 +447,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hotspo
 
 Package: com.julioverne.hsbcbypass
 Architecture: iphoneos-arm
-Version: 0.2b
+Version: 0.3
 Section: Tweaks
 Maintainer: Julio
-Depends: mobilesubstrate, org.coolstar.tweakinject | firmware (<< 11)
-Filename: ./com.julioverne.hsbcbypass_0.2b_iphoneos-arm.deb
-Size: 15476
-MD5sum: 4861480b54e771815ae26c0aa5105540
+Depends: mobilesubstrate
+Filename: ./com.julioverne.hsbcbypass_0.3_iphoneos-arm.deb
+Size: 15228
+MD5sum: fe1f4a56a05abfb60b80bfdb8f84c82c
 Homepage: http://twitter.com/ijulioverne
 Description: Jailbreak Detection Bypass for HSBC HK/UK/France Banking App.
 Name: HSBC Bypass
