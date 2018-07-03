@@ -13,6 +13,22 @@ Name: ADs Blocker
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
 
+Package: com.julioverne.appstoreunrestrict
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate, org.coolstar.tweakinject | firmware (<< 11)
+Filename: ./com.julioverne.appstoreunrestrict_0.0~beta1_iphoneos-arm.deb
+Size: 26372
+MD5sum: 1ea9b5255358dc57f82eadec178e3262
+Homepage: http://twitter.com/ijulioverne
+Description: No Download Size Limit In AppStore Over Cellular
+Name: Appstore Unrestrict
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/AppstoreUnrestrictSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appstoreunrestrict
+
 Package: com.julioverne.artworkify
 Architecture: iphoneos-arm
 Version: 0.0~beta4
