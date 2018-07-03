@@ -13,6 +13,22 @@ Name: ADs Blocker
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
 
+Package: com.julioverne.appstorenohistory
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate, org.coolstar.tweakinject | firmware (<< 11)
+Filename: ./com.julioverne.appstorenohistory_0.0~beta1_iphoneos-arm.deb
+Size: 26148
+MD5sum: f52a8499c22dec7cc3fa6c6c73b7cc6a
+Homepage: http://twitter.com/ijulioverne
+Description: Hide Apps Updated History
+Name: Appstore No History
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appstorenohistory
+
 Package: com.julioverne.appstoreunrestrict
 Architecture: iphoneos-arm
 Version: 0.0~beta1

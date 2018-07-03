@@ -1,0 +1,9 @@
+{
+	"name": "Appstore No History",
+	"desc_short": "Hide Apps Updated History",
+	"desc_long": "Hide the long list of updated apps history from AppStore App.",
+	"compatitle": "iOS 10, 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release<br>",
+	"screenshot": null,
+	"open": true,
+}
