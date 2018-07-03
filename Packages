@@ -19,9 +19,9 @@ Version: 0.0~beta4a
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate
-Filename: ./com.julioverne.appstorenohistory_0.0~beta4a_iphoneos-arm.deb
-Size: 25984
-MD5sum: e63d0c1d544dff8a87aeace89b45c7c9
+Filename: ./com.julioverne.appstorenohistory_0.0~beta4b_iphoneos-arm.deb
+Size: 26082
+MD5sum: d1f2e8163610caf791a73fcf8ce3f3f0
 Homepage: http://twitter.com/ijulioverne
 Description: Hide Apps Updated History
 Name: Appstore No History
