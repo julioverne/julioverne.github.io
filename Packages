@@ -15,15 +15,15 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.appstorenohistory
 Architecture: iphoneos-arm
-Version: 0.0~beta5
+Version: 0.0~beta5a
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate
-Filename: ./com.julioverne.appstorenohistory_0.0~beta5_iphoneos-arm.deb
-Size: 26072
-MD5sum: 675d03d0691ba0ee8d546965acc92e89
+Filename: ./com.julioverne.appstorenohistory_0.0~beta5a_iphoneos-arm.deb
+Size: 26582
+MD5sum: 2f34789f49824c5453a14e5f226f0912
 Homepage: http://twitter.com/ijulioverne
-Description: Hide Apps Updated History
+Description: Clean Updated Apps History
 Name: Appstore No History
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
