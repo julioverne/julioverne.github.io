@@ -692,12 +692,12 @@ Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.julioverne.otablocker
 Architecture: iphoneos-arm
-Version: 0.1
+Version: 0.2
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.otablocker_0.1_iphoneos-arm.deb
-Size: 5280
-MD5sum: d25c0b05708076b8cf67373259c3c819
+Filename: ./com.julioverne.otablocker_0.2_iphoneos-arm.deb
+Size: 5826
+MD5sum: 280e84b8a8c21039114fd70c7c712837
 Homepage: http://twitter.com/ijulioverne
 Description: Block iOS OTA Updates
 Name: OTABlocker
