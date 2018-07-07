@@ -676,13 +676,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.nonces
 
 Package: com.julioverne.ntspeed
 Architecture: iphoneos-arm
-Version: 0.2~beta3
+Version: 0.2~beta4
 Section: Tweaks
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 6.0), mobilesubstrate
-Filename: ./com.julioverne.ntspeed_0.2~beta3_iphoneos-arm.deb
-Size: 21096
-MD5sum: 5f28678a178607419d562438c8397633
+Filename: ./com.julioverne.ntspeed_0.2~beta4_iphoneos-arm.deb
+Size: 9698
+MD5sum: 314fc738e5b1ae394a602110c8c91e87
 Homepage: http://modmyi.com/info/ntspeed.php
 Description: See Active Traffic Network Speed
 Name: NtSpeed
