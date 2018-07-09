@@ -1,0 +1,9 @@
+{
+	"name": "deb Repack",
+	"desc_short": "bash command to repack deb file",
+	"desc_long": "bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/",
+	"compatitle": null,
+	"changelog": "<strong>1.0-1a</strong><br>+ Adjust Compression Type to gzip.<br>",
+	"screenshot": null,
+	"open": true,
+}

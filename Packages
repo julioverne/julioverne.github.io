@@ -242,6 +242,21 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cypush
 
+Package: com.julioverne.debrepack
+Architecture: iphoneos-arm
+Version: 1.0-1a
+Section: Development
+Maintainer: Julio
+Depends: dpkg
+Filename: ./com.julioverne.debrepack_1.0-1a_iphoneos-arm.deb
+Size: 1176
+MD5sum: d20dcc8512cca79ae4f2418e13adb720
+Homepage: http://twitter.com/ijulioverne
+Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
+Name: deb Repack
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.debrepack
+
 Package: com.julioverne.dropbearalert
 Architecture: iphoneos-arm
 Version: 0.0~beta2
@@ -289,15 +304,15 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.edgeal
 
 Package: com.julioverne.ext3nder-installer
 Architecture: iphoneos-arm
-Version: 020
+Version: 020a
 Section: Utilities
 Maintainer: Julio
 Pre-Depends: ldid, unzip, coreutils, zip, sed
 Depends: mobilesubstrate
 Conflicts: com.julioverne.ext3nder
-Filename: ./com.julioverne.ext3nder-installer_020_iphoneos-arm.deb
-Size: 457914
-MD5sum: 6d8f3271ffe45983e9781b1785c2b731
+Filename: ./com.julioverne.ext3nder-installer_020a_iphoneos-arm.deb
+Size: 532732
+MD5sum: 25bd1428b9b031e907d581c1e33d9efa
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Extender Installer With Extra Features
 Name: Ext3nder Installer
@@ -676,13 +691,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.nonces
 
 Package: com.julioverne.ntspeed
 Architecture: iphoneos-arm
-Version: 0.2~beta4
+Version: 0.2~beta4a
 Section: Tweaks
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 6.0), mobilesubstrate
-Filename: ./com.julioverne.ntspeed_0.2~beta4_iphoneos-arm.deb
-Size: 9698
-MD5sum: 314fc738e5b1ae394a602110c8c91e87
+Filename: ./com.julioverne.ntspeed_0.2~beta4a_iphoneos-arm.deb
+Size: 12910
+MD5sum: 147c475fbfd1905c0e4516ec9d89dff2
 Homepage: http://modmyi.com/info/ntspeed.php
 Description: See Active Traffic Network Speed
 Name: NtSpeed
@@ -692,12 +707,12 @@ Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.julioverne.otablocker
 Architecture: iphoneos-arm
-Version: 0.2
+Version: 0.2a
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.otablocker_0.2_iphoneos-arm.deb
-Size: 5826
-MD5sum: 280e84b8a8c21039114fd70c7c712837
+Filename: ./com.julioverne.otablocker_0.2a_iphoneos-arm.deb
+Size: 5776
+MD5sum: 6a34e12c6763f7c848aa72fea1b0c3f1
 Homepage: http://twitter.com/ijulioverne
 Description: Block iOS OTA Updates
 Name: OTABlocker
