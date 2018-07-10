@@ -211,14 +211,14 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.coverf
 
 Package: com.julioverne.cypush2
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: Julio
-Depends: firmware (>= 7.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
+Depends: firmware (>= 7.0), firmware (<< 12.0), cydia, mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.cypush
-Filename: ./com.julioverne.cypush2_1.0_iphoneos-arm.deb
-Size: 114390
-MD5sum: 5faa5c0cf61a78430c754055a7d9d864
+Filename: ./com.julioverne.cypush2_1.1_iphoneos-arm.deb
+Size: 115070
+MD5sum: 57a80808493e9defc0ce4bf5aee2cc40
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Push Notifications Background
 Name: CyPush2
