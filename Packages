@@ -15,13 +15,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.appstorenohistory
 Architecture: iphoneos-arm
-Version: 0.0~beta6a
+Version: 0.0~beta7
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate
-Filename: ./com.julioverne.appstorenohistory_0.0~beta6a_iphoneos-arm.deb
-Size: 26752
-MD5sum: 2a481b697ee6d40d482cf85f570dd3ed
+Filename: ./com.julioverne.appstorenohistory_0.0~beta7_iphoneos-arm.deb
+Size: 26958
+MD5sum: 7a4829307ad4080f8f3a8e87763a172c
 Homepage: http://twitter.com/ijulioverne
 Description: Clean Updated Apps History
 Name: Appstore No History
