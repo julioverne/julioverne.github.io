@@ -691,19 +691,19 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.nonces
 
 Package: com.julioverne.ntspeed
 Architecture: iphoneos-arm
-Version: 0.2~beta5
+Version: 0.2~beta6
 Section: Tweaks
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Depends: firmware (>= 6.0), mobilesubstrate
-Filename: ./com.julioverne.ntspeed_0.2~beta5_iphoneos-arm.deb
-Size: 42240
-MD5sum: 5bd11d1ede8d5c70cea371f6b6742c83
-Homepage: http://modmyi.com/info/ntspeed.php
+Maintainer: Julio
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.ntspeed_0.2~beta6_iphoneos-arm.deb
+Size: 45492
+MD5sum: 7aa5a2b62407a9f73e58e9fd29d1fe45
+Homepage: http://twitter.com/ijulioverne
 Description: See Active Traffic Network Speed
 Name: NtSpeed
-Author: julioverne <jlio_verne@hotmail.com>
-Depiction: http://modmyi.com/info/ntspeed.d.php
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ntspeed
 
 Package: com.julioverne.otablocker
 Architecture: iphoneos-arm
