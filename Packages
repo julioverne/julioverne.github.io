@@ -350,6 +350,21 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fiona
 
+Package: com.julioverne.flipconvert
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>> 11.0)
+Filename: ./com.julioverne.flipconvert_0.0~beta1_iphoneos-arm.deb
+Size: 10064
+MD5sum: 23e777fdcaa08aebc3be6b829a136a00
+Homepage: http://twitter.com/ijulioverne
+Description: Port Flipswitch Toggles With CCSupport
+Name: FlipConvert
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.flipconvert
+
 Package: com.julioverne.flipstatus
 Architecture: iphoneos-arm
 Version: 0.0~beta1
