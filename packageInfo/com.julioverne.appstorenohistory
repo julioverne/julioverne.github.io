@@ -1,9 +1,9 @@
 {
 	"name": "Appstore No History",
 	"desc_short": "Clean Updated Apps History",
-	"desc_long": "Clean the long list of updated apps history from AppStore App.",
+	"desc_long": "Features:<p>- Update Hider;<br>- History List Remove;<p>Configure Options From Settings.",
 	"compatitle": "iOS 10, 11",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release<br>",
+	"changelog": "<strong>0.0~beta8</strong><br>+ Update Hider;<br><strong>0.0~beta1</strong><br>+ Initial Release<br>",
 	"screenshot": null,
 	"open": true,
 }
