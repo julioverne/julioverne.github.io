@@ -352,13 +352,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fiona
 
 Package: com.julioverne.flipconvert
 Architecture: iphoneos-arm
-Version: 0.0~beta4
+Version: 0.0~beta5
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
-Filename: ./com.julioverne.flipconvert_0.0~beta4_iphoneos-arm.deb
-Size: 11288
-MD5sum: a02721bf85ee84747bab6eb498b8db4d
+Filename: ./com.julioverne.flipconvert_0.0~beta5_iphoneos-arm.deb
+Size: 12096
+MD5sum: 693022ef5f547b74310d91b4c5493c5f
 Homepage: http://twitter.com/ijulioverne
 Description: Port Flipswitch Toggles With CCSupport
 Name: FlipConvert
