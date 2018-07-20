@@ -734,6 +734,21 @@ Name: OTABlocker
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.otablocker
 
+Package: com.julioverne.phonescroll
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./com.julioverne.phonescroll_0.0~beta1_iphoneos-arm.deb
+Size: 4094
+MD5sum: 62a98b9ec53d219ab231b13be2a8fd3d
+Homepage: http://twitter.com/ijulioverne
+Description: Tap In Selected Tap Bar For Scroll To Top
+Name: PhoneScroll
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.phonescroll
+
 Package: com.julioverne.pipenabler
 Architecture: iphoneos-arm
 Version: 0.2
