@@ -871,6 +871,21 @@ Name: uicache Fix
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.uicachefix10
 
+Package: com.julioverne.whilelotus
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.whilelotus_0.0~beta1_iphoneos-arm.deb
+Size: 8056
+MD5sum: 5119ca77d0065c5145b73467a17fb525
+Homepage: http://twitter.com/ijulioverne
+Description: Lotus Dark For Unthemed Icons
+Name: WhileLotus
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.whilelotus
+
 Package: com.julioverne.widplayer
 Architecture: iphoneos-arm
 Version: 3.5.4
