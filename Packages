@@ -873,13 +873,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.uicach
 
 Package: com.julioverne.whilelotus
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.whilelotus_0.0~beta2_iphoneos-arm.deb
-Size: 8826
-MD5sum: b957462f324961f848ca14172e1b6782
+Filename: ./com.julioverne.whilelotus_0.0~beta3_iphoneos-arm.deb
+Size: 9222
+MD5sum: 705985bd19c8092994fa23fb63949a1a
 Homepage: http://twitter.com/ijulioverne
 Description: Lotus Dark For Unthemed Icons
 Name: WhileLotus
