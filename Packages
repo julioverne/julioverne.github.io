@@ -536,6 +536,22 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kbmover
 
+Package: com.julioverne.lockanim
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.lockanim_0.0~beta1_iphoneos-arm.deb
+Size: 35774
+MD5sum: 0bff6559f5aba3704be39fc745ecb86b
+Homepage: http://twitter.com/ijulioverne
+Description: Lock Animations
+Name: LockAnim
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/LockAnimSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockanim
+
 Package: com.julioverne.lockdroiddonuts
 Architecture: iphoneos-arm
 Version: 0.0~beta1
