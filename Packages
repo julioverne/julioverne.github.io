@@ -152,13 +152,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cachew
 
 Package: com.julioverne.celldia
 Architecture: iphoneos-arm
-Version: 0.0~beta4
+Version: 0.0~beta5
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, cydia
-Filename: ./com.julioverne.celldia_0.0~beta4_iphoneos-arm.deb
-Size: 31552
-MD5sum: 306db56c2f20f888f55539d4978d6284
+Filename: ./com.julioverne.celldia_0.0~beta5_iphoneos-arm.deb
+Size: 20012
+MD5sum: 66397cc1ea555845371bf859725a419b
 Homepage: http://twitter.com/ijulioverne
 Description: Redesigned Cell Cydia
 Name: CellDia
