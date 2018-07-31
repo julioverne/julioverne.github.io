@@ -1,0 +1,9 @@
+{
+	"name": "CloseCam",
+	"desc_short": "Close/Kill Camera App When Exit",
+	"desc_long": "Some Users Report Background in Camera App, This Simply Lets You Auto Kill Camera App When You Dismiss Camera Application.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

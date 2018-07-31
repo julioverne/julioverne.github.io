@@ -180,6 +180,21 @@ Name: ChargeMode
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.chargemode
 
+Package: com.julioverne.closecam
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.closecam_0.0~beta1_iphoneos-arm.deb
+Size: 5024
+MD5sum: a2c3af8967eddaab6e1295ad38b7a500
+Homepage: http://twitter.com/ijulioverne
+Description: Close/Kill Camera App When Exit
+Name: CloseCam
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.closecam
+
 Package: com.julioverne.cmdsapp
 Architecture: iphoneos-arm
 Version: 0.1
