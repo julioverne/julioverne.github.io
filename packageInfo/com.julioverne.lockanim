@@ -3,7 +3,7 @@
 	"desc_short": "Lock Animations",
 	"desc_long": "Configure Options From Settings.",
 	"compatitle": "iOS 10, 11",
-	"changelog": "<strong>0.0~beta2</strong><br>+ Option For Speed.<br>+ Add Broken Effect.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>0.0~beta3</strong>+ Fade Blur Effect.<br><strong>0.0~beta2</strong><br>+ Option For Speed.<br>+ Add Broken Effect.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 	"open": true,
 }

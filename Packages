@@ -553,13 +553,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kbmove
 
 Package: com.julioverne.lockanim
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.lockanim_0.0~beta2_iphoneos-arm.deb
-Size: 46488
-MD5sum: fdafa0599ff8364b77f2586976c66ccb
+Filename: ./com.julioverne.lockanim_0.0~beta3_iphoneos-arm.deb
+Size: 47926
+MD5sum: 2f2dd95974d8646e8531787c8a3091a9
 Homepage: http://twitter.com/ijulioverne
 Description: Lock Animations
 Name: LockAnim
