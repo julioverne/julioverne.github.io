@@ -796,6 +796,21 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.pipenabler
 
+Package: com.julioverne.sbcard
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.sbcard_0.0~beta1_iphoneos-arm.deb
+Size: 5766
+MD5sum: 6455178d0e0fe1b1433216bd8543e2ba
+Homepage: http://twitter.com/ijulioverne
+Description: Add HomeScreen Card to Switcher, swipe up to close all apps.
+Name: SBCard
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sbcard
+
 Package: com.julioverne.sftpenabler
 Architecture: iphoneos-arm
 Version: 0.1
