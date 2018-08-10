@@ -737,6 +737,21 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/NCGroup.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ncgroup
 
+Package: com.julioverne.noexinsta
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.noexinsta_0.0~beta1_iphoneos-arm.deb
+Size: 4528
+MD5sum: b3c6a08069c9f8feb2b7530a804ed754
+Homepage: http://twitter.com/ijulioverne
+Description: Hide Explore Section In Instagram
+Name: NoExInsta
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.noexinsta
+
 Package: com.julioverne.nonceset
 Architecture: iphoneos-arm
 Version: 0.4
