@@ -739,13 +739,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ncgrou
 
 Package: com.julioverne.noexinsta
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta1a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.noexinsta_0.0~beta1_iphoneos-arm.deb
-Size: 4528
-MD5sum: b3c6a08069c9f8feb2b7530a804ed754
+Filename: ./com.julioverne.noexinsta_0.0~beta1a_iphoneos-arm.deb
+Size: 4536
+MD5sum: 1ce4c679d1029f3ba050efb822247ba2
 Homepage: http://twitter.com/ijulioverne
 Description: Hide Explore Section In Instagram
 Name: NoExInsta
