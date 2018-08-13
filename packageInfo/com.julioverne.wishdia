@@ -1,0 +1,9 @@
+{
+	"name": "WishDia",
+	"desc_short": "Wish List For Cydia",
+	"desc_long": "Wish List can be found in Cydia Home at top left.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
