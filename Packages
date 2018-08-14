@@ -13,6 +13,27 @@ Name: ADs Blocker
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
 
+Package: com.julioverne.appellancy11
+Architecture: iphoneos-arm
+Version: 1.1-20
+Priority: optional
+Section: Tweaks
+Maintainer: Julio
+Installed-Size: 18110
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
+Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
+Filename: ./com.julioverne.appellancy11_1.1-20_iphoneos-arm.deb
+Size: 3708882
+MD5sum: 9666f26e60416db2613030f96c23f8b2
+Description: Control your phone with your face!
+Tag: purpose::extension, ios7support::1, ios8support::1
+Name: Appellancy (iOS 11)
+Author: Elijah Frederickson, julioverne <elijah.frederickson@gmail.com>
+dev: elijahfrederickson
+Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appellancy11
+
 Package: com.julioverne.appstorenohistory
 Architecture: iphoneos-arm
 Version: 0.0~beta8
