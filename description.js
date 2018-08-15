@@ -71,3 +71,24 @@ function loadPackageInfo() {
 		}
 	});
 }
+function loadRecentUpdates() {
+	var form_url = window.location.protocol+"//"+window.location.hostname+"/last.updates";
+	$.ajax({
+		url: form_url,
+		type: "GET",
+		cache: false,
+		crossDomain: true,
+		success: function (returnhtml) {
+			var decodeResp = eval('('+returnhtml+')');			
+			var htmlnews = "";
+			for (var dicNow in decodeResp) {
+				htmlnews +=  "<li><a href='cydia://package/"+decodeResp[dicNow].package+"' target='_blank'><img class='icon' src='tweak.png'/><label>"+decodeResp[dicNow].name+" v"+decodeResp[dicNow].version+"</label></a></li>";
+			}
+			$("#updates").html(htmlnews);
+			$("#updates_").show();			
+        },
+		error: function (err) {
+			$("#updates_").hide();	
+		}
+	});
+}
