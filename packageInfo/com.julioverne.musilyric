@@ -1,9 +1,9 @@
 {
 	"name": "MusiLyric",
 	"desc_short": "Best Lyrics Music",
-	"desc_long": "✔️ Fetch Lyrics on Music, Spotify, Pandora & LockScreen.<br>✔️ Fetch in Background with best performance no Lags.<br>✔️ After Fetch Lyric will Available Offline.<br>✔️ Use Private API Musixmatch Database.<br><br>No Options to Configure.<br>",
-	"compatitle": "iOS 6 through 10, 11",
-	"changelog": "<strong>0.5~beta4</strong><br>+ Fix Lyrics.<br><strong>0.4</strong><br>+ Now Support LockScreen.<br><strong>0.3</strong><br>+ Now Support Spotify & Pandora.<br><strong>0.2-0</strong><br>+ Some Bug Fix<br><strong>0.1</strong><br>+ Initial Release<br>",
+	"desc_long": "✔️ Fetch Lyrics on Music, Spotify, TIDAL, Pandora & LockScreen.<br>✔️ Fetch in Background with best performance no Lags.<br>✔️ After Fetch Lyric will Available Offline.<br>✔️ Use Private API Musixmatch Database.<br><br>No Options to Configure.<br>",
+	"compatitle": "iOS 6 through 11",
+	"changelog": "<strong>0.5~beta5</strong><br>+ Support TIDAL.<br><strong>0.5~beta4</strong><br>+ Fix Lyrics.<br><strong>0.4</strong><br>+ Now Support LockScreen.<br><strong>0.3</strong><br>+ Now Support Spotify & Pandora.<br><strong>0.2-0</strong><br>+ Some Bug Fix<br><strong>0.1</strong><br>+ Initial Release<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/oIriu81.png' target='_blank'><img width=95% src='http://i.imgur.com/oIriu81.png'/></a><br></div>",
 	"open": true,
 }
