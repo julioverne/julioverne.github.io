@@ -15,7 +15,7 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
-Version: 1.1-20
+Version: 1.1-20a
 Priority: optional
 Section: Tweaks
 Maintainer: Julio
@@ -23,9 +23,9 @@ Installed-Size: 18110
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
 Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
-Filename: ./com.julioverne.appellancy11_1.1-20_iphoneos-arm.deb
-Size: 3708882
-MD5sum: 9666f26e60416db2613030f96c23f8b2
+Filename: ./com.julioverne.appellancy11_1.1-20a_iphoneos-arm.deb
+Size: 3709270
+MD5sum: 81b6661454951a7b18e3c0088d78b73b
 Description: Control your phone with your face!
 Tag: purpose::extension, ios7support::1, ios8support::1
 Name: Appellancy (iOS 11)
@@ -850,16 +850,15 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.pipena
 
 Package: com.julioverne.raisetoanswer
 Architecture: iphoneos-arm
-Version: 1.0-1a
+Version: 1.0-1b
 Section: Tweaks
 Maintainer: Julio
-Installed-Size: 81
 Depends: mobilesubstrate
-Filename: ./com.julioverne.raisetoanswer_1.0-1a_iphoneos-arm.deb
-Size: 6996
-MD5sum: ba27a45ae04dbd612336c0fc04aaf0fa
+Conflicts: com.mohammadag.raisetoanswer
+Filename: ./com.julioverne.raisetoanswer_1.0-1b_iphoneos-arm.deb
+Size: 6970
+MD5sum: a33d3378d6fe3fcda07a49edbc34955e
 Description: Raise phone to answer phone calls
-Tag: purpose::extension, compatible::ios8
 Name: RaiseToAnswer (iOS 11)
 Author: MohammadAG, julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.raisetoanswer

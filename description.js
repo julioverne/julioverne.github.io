@@ -79,10 +79,14 @@ function loadRecentUpdates() {
 		cache: false,
 		crossDomain: true,
 		success: function (returnhtml) {
-			var decodeResp = eval('('+returnhtml+')');			
+			var decodeResp = eval('('+returnhtml+')');
 			var htmlnews = "";
 			for (var dicNow in decodeResp) {
-				htmlnews +=  "<li><a href='cydia://package/"+decodeResp[dicNow].package+"' target='_blank'><img class='icon' src='tweak.png'/><label>"+decodeResp[dicNow].name+" v"+decodeResp[dicNow].version+"</label></a></li>";
+				var urlOpen = "cydia://package/"+decodeResp[dicNow].package;
+				if (navigator.userAgent.search(/Cydia/) == -1) {
+					urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+decodeResp[dicNow].package;
+				}
+				htmlnews +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='tweak.png'/><label>"+decodeResp[dicNow].name+" v"+decodeResp[dicNow].version+"</label></a></li>";
 			}
 			$("#updates").html(htmlnews);
 			$("#updates_").show();			
