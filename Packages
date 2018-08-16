@@ -141,6 +141,22 @@ Name: BGModeKill
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.bgmodekill
 
+Package: com.julioverne.bigshotjb11
+Architecture: iphoneos-arm
+Version: 0.0.2-2
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, libactivator
+Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11
+Filename: ./com.julioverne.bigshotjb11_0.0.2-2_iphoneos-arm.deb
+Size: 32698
+MD5sum: ff0427d130234b87d44a245c61ba4326
+Description: take screenshots of full vertical scrollable area
+Name: BigShotJb (iOS 11)
+Author: Tapan Thaker (tapthaker), julioverne
+dev: tapthaker
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.bigshotjb11
+
 Package: com.julioverne.biotap
 Architecture: iphoneos-arm
 Version: 0.1
@@ -170,6 +186,22 @@ Description: Use Brightness As Alert
 Name: BLightAlert
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.blightalert
+
+Package: com.julioverne.cacheclearer11
+Architecture: iphoneos-arm
+Version: 0.1a
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Conflicts: com.rpetrich.cacheclearer
+Filename: ./com.julioverne.cacheclearer11_0.1_iphoneos-arm.deb
+Size: 9274
+MD5sum: 0f568d50a130814ba49c9d0e050775c3
+Description: Clear app caches from the Usage section in Settings
+Name: CacheClearer (iOS 11)
+Author: Ryan Petrich, julioverne
+dev: rpetrich
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cacheclearer11
 
 Package: com.julioverne.cachewipe
 Architecture: iphoneos-arm
@@ -984,6 +1016,22 @@ Description: Temp Fix uicache in iOS 10 by setting chmod 4755 in uicache and pre
 Name: uicache Fix
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.uicachefix10
+
+Package: com.julioverne.vwallpaper2os11
+Architecture: iphoneos-arm
+Version: 0.5.0-3
+Section: Multimedia
+Maintainer: Julio
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Conflicts: com.skrew.vwallpaper2os11, com.skrew.vwallpaper2os
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9, com.skrew.vwallpaper2os10
+Filename: ./com.julioverne.vwallpaper2os11_0.5.0-3_iphoneos-arm.deb
+Size: 11336706
+MD5sum: 90c9b517e7ffdde22c3b75c66f40eee7
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Name: vWallpaper 2 (iOS 11)
+Author: skrew, julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.vwallpaper2os11
 
 Package: com.julioverne.whilelotus
 Architecture: iphoneos-arm

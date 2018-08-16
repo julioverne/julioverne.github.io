@@ -1,0 +1,9 @@
+{
+	"name": "CacheClearer (iOS 11)",
+	"desc_short": "Clear app caches from the Usage section in Settings",
+	"desc_long": "No Options To Configure.<p><p>Open Source Code of CacheClearer is on <a href='https://github.com/rpetrich/CacheClearer' target='_blank'>GitHub /rpetrich/CacheClearer</a>.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.1a</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

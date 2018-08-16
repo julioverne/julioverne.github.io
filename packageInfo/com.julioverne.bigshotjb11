@@ -1,0 +1,9 @@
+{
+	"name": "BigShotJb (iOS 11)",
+	"desc_short": "take screenshots of full vertical scrollable area",
+	"desc_long": "Configure Action From Activator.<p><p>Open Source Code of BigShotJb is on <a href='https://github.com/tapthaker/BigShotJb' target='_blank'>GitHub /tapthaker/BigShotJb</a>.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0.2-2</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
