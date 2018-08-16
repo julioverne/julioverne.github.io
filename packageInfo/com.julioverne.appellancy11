@@ -1,7 +1,7 @@
 {
 	"name": "Appellancy (iOS 11)",
 	"desc_short": "Control your phone with your face!",
-	"desc_long": "Appellancy lets you unlock device with face recognition via camera.<p><p>Open Source Code of Appellancy is on <a href='https://github.com/efrederickson/Appellancy'>GitHub /efrederickson/Appellancy</a>.",
+	"desc_long": "Appellancy lets you unlock device with face recognition via camera.<p><p>Open Source Code of Appellancy is on <a href='https://github.com/efrederickson/Appellancy' target='_blank'>GitHub /efrederickson/Appellancy</a>.",
 	"compatitle": "iOS 11 & arm64",
 	"changelog": "<strong>1.1-20</strong><br>+ Initial Release.<br>",
 	"screenshot": null,

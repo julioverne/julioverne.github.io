@@ -1,0 +1,9 @@
+{
+	"name": "RaiseToAnswer (iOS 11)",
+	"desc_short": "Raise phone to answer phone calls",
+	"desc_long": "No Options To Configure.<p><p>Open Source Code of RaiseToAnswer is on <a href='https://github.com/MohammadAG/iOS-RaiseToAnswer' target='_blank'>GitHub /MohammadAG/iOS-RaiseToAnswer</a>.",
+	"compatitle": "iOS 8 through 11",
+	"changelog": "<strong>1.0-1a</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
