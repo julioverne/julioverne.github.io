@@ -1,0 +1,9 @@
+{
+	"name": "QuickUnlock (iOS 11)",
+	"desc_short": "Skip lockscreen if no notifications",
+	"desc_long": "No Options To Configure.<p><p>Open Source Code of QuickUnlock is on <a href='https://github.com/codyd51/QuickUnlock' target='_blank'>GitHub /codyd51/QuickUnlock</a>.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
