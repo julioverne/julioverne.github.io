@@ -15,21 +15,19 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
-Version: 1.1-20a
+Version: 1.1-20b
 Priority: optional
 Section: Tweaks
 Maintainer: Julio
-Installed-Size: 18110
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
 Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
-Filename: ./com.julioverne.appellancy11_1.1-20a_iphoneos-arm.deb
-Size: 3709270
-MD5sum: 81b6661454951a7b18e3c0088d78b73b
+Filename: ./com.julioverne.appellancy11_1.1-20b_iphoneos-arm.deb
+Size: 3709562
+MD5sum: 6ec175b926a05394b391c810408bf3cb
 Description: Control your phone with your face!
-Tag: purpose::extension, ios7support::1, ios8support::1
 Name: Appellancy (iOS 11)
-Author: Elijah Frederickson, julioverne <elijah.frederickson@gmail.com>
+Author: Elijah Frederickson, julioverne
 dev: elijahfrederickson
 Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appellancy11
@@ -405,14 +403,14 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.edgeal
 
 Package: com.julioverne.epicentre11
 Architecture: iphoneos-arm
-Version: 2.0-2
+Version: 2.0-2a
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Conflicts: com.phillipt.epicentre
-Filename: ./com.julioverne.epicentre11_2.0-2_iphoneos-arm.deb
-Size: 401212
-MD5sum: a676b1490bad8943b87a297a2f4ea52c
+Filename: ./com.julioverne.epicentre11_2.0-2a_iphoneos-arm.deb
+Size: 401994
+MD5sum: c80137ade3fb14fd39d3d42628d672f9
 Description: A gorgeous passcode replacement
 Author: Phillip Tennen, julioverne
 Name: Epicentre (iOS 11)
@@ -686,13 +684,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdr
 
 Package: com.julioverne.lockdroid
 Architecture: iphoneos-arm
-Version: 0.0~beta5
+Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./com.julioverne.lockdroid_0.0~beta5_iphoneos-arm.deb
-Size: 99690
-MD5sum: fc0d4fd3e5b0da8c8a0e005f4887943b
+Filename: ./com.julioverne.lockdroid_0.0~beta6_iphoneos-arm.deb
+Size: 101220
+MD5sum: e3491a2d5849108582b8084dd4f264d1
 Homepage: http://twitter.com/ijulioverne
 Description: Android Lockscreen
 Name: LockDroid
