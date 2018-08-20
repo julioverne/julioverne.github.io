@@ -1,0 +1,9 @@
+{
+	"name": "CirDock (iOS 11)",
+	"desc_short": "evolutionizes the device's dock!",
+	"desc_long": "Configure Options From Settings.<p><p>Open Source Code of CirDock is on <a href='https://github.com/BraveHeartDev/CirDock' target='_blank'>GitHub /BraveHeartDev/CirDock</a>.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.3.0</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

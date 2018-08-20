@@ -249,6 +249,23 @@ Name: ChargeMode
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.chargemode
 
+Package: com.julioverne.cirdock11
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Conflicts: org.thebigboss.cirdock
+Filename: ./com.julioverne.cirdock11_1.3.0_iphoneos-arm.deb
+Size: 343130
+MD5sum: ba59e67b8b744648d4725018c438d2ca
+Description: evolutionizes the device's dock!
+Name: CirDock (iOS 11)
+Author: Brave Heart, julioverne
+dev: alsafa7dev
+Icon: file:///PreferenceBundles/CirDockSettings.bundle/Icon-Small@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cirdock11
+
 Package: com.julioverne.closecam
 Architecture: iphoneos-arm
 Version: 0.0~beta2
