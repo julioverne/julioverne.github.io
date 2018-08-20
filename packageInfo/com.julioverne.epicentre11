@@ -1,0 +1,9 @@
+{
+	"name": "Epicentre (iOS 11)",
+	"desc_short": "A gorgeous passcode replacement",
+	"desc_long": "Configure Options From Settings.<p><p>Open Source Code of Epicentre is on <a href='https://github.com/codyd51/Epicentre' target='_blank'>GitHub /codyd51/Epicentre</a>.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>2.0-2</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

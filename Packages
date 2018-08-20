@@ -403,6 +403,23 @@ Name: EdgeAlert
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.edgealert
 
+Package: com.julioverne.epicentre11
+Architecture: iphoneos-arm
+Version: 2.0-2
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Conflicts: com.phillipt.epicentre
+Filename: ./com.julioverne.epicentre11_2.0-2_iphoneos-arm.deb
+Size: 401212
+MD5sum: a676b1490bad8943b87a297a2f4ea52c
+Description: A gorgeous passcode replacement
+Author: Phillip Tennen, julioverne
+Name: Epicentre (iOS 11)
+dev: phillipt
+Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.epicentre11
+
 Package: com.julioverne.ext3nder-installer
 Architecture: iphoneos-arm
 Version: 021a
