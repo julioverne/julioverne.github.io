@@ -141,14 +141,14 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.bgmode
 
 Package: com.julioverne.bigshotjb11
 Architecture: iphoneos-arm
-Version: 0.0.2-2
+Version: 0.0.2-2a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, libactivator
 Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11
-Filename: ./com.julioverne.bigshotjb11_0.0.2-2_iphoneos-arm.deb
-Size: 32698
-MD5sum: ff0427d130234b87d44a245c61ba4326
+Filename: ./com.julioverne.bigshotjb11_0.0.2-2a_iphoneos-arm.deb
+Size: 33268
+MD5sum: e4e9fbb6b97b2a3285e27529e51da3ca
 Description: take screenshots of full vertical scrollable area
 Name: BigShotJb (iOS 11)
 Author: Tapan Thaker (tapthaker), julioverne
