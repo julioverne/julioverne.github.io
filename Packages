@@ -793,13 +793,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musicv
 
 Package: com.julioverne.musilyric
 Architecture: iphoneos-arm
-Version: 0.5~beta5a
+Version: 0.5~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.musilyric_0.5~beta5a_iphoneos-arm.deb
-Size: 25748
-MD5sum: f80922cadfc0d65bf1f79dcecd9a94f4
+Filename: ./com.julioverne.musilyric_0.5~beta6_iphoneos-arm.deb
+Size: 27568
+MD5sum: 0de921d1057d53072d7664fec293b4a8
 Homepage: http://twitter.com/ijulioverne
 Description: Best Lyrics Music
 Name: MusiLyric
