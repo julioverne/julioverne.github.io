@@ -669,6 +669,23 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kbmover
 
+Package: com.julioverne.keyswipe11
+Architecture: iphoneos-arm
+Version: 1.0.2-3
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Filename: ./com.julioverne.keyswipe11_1.0.2-3_iphoneos-arm.deb
+Size: 16100
+MD5sum: 5978f01b8913898fd27c0555854a03de
+Description: change keyboard by swiping up/down
+Author: Delewhopper, julioverne
+Name: KeySwipe (iOS 11)
+dev: delewhopper
+Icon: file:///Library/PreferenceBundles/keyswipeprefs.bundle/keyswipeicon.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
+
 Package: com.julioverne.lockanim
 Architecture: iphoneos-arm
 Version: 0.0~beta3

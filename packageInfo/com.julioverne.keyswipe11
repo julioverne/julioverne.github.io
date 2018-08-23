@@ -1,0 +1,9 @@
+{
+	"name": "KeySwipe (iOS 11)",
+	"desc_short": "change keyboard by swiping up/down",
+	"desc_long": "Configure Options From Settings.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0.2-3</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
