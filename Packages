@@ -671,14 +671,14 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kbmove
 
 Package: com.julioverne.keyswipe11
 Architecture: iphoneos-arm
-Version: 1.0.2-3
+Version: 1.0.2-3a
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.keyswipe
-Filename: ./com.julioverne.keyswipe11_1.0.2-3_iphoneos-arm.deb
-Size: 16100
-MD5sum: 5978f01b8913898fd27c0555854a03de
+Filename: ./com.julioverne.keyswipe11_1.0.2-3a_iphoneos-arm.deb
+Size: 16654
+MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
 Description: change keyboard by swiping up/down
 Author: Delewhopper, julioverne
 Name: KeySwipe (iOS 11)
