@@ -1,0 +1,9 @@
+{
+	"name": "Exsto (iOS 11)",
+	"desc_short": "Unleash your folders",
+	"desc_long": "Configure Action From Settings.<p><p>Open Source Code of Exsto is on <a href='https://github.com/zachatrocity/exsto' target='_blank'>GitHub /zachatrocity/exsto</a>.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0.1.2-1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
