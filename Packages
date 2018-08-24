@@ -623,6 +623,21 @@ Name: HSBC Bypass
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hsbcbypass
 
+Package: com.julioverne.illlooklater11
+Architecture: iphoneos-arm
+Version: 2.0-2
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 7.0)
+Conflicts: com.N104.IllLookLater
+Filename: ./com.julioverne.illlooklater11_2.0-2_iphoneos-arm.deb
+Size: 63910
+MD5sum: 71956aa9ae3a698a0ae11ec1b669d7f3
+Description: Look at notifications when YOU want to!
+Name: IllLookLater (iOS 11)
+Author: N104, julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.illlooklater11
+
 Package: com.julioverne.jailprotect
 Architecture: iphoneos-arm
 Version: 0.0~beta4a

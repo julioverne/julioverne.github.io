@@ -1,0 +1,9 @@
+{
+	"name": "IllLookLater (iOS 11)",
+	"desc_short": "Look at notifications when YOU want to!",
+	"desc_long": "Disable auto turn on screen when Notification is received.<p><p>Configure Options From Settings.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>2.0-2</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
