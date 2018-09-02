@@ -825,6 +825,21 @@ Name: MShuffle
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mshuffle
 
+Package: com.julioverne.musicsection
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.musicsection_0.0~beta1_iphoneos-arm.deb
+Size: 5286
+MD5sum: 1f61b0bd1fa4f840de2c4f492b6fa90f
+Homepage: http://twitter.com/ijulioverne
+Description: Open Music App On Music List Section
+Name: MusicSection
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musicsection
+
 Package: com.julioverne.musicv
 Architecture: iphoneos-arm
 Version: 0.0~beta2-0
@@ -842,13 +857,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musicv
 
 Package: com.julioverne.musilyric
 Architecture: iphoneos-arm
-Version: 0.5~beta6a
+Version: 0.5~beta6b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.musilyric_0.5~beta6a_iphoneos-arm.deb
-Size: 27596
-MD5sum: 3c728df82520315f9692afb84f73a354
+Filename: ./com.julioverne.musilyric_0.5~beta6b_iphoneos-arm.deb
+Size: 27592
+MD5sum: b6aef46ebc0c2c3184117d0df937a438
 Homepage: http://twitter.com/ijulioverne
 Description: Best Lyrics Music
 Name: MusiLyric
@@ -1113,6 +1128,22 @@ Description: Temp Fix uicache in iOS 10 by setting chmod 4755 in uicache and pre
 Name: uicache Fix
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.uicachefix10
+
+Package: com.julioverne.upscale
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Conflicts: com.bd452.upscale
+Filename: ./com.julioverne.upscale_0.0.1_iphoneos-arm.deb
+Size: 19980
+MD5sum: 1083cc7331adcc61f2ee387a523a79d3
+Description: Change Device Resolution
+Name: Upscale
+Author: bd452, julioverne
+Icon: file:///Library/PreferenceBundles/Upscale.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.upscale
 
 Package: com.julioverne.vwallpaper2os11
 Architecture: iphoneos-arm

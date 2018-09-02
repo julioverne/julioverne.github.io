@@ -1,0 +1,9 @@
+{
+	"name": "Upscale",
+	"desc_short": "Change Device Resolution",
+	"desc_long": "Configure Options From Settings.<p><p>Open Source Code of Upscale is on <a href='https://github.com/bd452/Upscale' target='_blank'>GitHub /bd452/Upscale</a>.",
+	"compatitle": null,
+	"changelog": "<strong>0.0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

@@ -1,0 +1,9 @@
+{
+	"name": "MusicSection",
+	"desc_short": "Open Music App On Music List Section",
+	"desc_long": "No Options To Configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
