@@ -1,0 +1,9 @@
+{
+	"name": "KB2Change",
+	"desc_short": "Switch Between First 2 Keyboards",
+	"desc_long": "No Options To Configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

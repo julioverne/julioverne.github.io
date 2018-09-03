@@ -668,6 +668,21 @@ Name: JBMe 9.3.x Webclip
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.jbme93xwebclip
 
+Package: com.julioverne.kb2change
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.kb2change_0.0~beta1_iphoneos-arm.deb
+Size: 5536
+MD5sum: 36692297a4afe6db779608aad5ebe345
+Homepage: http://twitter.com/ijulioverne
+Description: Switch Between First 2 Keyboards
+Name: KB2Change
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.kb2change
+
 Package: com.julioverne.kbmover
 Architecture: iphoneos-arm
 Version: 0.0~beta1
