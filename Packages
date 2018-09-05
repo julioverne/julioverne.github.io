@@ -32,6 +32,22 @@ dev: elijahfrederickson
 Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appellancy11
 
+Package: com.julioverne.appssiripin
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./com.julioverne.appssiripin_0.0~beta1_iphoneos-arm.deb
+Size: 41214
+MD5sum: 217ae119dae30af7af1c5dec5f4a8637
+Homepage: http://twitter.com/ijulioverne
+Description: Pin Apps In Siri Suggestion Widget
+Name: AppsSiriPin
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/AppsSiriPin.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appssiripin
+
 Package: com.julioverne.appstorenohistory
 Architecture: iphoneos-arm
 Version: 0.0~beta8

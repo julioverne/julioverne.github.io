@@ -1,0 +1,9 @@
+{
+	"name": "AppsSiriPin",
+	"desc_short": "Pin Apps In Siri Suggestion Widget",
+	"desc_long": "Configure Options From Settings.<p><p>",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
