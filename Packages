@@ -112,13 +112,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.autosh
 
 Package: com.julioverne.autowall
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta1a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.autowall_0.0~beta1_iphoneos-arm.deb
-Size: 51604
-MD5sum: 024dae3f67334c218896032052587a58
+Filename: ./com.julioverne.autowall_0.0~beta1a_iphoneos-arm.deb
+Size: 51890
+MD5sum: bb492945c82d08c5f75309faec899c61
 Homepage: http://twitter.com/ijulioverne
 Description: Scheduled Wallpapers
 Name: AutoWall
