@@ -201,6 +201,21 @@ Name: BLightAlert
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.blightalert
 
+Package: com.julioverne.bumbleverifyroll
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.bumbleverifyroll_0.0~beta1_iphoneos-arm.deb
+Size: 6834
+MD5sum: 06a32eeeae8ea675e70c613efcc7a818
+Homepage: http://twitter.com/ijulioverne
+Description: Verify Account Photo via Camera Roll
+Name: BumbleVerifyRoll
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.bumbleverifyroll
+
 Package: com.julioverne.cacheclearer11
 Architecture: iphoneos-arm
 Version: 0.1a

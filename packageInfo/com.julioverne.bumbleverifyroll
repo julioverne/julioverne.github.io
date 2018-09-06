@@ -1,0 +1,9 @@
+{
+	"name": "BumbleVerifyRoll",
+	"desc_short": "Verify Account Photo via Camera Roll",
+	"desc_long": "You have broken camera and when verify account show black image when you need to take image, Just tap on mini image in located in down left where man show gesture and will show camera roll.<p><p>No Options To Configure.",
+	"compatitle": "Bumble App",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
