@@ -1069,6 +1069,21 @@ Name: SBCard
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sbcard
 
+Package: com.julioverne.scloudinfo
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.scloudinfo_0.0~beta1_iphoneos-arm.deb
+Size: 13586
+MD5sum: b91d5f7497747b5f203aaaa08caafe2b
+Homepage: http://twitter.com/ijulioverne
+Description: SoundCloud Track Description Info
+Name: SCloudInfo
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.scloudinfo
+
 Package: com.julioverne.sftpenabler
 Architecture: iphoneos-arm
 Version: 0.1

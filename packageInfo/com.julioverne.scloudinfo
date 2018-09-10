@@ -1,0 +1,9 @@
+{
+	"name": "SCloudInfo",
+	"desc_short": "SoundCloud Track Description Info",
+	"desc_long": "Add Track Description Info In More Menu.<p><p>No Options To Configure.",
+	"compatitle": "SoundCloud App",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
