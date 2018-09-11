@@ -963,13 +963,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.nonces
 
 Package: com.julioverne.ntspeed
 Architecture: iphoneos-arm
-Version: 0.2~beta6
+Version: 0.2~beta6a
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.ntspeed_0.2~beta6_iphoneos-arm.deb
-Size: 45492
-MD5sum: 7aa5a2b62407a9f73e58e9fd29d1fe45
+Filename: ./com.julioverne.ntspeed_0.2~beta6a_iphoneos-arm.deb
+Size: 46050
+MD5sum: d2eb0cd528b3cc70729b63b930735c24
 Homepage: http://twitter.com/ijulioverne
 Description: See Active Traffic Network Speed
 Name: NtSpeed
