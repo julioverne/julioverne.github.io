@@ -856,6 +856,21 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
 
+Package: com.julioverne.modernxinoblur
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.modernxinoblur_0.0~beta1_iphoneos-arm.deb
+Size: 4694
+MD5sum: 857762091b59d0c4f1c3ec3bf0c6e801
+Homepage: http://twitter.com/ijulioverne
+Description: Remove Blur in ModernXI
+Name: ModernXINoBlur
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.modernxinoblur
+
 Package: com.julioverne.mshuffle
 Architecture: iphoneos-arm
 Version: 0.0~beta4

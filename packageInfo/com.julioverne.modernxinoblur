@@ -1,0 +1,9 @@
+{
+	"name": "ModernXINoBlur",
+	"desc_short": "Remove Blur in ModernXI",
+	"desc_long": "No Options To Configure.",
+	"compatitle": null,
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
