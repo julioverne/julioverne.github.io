@@ -1130,6 +1130,22 @@ Name: SFTPEnabler
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpenabler
 
+Package: com.julioverne.simulatetouch
+Architecture: iphoneos-arm
+Version: 0.7-17~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 6.0)
+Conflicts: kr.iolate.simulatetouch
+Filename: ./com.julioverne.simulatetouch_0.7-17~beta1_iphoneos-arm.deb
+Size: 9776
+MD5sum: b7fe56d4887b8d1dc6453576f0dd94ad
+Description: Simulate fake touch and swipe. Support multi-touch
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.simulatetouch
+Author: iolate, julioverne
+Name: SimulateTouch
+dev: iolate
+
 Package: com.julioverne.siriifpossible
 Architecture: iphoneos-arm
 Version: 0.0~beta1

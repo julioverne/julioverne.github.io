@@ -1,0 +1,9 @@
+{
+	"name": "SimulateTouch",
+	"desc_short": "Simulate fake touch and swipe. Support multi-touch",
+	"desc_long": "This is unofficial beta, swipe currently unavailable.<br/><br/>Type terminal command: \"stouch\".",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.7-17~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
