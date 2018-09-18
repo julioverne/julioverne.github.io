@@ -1,0 +1,9 @@
+{
+	"name": "MessageFile",
+	"desc_short": "Message App Send Any Root Filesystem",
+	"desc_long": "In Message App on your Chat Conversation just tap on camera icon and one alert will show for select between Photo or Root Filesystem.<br/><br/>No Options To Configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

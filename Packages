@@ -823,6 +823,21 @@ Name: mCast
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mcast
 
+Package: com.julioverne.messagefile
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.messagefile_0.0~beta1_iphoneos-arm.deb
+Size: 35442
+MD5sum: 4551cc1d33e501e5e99b8ecad80781d2
+Homepage: http://twitter.com/ijulioverne
+Description: Message App Send Any Root Filesystem
+Name: MessageFile
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.messagefile
+
 Package: com.julioverne.mibandalert
 Architecture: iphoneos-arm
 Version: 0.0.4
