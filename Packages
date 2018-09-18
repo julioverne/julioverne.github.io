@@ -825,13 +825,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mcast
 
 Package: com.julioverne.messagefile
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.messagefile_0.0~beta1_iphoneos-arm.deb
-Size: 35442
-MD5sum: 4551cc1d33e501e5e99b8ecad80781d2
+Filename: ./com.julioverne.messagefile_0.0~beta2_iphoneos-arm.deb
+Size: 37634
+MD5sum: 8bc4be06b1b5cae6d525d4f1c18f9efb
 Homepage: http://twitter.com/ijulioverne
 Description: Message App Send Any Root Filesystem
 Name: MessageFile
