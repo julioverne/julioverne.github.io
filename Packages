@@ -749,13 +749,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.keyswi
 
 Package: com.julioverne.lockanim
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.lockanim_0.0~beta3_iphoneos-arm.deb
-Size: 47926
-MD5sum: 2f2dd95974d8646e8531787c8a3091a9
+Filename: ./com.julioverne.lockanim_0.0~beta4_iphoneos-arm.deb
+Size: 132472
+MD5sum: dff4e22d3b1f0097f1306e0ddbc6ab7c
 Homepage: http://twitter.com/ijulioverne
 Description: Lock Animations
 Name: LockAnim
