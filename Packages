@@ -1254,15 +1254,15 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.upscal
 
 Package: com.julioverne.vwallpaper2os11
 Architecture: iphoneos-arm
-Version: 0.5.0-3
+Version: 0.5.0-3a
 Section: Multimedia
 Maintainer: Julio
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
 Conflicts: com.skrew.vwallpaper2os11, com.skrew.vwallpaper2os
 Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9, com.skrew.vwallpaper2os10
-Filename: ./com.julioverne.vwallpaper2os11_0.5.0-3_iphoneos-arm.deb
-Size: 11336706
-MD5sum: 90c9b517e7ffdde22c3b75c66f40eee7
+Filename: ./com.julioverne.vwallpaper2os11_0.5.0-3a_iphoneos-arm.deb
+Size: 11336402
+MD5sum: a48aa195b2efc253e9f13b96e95a99be
 Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
 Name: vWallpaper 2 (iOS 11)
 Author: skrew, julioverne
