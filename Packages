@@ -1132,14 +1132,14 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpen
 
 Package: com.julioverne.simulatetouch
 Architecture: iphoneos-arm
-Version: 0.7-17~beta4
+Version: 0.7-17~beta5
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0)
 Conflicts: kr.iolate.simulatetouch
-Filename: ./com.julioverne.simulatetouch_0.7-17~beta4_iphoneos-arm.deb
-Size: 14710
-MD5sum: cadc32084014f620569581e1549979a2
+Filename: ./com.julioverne.simulatetouch_0.7-17~beta5_iphoneos-arm.deb
+Size: 15808
+MD5sum: d83da7a40aa506e40fe5c4abfb1129f2
 Description: Simulate fake touch and swipe. Support multi-touch
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.simulatetouch
 Author: iolate, julioverne
