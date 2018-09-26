@@ -1036,6 +1036,22 @@ Name: PhoneScroll
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.phonescroll
 
+Package: com.julioverne.pimport
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./com.julioverne.pimport_0.0~beta1_iphoneos-arm.deb
+Size: 448446
+MD5sum: e6e6669719cfff218792f7d899d0bbe2
+Homepage: http://twitter.com/ijulioverne
+Description: Photo Importer Directly From Photo App
+Name: PImport
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.pimport
+
 Package: com.julioverne.pipenabler
 Architecture: iphoneos-arm
 Version: 0.2

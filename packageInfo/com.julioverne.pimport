@@ -1,0 +1,9 @@
+{
+	"name": "PImport",
+	"desc_short": "Photo Importer Directly From Photo App",
+	"desc_long": "✔️ Edit Location, Time, Exif, Tiff Meta Tags.<br>✔️ Import Photo From Direct URL.<br>✔️ Wi-Fi Sharing.<br>An Power Full Photo Importer.<br>",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/xMku3vR.png' target='_blank'><img width=95% src='http://i.imgur.com/xMku3vR.png'/></a><br></div>",
+	"open": true,
+}
