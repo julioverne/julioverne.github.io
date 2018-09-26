@@ -886,6 +886,20 @@ Name: ModernXINoBlur
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.modernxinoblur
 
+Package: com.julioverne.mpscale
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.mpscale_0.0~beta1_iphoneos-arm.deb
+Size: 15930
+MD5sum: e028a92205caec0b0a2fbd1a9e110346
+Description: Show Scale On Maps
+Name: MPScale
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mpscale
+
 Package: com.julioverne.mshuffle
 Architecture: iphoneos-arm
 Version: 0.0~beta4
