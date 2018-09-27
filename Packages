@@ -13,6 +13,20 @@ Name: ADs Blocker
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
 
+Package: com.julioverne.albumhider
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.albumhider_0.0~beta1_iphoneos-arm.deb
+Size: 17728
+MD5sum: 41ad9ed5df76a02da531eb1b12cc86ea
+Description: Hide Album's On Photo App
+Name: AlbumHider
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumhider
+
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
 Version: 1.1-20b
