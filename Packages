@@ -888,13 +888,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.modern
 
 Package: com.julioverne.mpscale
 Architecture: iphoneos-arm
-Version: 0.0~beta3a
+Version: 0.0~beta3b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.mpscale_0.0~beta3a_iphoneos-arm.deb
-Size: 17208
-MD5sum: 3a2f58e96b559f6169374516a2427d5b
+Filename: ./com.julioverne.mpscale_0.0~beta3b_iphoneos-arm.deb
+Size: 17756
+MD5sum: 56bbfcbd83f00f5873fa26595a163044
 Description: Show Scale On Maps
 Name: MPScale
 Author: julioverne
