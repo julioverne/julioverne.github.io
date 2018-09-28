@@ -1066,13 +1066,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.phones
 
 Package: com.julioverne.pimport
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./com.julioverne.pimport_0.0~beta2_iphoneos-arm.deb
-Size: 453966
-MD5sum: 940639c78c3d501763e49b786111e25a
+Filename: ./com.julioverne.pimport_0.0~beta3_iphoneos-arm.deb
+Size: 475266
+MD5sum: 9afdbdd2dfff8157b7ee791876afdf1d
 Homepage: http://twitter.com/ijulioverne
 Description: Photo Importer Directly From Photo App
 Name: PImport
