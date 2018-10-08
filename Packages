@@ -590,6 +590,20 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 
+Package: com.julioverne.googleauthpro
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.googleauthpro_0.0~beta1_iphoneos-arm.deb
+Size: 39378
+MD5sum: e4e5003bc7546acc3373cab34512b413
+Description: Features For Google Authenticator App
+Name: GoogleAuthPro
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.googleauthpro
+
 Package: com.julioverne.gravity
 Architecture: iphoneos-arm
 Version: 0.5
