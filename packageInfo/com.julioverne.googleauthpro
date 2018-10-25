@@ -3,7 +3,7 @@
 	"desc_short": "Features For Google Authenticator App",
 	"desc_long": "Features:<br>+ Change Font Size of Code, Compact Style;<br>+ Search Box;<br>+ Order Alphabetically, Alphabetical Section Index;<br>+ Detect Current Website in Safari When Open Google Authenticator;<br><br>+ Activator Action To Open Google Authenticator For Search;<br><br><br>Configure Option From Google Authenticator App.",
 	"compatitle": "Google Authenticator App",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>0.0~beta2</strong><br>+ Enhanced Search By Keyword.<br>+ Fix Code Size With Compact Style Enabled.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 	"open": true,
 }
