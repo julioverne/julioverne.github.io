@@ -592,13 +592,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwi
 
 Package: com.julioverne.googleauthpro
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta2a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.googleauthpro_0.0~beta2_iphoneos-arm.deb
-Size: 40408
-MD5sum: ca31ebddfd845abb9c766a7eb1bb08a0
+Filename: ./com.julioverne.googleauthpro_0.0~beta2a_iphoneos-arm.deb
+Size: 40416
+MD5sum: 95c83e6e064b2307806ecc620b14347d
 Description: Features For Google Authenticator App
 Name: GoogleAuthPro
 Author: julioverne
