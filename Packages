@@ -1128,14 +1128,14 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.quicku
 
 Package: com.julioverne.raisetoanswer
 Architecture: iphoneos-arm
-Version: 1.0-1b
+Version: 1.0-1c
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
 Conflicts: com.mohammadag.raisetoanswer
-Filename: ./com.julioverne.raisetoanswer_1.0-1b_iphoneos-arm.deb
-Size: 6970
-MD5sum: a33d3378d6fe3fcda07a49edbc34955e
+Filename: ./com.julioverne.raisetoanswer_1.0-1c_iphoneos-arm.deb
+Size: 8062
+MD5sum: 850f9332e21dfd0c8e2feccac170a7cb
 Description: Raise phone to answer phone calls
 Name: RaiseToAnswer (iOS 11)
 Author: MohammadAG, julioverne
