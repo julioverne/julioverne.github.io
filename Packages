@@ -791,20 +791,6 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/LockAnimSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockanim
 
-Package: com.julioverne.lockdroiddonuts
-Architecture: iphoneos-arm
-Version: 0.0~beta1
-Section: Themes
-Maintainer: Julio
-Filename: ./com.julioverne.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
-Size: 178432
-MD5sum: ef34fa0ab5fec723693676eeefcba969
-Homepage: http://twitter.com/ijulioverne
-Description: Donuts Theme For LockDroid
-Name: Donuts LockDroid
-Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroiddonuts
-
 Package: com.julioverne.lockdroid
 Architecture: iphoneos-arm
 Version: 0.0~beta6
@@ -820,6 +806,20 @@ Name: LockDroid
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroid
+
+Package: com.julioverne.lockdroiddonuts
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Themes
+Maintainer: Julio
+Filename: ./com.julioverne.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
+Size: 178432
+MD5sum: ef34fa0ab5fec723693676eeefcba969
+Homepage: http://twitter.com/ijulioverne
+Description: Donuts Theme For LockDroid
+Name: Donuts LockDroid
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroiddonuts
 
 Package: com.julioverne.lowerinstall
 Architecture: iphoneos-arm
@@ -1128,14 +1128,14 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.quicku
 
 Package: com.julioverne.raisetoanswer
 Architecture: iphoneos-arm
-Version: 1.0-1c
+Version: 1.0-1d
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
 Conflicts: com.mohammadag.raisetoanswer
-Filename: ./com.julioverne.raisetoanswer_1.0-1c_iphoneos-arm.deb
-Size: 8062
-MD5sum: 850f9332e21dfd0c8e2feccac170a7cb
+Filename: ./com.julioverne.raisetoanswer_1.0-1d_iphoneos-arm.deb
+Size: 8650
+MD5sum: a991600ed235f35b8b701d2087834c84
 Description: Raise phone to answer phone calls
 Name: RaiseToAnswer (iOS 11)
 Author: MohammadAG, julioverne
