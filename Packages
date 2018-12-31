@@ -713,6 +713,20 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/JailProtectSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.jailprotect
 
+Package: com.julioverne.jbme10xwebclip
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Utilities
+Maintainer: Julio
+Filename: ./com.julioverne.jbme10xwebclip_0.1_iphoneos-arm.deb
+Size: 1191716
+MD5sum: c180063c32a4b76d83edc0ec0dbc567d
+Homepage: http://twitter.com/ijulioverne
+Description: Re-Active iOS 10.x Jailbreak Offline, Install totally-not.spyware.lol 10.x Webclip Profile 100% Offline.
+Name: JBMe 10.x Webclip
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.jbme10xwebclip
+
 Package: com.julioverne.jbme93xwebclip
 Architecture: iphoneos-arm
 Version: 0.1
