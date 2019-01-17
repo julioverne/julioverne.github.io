@@ -651,6 +651,21 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/HeySiriSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.heysiri
 
+Package: com.julioverne.hold2speak11
+Architecture: iphoneos-arm
+Version: 1.3a
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: isklikas.hold2speak
+Filename: ./com.julioverne.hold2speak11_1.3a_iphoneos-arm.deb
+Size: 15934
+MD5sum: 06eeafdd3aebd73b32ced5e688d04af8
+Description: answer your calls, while activating your speaker.
+Name: Hold2Speak (iOS 11)
+Author: isklikas, julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hold2speak11
+
 Package: com.julioverne.hotspotting
 Architecture: iphoneos-arm
 Version: 0.0~beta2

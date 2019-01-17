@@ -1,0 +1,9 @@
+{
+	"name": "Hold2Speak (iOS 11)",
+	"desc_short": "Answer your calls, while activating your speaker.",
+	"desc_long": "No Options To Configure.<br><br><a href='http://www.idownloadblog.com/2014/04/28/hold2speak/' target='_blank'>Hold2Speak on iDownloadBlog</a><p><p><p>Open Source Code of Hold2Speak is on <a href='https://github.com/isklikas/Hold2Speak' target='_blank'>GitHub /isklikas/Hold2Speak</a>.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.3a</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
