@@ -865,6 +865,21 @@ Name: LowerInstall
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lowerinstall
 
+Package: com.julioverne.luxyverifyroll
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.luxyverifyroll_0.0~beta1_iphoneos-arm.deb
+Size: 6764
+MD5sum: 2f9c4814373deda84157473ea7b3a933
+Homepage: http://twitter.com/ijulioverne
+Description: Verify Account Photo via Camera Roll
+Name: LuxyVerifyRoll
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.luxyverifyroll
+
 Package: com.julioverne.mcast
 Architecture: iphoneos-arm
 Version: 0.0~beta3
