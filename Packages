@@ -1431,3 +1431,18 @@ Name: YTNoAutoPlay
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ytnoautoplay
 
+Package: com.julioverne.zaddyverifyroll
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./com.julioverne.zaddyverifyroll_0.0~beta1_iphoneos-arm.deb
+Size: 7180
+MD5sum: dedddd854d96ae73d982fa1ad731a52a
+Homepage: http://twitter.com/ijulioverne
+Description: Verify Account Photo via Camera Roll
+Name: ZaddyVerifyRoll
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.zaddyverifyroll
+
