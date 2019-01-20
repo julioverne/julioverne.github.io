@@ -867,13 +867,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.loweri
 
 Package: com.julioverne.luxyverifyroll
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.luxyverifyroll_0.0~beta1_iphoneos-arm.deb
-Size: 6764
-MD5sum: 2f9c4814373deda84157473ea7b3a933
+Filename: ./com.julioverne.luxyverifyroll_0.0~beta2_iphoneos-arm.deb
+Size: 6768
+MD5sum: d636dd21292d492faae970aa758ec8b5
 Homepage: http://twitter.com/ijulioverne
 Description: Verify Account Photo via Camera Roll
 Name: LuxyVerifyRoll
@@ -1433,13 +1433,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ytnoau
 
 Package: com.julioverne.zaddyverifyroll
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.zaddyverifyroll_0.0~beta1_iphoneos-arm.deb
+Filename: ./com.julioverne.zaddyverifyroll_0.0~beta2_iphoneos-arm.deb
 Size: 7180
-MD5sum: dedddd854d96ae73d982fa1ad731a52a
+MD5sum: 8b1b711f997e47707af1d3a30e305707
 Homepage: http://twitter.com/ijulioverne
 Description: Verify Account Photo via Camera Roll
 Name: ZaddyVerifyRoll
