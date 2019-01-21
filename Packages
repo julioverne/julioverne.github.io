@@ -1232,6 +1232,22 @@ Name: SFTPEnabler
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpenabler
 
+Package: com.julioverne.signalplane
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.julioverne.signalplane_0.0~beta1_iphoneos-arm.deb
+Size: 44266
+MD5sum: 679c50e86b70d3a9e83d6b8c92601dc8
+Homepage: http://twitter.com/ijulioverne
+Description: Plan For Low Signal
+Name: SignalPlane
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/SignalPlaneSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.signalplane
+
 Package: com.julioverne.simulatetouch
 Architecture: iphoneos-arm
 Version: 0.7-17~beta5
