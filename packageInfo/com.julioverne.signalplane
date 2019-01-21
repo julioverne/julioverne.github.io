@@ -3,7 +3,7 @@
 	"desc_short": "Plan For Low Signal",
 	"desc_long": "Turn Airplane On When Cell Signal Is Lower<br>This is Alternative for tweak AirplaneSignal.<br><br>Configure Options From Settings.",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>0.0~beta2</strong><br>+ Option For Enable Bluetooth.<br>+ Option For Vibrate When Enable Airplane Mode.<br>+ Implemented Battery Life Management by Wake/Sleep Device For Continuous 'Re-Check' Feature.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 	"open": true,
 }
