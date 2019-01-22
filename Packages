@@ -1234,13 +1234,13 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpen
 
 Package: com.julioverne.signalplane
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta3a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.signalplane_0.0~beta3_iphoneos-arm.deb
-Size: 51642
-MD5sum: 0a149c1d03deb8cc81ba550bbf53e2b1
+Filename: ./com.julioverne.signalplane_0.0~beta3a_iphoneos-arm.deb
+Size: 52582
+MD5sum: ac146bbd36bf405c8747472b78e910cf
 Homepage: http://twitter.com/ijulioverne
 Description: Plan For Low Signal
 Name: SignalPlane
