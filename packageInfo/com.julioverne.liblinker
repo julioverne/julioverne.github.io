@@ -1,0 +1,9 @@
+{
+	"name": "liblinker",
+	"desc_short": "link library in executable that's already compiled",
+	"desc_long": "link library in executable that's already compiled. type on terminal: liblinker [EXECUTABLE_PATH] [LIBRARY]",
+	"compatitle": "iOS 10, 11",
+	"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": false,
+}

@@ -804,6 +804,21 @@ dev: delewhopper
 Icon: file:///Library/PreferenceBundles/keyswipeprefs.bundle/keyswipeicon.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
 
+Package: com.julioverne.liblinker
+Architecture: iphoneos-arm
+Version: 0.1a
+Section: Development
+Maintainer: Julio
+Depends: ldid (>= 1:1.2.1)
+Filename: ./com.julioverne.liblinker_0.1a_iphoneos-arm.deb
+Size: 7574
+MD5sum: 62976271a7d6f40ead5b859dc6a41240
+Homepage: http://twitter.com/ijulioverne
+Description: link library in executable that's already compiled. type on terminal: liblinker [EXECUTABLE_PATH] [LIBRARY]
+Name: liblinker
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.liblinker
+
 Package: com.julioverne.lockanim
 Architecture: iphoneos-arm
 Version: 0.0~beta4
