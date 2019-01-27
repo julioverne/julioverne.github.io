@@ -4,7 +4,7 @@ Version: 0.2~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
 Size: 10028
 MD5sum: 0b04b74bb57a4aef287dfa423462a1a5
 Homepage: http://twitter.com/ijulioverne
@@ -19,7 +19,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.albumhider_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.albumhider_0.0~beta1_iphoneos-arm.deb
 Size: 17728
 MD5sum: 41ad9ed5df76a02da531eb1b12cc86ea
 Description: Hide Album's On Photo App
@@ -36,7 +36,7 @@ Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
 Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
-Filename: ./com.julioverne.appellancy11_1.1-20b_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.appellancy11_1.1-20b_iphoneos-arm.deb
 Size: 3709562
 MD5sum: 6ec175b926a05394b391c810408bf3cb
 Description: Control your phone with your face!
@@ -52,7 +52,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./com.julioverne.appssiripin_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.appssiripin_0.0~beta1_iphoneos-arm.deb
 Size: 41214
 MD5sum: 217ae119dae30af7af1c5dec5f4a8637
 Homepage: http://twitter.com/ijulioverne
@@ -68,7 +68,7 @@ Version: 0.0~beta8
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate, applist
-Filename: ./com.julioverne.appstorenohistory_0.0~beta8_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.appstorenohistory_0.0~beta8_iphoneos-arm.deb
 Size: 30776
 MD5sum: 87a291c667022ea14f3afd9461459a57
 Homepage: http://twitter.com/ijulioverne
@@ -84,7 +84,7 @@ Version: 0.0~beta4a
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate
-Filename: ./com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
 Size: 26200
 MD5sum: 669e6b1c112f3d59801b048a3adc3fa3
 Homepage: http://twitter.com/ijulioverne
@@ -100,7 +100,7 @@ Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.artworkify_0.0~beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.artworkify_0.0~beta4_iphoneos-arm.deb
 Size: 26648
 MD5sum: 19b346c1ba2e49529c24ee4dcea649d4
 Homepage: http://twitter.com/ijulioverne
@@ -115,7 +115,7 @@ Version: 0.1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.autoshiftfix_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.autoshiftfix_0.1_iphoneos-arm.deb
 Size: 3632
 MD5sum: e9ae0ad96261c402cd32c0cf30ce15c1
 Homepage: http://twitter.com/ijulioverne
@@ -130,7 +130,7 @@ Version: 0.0~beta1f
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.autowall_0.0~beta1f_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.autowall_0.0~beta1f_iphoneos-arm.deb
 Size: 53442
 MD5sum: e5af898f06ce23e00c86e818d6882bbf
 Homepage: http://twitter.com/ijulioverne
@@ -145,7 +145,7 @@ Architecture: iphoneos-arm
 Version: 0.0~beta2
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: ./com.julioverne.avcache_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.avcache_0.0~beta2_iphoneos-arm.deb
 Size: 25508
 MD5sum: c213978abe7ab6810772976be5b7c6ca
 Homepage: http://twitter.com/ijulioverne
@@ -160,7 +160,7 @@ Version: 0.0~beta
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0), firmware (<< 11.0), mobilesubstrate
-Filename: ./com.julioverne.bgmodekill_0.0~beta_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.bgmodekill_0.0~beta_iphoneos-arm.deb
 Size: 8310
 MD5sum: a5363e81d53013b0c7713f4cdc5342ea
 Homepage: http://twitter.com/ijulioverne
@@ -176,7 +176,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, libactivator
 Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11
-Filename: ./com.julioverne.bigshotjb11_0.0.2-2b_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.bigshotjb11_0.0.2-2b_iphoneos-arm.deb
 Size: 33342
 MD5sum: 6dee458bdcc43bcf1a053c9beb44a200
 Description: take screenshots of full vertical scrollable area
@@ -191,7 +191,7 @@ Version: 0.1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 10)
-Filename: ./com.julioverne.biotap_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.biotap_0.1_iphoneos-arm.deb
 Size: 5580
 MD5sum: b8a88a3a67559efef3ebe0d157f1d777
 Homepage: http://twitter.com/ijulioverne
@@ -206,7 +206,7 @@ Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.blightalert_0.0~beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.blightalert_0.0~beta4_iphoneos-arm.deb
 Size: 39614
 MD5sum: f4c813a2c6b0519406f14c4f1fbab657
 Homepage: http://twitter.com/ijulioverne
@@ -221,7 +221,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.bumbleverifyroll_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.bumbleverifyroll_0.0~beta1_iphoneos-arm.deb
 Size: 6834
 MD5sum: 06a32eeeae8ea675e70c613efcc7a818
 Homepage: http://twitter.com/ijulioverne
@@ -237,7 +237,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
 Conflicts: com.rpetrich.cacheclearer
-Filename: ./com.julioverne.cacheclearer11_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.cacheclearer11_0.1_iphoneos-arm.deb
 Size: 9274
 MD5sum: 0f568d50a130814ba49c9d0e050775c3
 Description: Clear app caches from the Usage section in Settings
@@ -252,7 +252,7 @@ Version: 0.0~beta1
 Section: Addons (Flipswitch)
 Maintainer: Julio
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
-Filename: ./com.julioverne.cachewipe_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.cachewipe_0.0~beta1_iphoneos-arm.deb
 Size: 17176
 MD5sum: 78cfdabc3bd5e8d556b103597f1d1857
 Homepage: http://twitter.com/ijulioverne
@@ -268,7 +268,7 @@ Version: 0.0~beta5
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, cydia
-Filename: ./com.julioverne.celldia_0.0~beta5_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.celldia_0.0~beta5_iphoneos-arm.deb
 Size: 20012
 MD5sum: 66397cc1ea555845371bf859725a419b
 Homepage: http://twitter.com/ijulioverne
@@ -283,7 +283,7 @@ Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.chargemode_0.0~beta3_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.chargemode_0.0~beta3_iphoneos-arm.deb
 Size: 23290
 MD5sum: 525d26712a39bb3f6ba2cc7cd4cc71d7
 Homepage: http://twitter.com/ijulioverne
@@ -299,7 +299,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Conflicts: org.thebigboss.cirdock
-Filename: ./com.julioverne.cirdock11_1.3.0_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.cirdock11_1.3.0_iphoneos-arm.deb
 Size: 343130
 MD5sum: ba59e67b8b744648d4725018c438d2ca
 Description: evolutionizes the device's dock!
@@ -315,7 +315,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.closecam_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.closecam_0.0~beta2_iphoneos-arm.deb
 Size: 6426
 MD5sum: 7dfd93bdc1cb80fc2fa3ef08913c1f1e
 Homepage: http://twitter.com/ijulioverne
@@ -329,7 +329,7 @@ Architecture: iphoneos-arm
 Version: 0.1
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.cmdsapp_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.cmdsapp_0.1_iphoneos-arm.deb
 Size: 8618
 MD5sum: 56883a7ab8d704fd7ce63c70f1c8c586
 Homepage: http://twitter.com/ijulioverne
@@ -344,7 +344,7 @@ Version: 0.1b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./com.julioverne.coverflowm_0.1b_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.coverflowm_0.1b_iphoneos-arm.deb
 Size: 167876
 MD5sum: 521115f193c938e1f8a6bbf40ff6efdf
 Homepage: http://twitter.com/ijulioverne
@@ -360,7 +360,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), firmware (<< 12.0), cydia, mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.cypush
-Filename: ./com.julioverne.cypush2_1.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.cypush2_1.1_iphoneos-arm.deb
 Size: 115070
 MD5sum: 57a80808493e9defc0ce4bf5aee2cc40
 Homepage: http://twitter.com/ijulioverne
@@ -376,7 +376,7 @@ Version: 0.7
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.cypush_0.7_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.cypush_0.7_iphoneos-arm.deb
 Size: 144198
 MD5sum: aa24716c8f972bc961c21f2811a6d7db
 Homepage: http://twitter.com/ijulioverne
@@ -392,7 +392,7 @@ Version: 1.0-1a
 Section: Development
 Maintainer: Julio
 Depends: dpkg
-Filename: ./com.julioverne.debrepack_1.0-1a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.debrepack_1.0-1a_iphoneos-arm.deb
 Size: 1176
 MD5sum: d20dcc8512cca79ae4f2418e13adb720
 Homepage: http://twitter.com/ijulioverne
@@ -407,7 +407,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.dropbearalert_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.dropbearalert_0.0~beta2_iphoneos-arm.deb
 Size: 57280
 MD5sum: acbdd585abd6384451b695643bc103f2
 Homepage: http://twitter.com/ijulioverne
@@ -422,7 +422,7 @@ Version: 0.3
 Section: Addons (Flipswitch)
 Maintainer: Julio
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 10)
-Filename: ./com.julioverne.dropbearswith_0.3_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.dropbearswith_0.3_iphoneos-arm.deb
 Size: 22508
 MD5sum: 5d48d87dcd01e309605ae322b3981ea9
 Homepage: http://twitter.com/ijulioverne
@@ -437,7 +437,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./com.julioverne.edgealert_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.edgealert_0.0~beta2_iphoneos-arm.deb
 Size: 51462
 MD5sum: 5e6745ce2b2e94ca4d7de3b6acccff14
 Homepage: http://twitter.com/ijulioverne
@@ -453,7 +453,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Conflicts: com.phillipt.epicentre
-Filename: ./com.julioverne.epicentre11_2.0-2a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.epicentre11_2.0-2a_iphoneos-arm.deb
 Size: 401994
 MD5sum: c80137ade3fb14fd39d3d42628d672f9
 Description: A gorgeous passcode replacement
@@ -470,7 +470,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Conflicts: com.zachatrocity.exsto
-Filename: ./com.julioverne.exsto11_0.0.1.2-1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.exsto11_0.0.1.2-1_iphoneos-arm.deb
 Size: 117200
 MD5sum: 64b6d89f75557d29a1e0682624d358d8
 Description: Unleash your folders
@@ -488,7 +488,7 @@ Maintainer: Julio
 Pre-Depends: ldid, unzip, coreutils, zip, sed
 Depends: mobilesubstrate
 Conflicts: com.julioverne.ext3nder
-Filename: ./com.julioverne.ext3nder-installer_021a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.ext3nder-installer_021a_iphoneos-arm.deb
 Size: 517614
 MD5sum: 97410eb497efc82931531097c071311f
 Homepage: http://twitter.com/ijulioverne
@@ -503,7 +503,7 @@ Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64
-Filename: ./com.julioverne.fastuprepo_0.0~beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.fastuprepo_0.0~beta4_iphoneos-arm.deb
 Size: 7810
 MD5sum: b8179fa786e3a990c47b009a0230c90e
 Homepage: http://twitter.com/ijulioverne
@@ -518,7 +518,7 @@ Version: 0.1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.fiona_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.fiona_0.1_iphoneos-arm.deb
 Size: 48978
 MD5sum: 227ba49bb8c4d103291edd7b0cd6bdd6
 Homepage: http://twitter.com/ijulioverne
@@ -534,7 +534,7 @@ Version: 0.0~beta5
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
-Filename: ./com.julioverne.flipconvert_0.0~beta5_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.flipconvert_0.0~beta5_iphoneos-arm.deb
 Size: 12096
 MD5sum: 693022ef5f547b74310d91b4c5493c5f
 Homepage: http://twitter.com/ijulioverne
@@ -549,7 +549,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, com.rpetrich.flipcontrolcenter
-Filename: ./com.julioverne.flipstatus_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.flipstatus_0.0~beta1_iphoneos-arm.deb
 Size: 6068
 MD5sum: b77ae59c1af4a4c2a4ff47b4419e3f2a
 Homepage: http://twitter.com/ijulioverne
@@ -564,7 +564,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.fmydblocker_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.fmydblocker_0.0~beta1_iphoneos-arm.deb
 Size: 32826
 MD5sum: e6c84ec4279c54656be27e16803de276
 Homepage: http://twitter.com/ijulioverne
@@ -580,7 +580,7 @@ Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.goodwifi_0.0~beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.goodwifi_0.0~beta4_iphoneos-arm.deb
 Size: 54976
 MD5sum: 3866bac5a02349a472a818f7180e28ca
 Homepage: http://twitter.com/ijulioverne
@@ -596,7 +596,7 @@ Version: 0.0~beta2a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.googleauthpro_0.0~beta2a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.googleauthpro_0.0~beta2a_iphoneos-arm.deb
 Size: 40416
 MD5sum: 95c83e6e064b2307806ecc620b14347d
 Description: Features For Google Authenticator App
@@ -610,7 +610,7 @@ Version: 0.5
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.gravity_0.5_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.gravity_0.5_iphoneos-arm.deb
 Size: 148142
 MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
 Homepage: http://twitter.com/ijulioverne
@@ -626,7 +626,7 @@ Version: 0.0~beta
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.headsetbtsound_0.0~beta_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.headsetbtsound_0.0~beta_iphoneos-arm.deb
 Size: 4362
 MD5sum: 54f98e5b7bfeb932f390ddb860ba6c39
 Homepage: http://twitter.com/ijulioverne
@@ -641,7 +641,7 @@ Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.heysiri_0.0~beta6_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.heysiri_0.0~beta6_iphoneos-arm.deb
 Size: 103384
 MD5sum: c05b579d8b4108a8b921d427e5fe09b7
 Homepage: http://twitter.com/ijulioverne
@@ -658,7 +658,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: isklikas.hold2speak
-Filename: ./com.julioverne.hold2speak11_1.3a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.hold2speak11_1.3a_iphoneos-arm.deb
 Size: 15934
 MD5sum: 06eeafdd3aebd73b32ced5e688d04af8
 Description: answer your calls, while activating your speaker.
@@ -672,7 +672,7 @@ Version: 0.0~beta2
 Section: Addons (Flipswitch)
 Maintainer: Julio
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
-Filename: ./com.julioverne.hotspotting_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.hotspotting_0.0~beta2_iphoneos-arm.deb
 Size: 16628
 MD5sum: c42d26b65ded94b65021b88175c8575f
 Homepage: http://twitter.com/ijulioverne
@@ -688,7 +688,7 @@ Version: 0.3b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.hsbcbypass_0.3b_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.hsbcbypass_0.3b_iphoneos-arm.deb
 Size: 20872
 MD5sum: e14a86ec12b15e84782fb4b21a0b2081
 Homepage: http://twitter.com/ijulioverne
@@ -704,7 +704,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 7.0)
 Conflicts: com.N104.IllLookLater
-Filename: ./com.julioverne.illlooklater11_2.0-2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.illlooklater11_2.0-2_iphoneos-arm.deb
 Size: 63910
 MD5sum: 71956aa9ae3a698a0ae11ec1b669d7f3
 Description: Look at notifications when YOU want to!
@@ -718,7 +718,7 @@ Version: 0.0~beta4a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.jailprotect_0.0~beta4a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.jailprotect_0.0~beta4a_iphoneos-arm.deb
 Size: 53168
 MD5sum: 593b42aeab259fd500e32f99ac598373
 Homepage: http://twitter.com/ijulioverne
@@ -733,7 +733,7 @@ Architecture: iphoneos-arm
 Version: 0.1
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.jbme10xwebclip_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.jbme10xwebclip_0.1_iphoneos-arm.deb
 Size: 1191716
 MD5sum: c180063c32a4b76d83edc0ec0dbc567d
 Homepage: http://twitter.com/ijulioverne
@@ -747,7 +747,7 @@ Architecture: iphoneos-arm
 Version: 0.1
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.jbme93xwebclip_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.jbme93xwebclip_0.1_iphoneos-arm.deb
 Size: 371670
 MD5sum: df516824873601c38ca3d405818bcc63
 Homepage: http://twitter.com/ijulioverne
@@ -762,7 +762,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.kb2change_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.kb2change_0.0~beta1_iphoneos-arm.deb
 Size: 5536
 MD5sum: 36692297a4afe6db779608aad5ebe345
 Homepage: http://twitter.com/ijulioverne
@@ -777,7 +777,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.kbmover_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.kbmover_0.0~beta1_iphoneos-arm.deb
 Size: 20464
 MD5sum: fa9b78608e9d3826df2ef064be533062
 Homepage: http://twitter.com/ijulioverne
@@ -794,7 +794,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.keyswipe
-Filename: ./com.julioverne.keyswipe11_1.0.2-3a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.keyswipe11_1.0.2-3a_iphoneos-arm.deb
 Size: 16654
 MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
 Description: change keyboard by swiping up/down
@@ -810,7 +810,7 @@ Version: 0.1a
 Section: Development
 Maintainer: Julio
 Depends: ldid (>= 1:1.2.1)
-Filename: ./com.julioverne.liblinker_0.1a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.liblinker_0.1a_iphoneos-arm.deb
 Size: 7574
 MD5sum: 62976271a7d6f40ead5b859dc6a41240
 Homepage: http://twitter.com/ijulioverne
@@ -825,7 +825,7 @@ Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.lockanim_0.0~beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.lockanim_0.0~beta4_iphoneos-arm.deb
 Size: 132472
 MD5sum: dff4e22d3b1f0097f1306e0ddbc6ab7c
 Homepage: http://twitter.com/ijulioverne
@@ -841,7 +841,7 @@ Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./com.julioverne.lockdroid_0.0~beta6_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.lockdroid_0.0~beta6_iphoneos-arm.deb
 Size: 101220
 MD5sum: e3491a2d5849108582b8084dd4f264d1
 Homepage: http://twitter.com/ijulioverne
@@ -856,7 +856,7 @@ Architecture: iphoneos-arm
 Version: 0.0~beta1
 Section: Themes
 Maintainer: Julio
-Filename: ./com.julioverne.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
 Size: 178432
 MD5sum: ef34fa0ab5fec723693676eeefcba969
 Homepage: http://twitter.com/ijulioverne
@@ -871,7 +871,7 @@ Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.lowerinstall_0.0~beta3_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.lowerinstall_0.0~beta3_iphoneos-arm.deb
 Size: 39614
 MD5sum: 375d896161131f0c85ad4ed7ba79792c
 Homepage: http://twitter.com/ijulioverne
@@ -886,7 +886,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.luxyverifyroll_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.luxyverifyroll_0.0~beta2_iphoneos-arm.deb
 Size: 6768
 MD5sum: d636dd21292d492faae970aa758ec8b5
 Homepage: http://twitter.com/ijulioverne
@@ -901,7 +901,7 @@ Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./com.julioverne.mcast_0.0~beta3_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.mcast_0.0~beta3_iphoneos-arm.deb
 Size: 180046
 MD5sum: e89afa453b20f9340ff6f39ca1b16400
 Homepage: http://twitter.com/ijulioverne
@@ -916,7 +916,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.messagefile_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.messagefile_0.0~beta2_iphoneos-arm.deb
 Size: 37634
 MD5sum: 8bc4be06b1b5cae6d525d4f1c18f9efb
 Homepage: http://twitter.com/ijulioverne
@@ -932,7 +932,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, applist, preferenceloader
 Conflicts: com.pigigaldi.mibandutility
-Filename: ./com.julioverne.mibandalert_0.0.4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.mibandalert_0.0.4_iphoneos-arm.deb
 Size: 89274
 MD5sum: ada880b1c69c36240682104dc62cbe19
 Homepage: http://twitter.com/ijulioverne
@@ -948,7 +948,7 @@ Version: 0.0~beta34a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
-Filename: ./com.julioverne.mimport_0.0~beta34a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.mimport_0.0~beta34a_iphoneos-arm.deb
 Size: 628510
 MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
 Homepage: http://twitter.com/ijulioverne
@@ -964,7 +964,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.modernxinoblur_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.modernxinoblur_0.0~beta1_iphoneos-arm.deb
 Size: 4694
 MD5sum: 857762091b59d0c4f1c3ec3bf0c6e801
 Homepage: http://twitter.com/ijulioverne
@@ -979,7 +979,7 @@ Version: 0.0~beta3b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.mpscale_0.0~beta3b_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.mpscale_0.0~beta3b_iphoneos-arm.deb
 Size: 17756
 MD5sum: 56bbfcbd83f00f5873fa26595a163044
 Description: Show Scale On Maps
@@ -993,7 +993,7 @@ Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.mshuffle_0.0~beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.mshuffle_0.0~beta4_iphoneos-arm.deb
 Size: 36360
 MD5sum: 952e38aef5190722b4d40b0c57fb80ef
 Homepage: http://twitter.com/ijulioverne
@@ -1008,7 +1008,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.musicsection_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.musicsection_0.0~beta1_iphoneos-arm.deb
 Size: 5286
 MD5sum: 1f61b0bd1fa4f840de2c4f492b6fa90f
 Homepage: http://twitter.com/ijulioverne
@@ -1023,7 +1023,7 @@ Version: 0.0~beta2-0
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.musicv_0.0~beta2-0_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.musicv_0.0~beta2-0_iphoneos-arm.deb
 Size: 30526
 MD5sum: 74d8a657abe39da836fcd39d8185d394
 Homepage: http://twitter.com/ijulioverne
@@ -1038,7 +1038,7 @@ Version: 0.5~beta6b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.musilyric_0.5~beta6b_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.musilyric_0.5~beta6b_iphoneos-arm.deb
 Size: 27592
 MD5sum: b6aef46ebc0c2c3184117d0df937a438
 Homepage: http://twitter.com/ijulioverne
@@ -1053,7 +1053,7 @@ Version: 0.0~beta11
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.ncgroup_0.0~beta11_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.ncgroup_0.0~beta11_iphoneos-arm.deb
 Size: 62908
 MD5sum: 0a896f2055a2f16e1602f26d1a20ff95
 Homepage: http://twitter.com/ijulioverne
@@ -1069,7 +1069,7 @@ Version: 0.0~beta1a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.noexinsta_0.0~beta1a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.noexinsta_0.0~beta1a_iphoneos-arm.deb
 Size: 4536
 MD5sum: 1ce4c679d1029f3ba050efb822247ba2
 Homepage: http://twitter.com/ijulioverne
@@ -1083,7 +1083,7 @@ Architecture: iphoneos-arm
 Version: 0.4
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.nonceset_0.4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.nonceset_0.4_iphoneos-arm.deb
 Size: 79690
 MD5sum: 40f3d68e9145c3d3fff7ce743c555249
 Homepage: http://twitter.com/ijulioverne
@@ -1098,7 +1098,7 @@ Version: 0.2~beta6a
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.ntspeed_0.2~beta6a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.ntspeed_0.2~beta6a_iphoneos-arm.deb
 Size: 46050
 MD5sum: d2eb0cd528b3cc70729b63b930735c24
 Homepage: http://twitter.com/ijulioverne
@@ -1113,7 +1113,7 @@ Architecture: iphoneos-arm
 Version: 0.2a
 Section: Utilities
 Maintainer: Julio
-Filename: ./com.julioverne.otablocker_0.2a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.otablocker_0.2a_iphoneos-arm.deb
 Size: 5776
 MD5sum: 6a34e12c6763f7c848aa72fea1b0c3f1
 Homepage: http://twitter.com/ijulioverne
@@ -1128,7 +1128,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.phonescroll_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.phonescroll_0.0~beta2_iphoneos-arm.deb
 Size: 4660
 MD5sum: b3737781d1d32672a4529303ee3d95bd
 Homepage: http://twitter.com/ijulioverne
@@ -1143,7 +1143,7 @@ Version: 0.0~beta3b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./com.julioverne.pimport_0.0~beta3b_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.pimport_0.0~beta3b_iphoneos-arm.deb
 Size: 474934
 MD5sum: 7b0d865d5c707e0faee5a4bbacdc6d9d
 Homepage: http://twitter.com/ijulioverne
@@ -1159,7 +1159,7 @@ Version: 0.2
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./com.julioverne.pipenabler_0.2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.pipenabler_0.2_iphoneos-arm.deb
 Size: 51330
 MD5sum: 123bf8b4024833a599de4a48eb613550
 Homepage: http://twitter.com/ijulioverne
@@ -1176,7 +1176,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
 Conflicts: com.phillipt.quickunlock
-Filename: ./com.julioverne.quickunlock11_1.0_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.quickunlock11_1.0_iphoneos-arm.deb
 Size: 7338
 MD5sum: 9f4323d1ad8f0f270d6f26c2db731f5b
 Description: Skip lockscreen if no notifications
@@ -1192,7 +1192,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
 Conflicts: com.mohammadag.raisetoanswer
-Filename: ./com.julioverne.raisetoanswer_1.0-1d_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.raisetoanswer_1.0-1d_iphoneos-arm.deb
 Size: 8650
 MD5sum: a991600ed235f35b8b701d2087834c84
 Description: Raise phone to answer phone calls
@@ -1207,7 +1207,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.sbcard_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.sbcard_0.0~beta1_iphoneos-arm.deb
 Size: 5766
 MD5sum: 6455178d0e0fe1b1433216bd8543e2ba
 Homepage: http://twitter.com/ijulioverne
@@ -1222,7 +1222,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.scloudinfo_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.scloudinfo_0.0~beta1_iphoneos-arm.deb
 Size: 13586
 MD5sum: b91d5f7497747b5f203aaaa08caafe2b
 Homepage: http://twitter.com/ijulioverne
@@ -1238,7 +1238,7 @@ Section: Networking
 Maintainer: Julio
 Depends: openssl, firmware (>> 9)
 Conflicts: openssh
-Filename: ./com.julioverne.sftpenabler_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.sftpenabler_0.1_iphoneos-arm.deb
 Size: 34314
 MD5sum: 709690c9fe1fb751e2d3f655704e423e
 Homepage: http://twitter.com/ijulioverne
@@ -1253,7 +1253,7 @@ Version: 0.0~beta3a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./com.julioverne.signalplane_0.0~beta3a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.signalplane_0.0~beta3a_iphoneos-arm.deb
 Size: 52582
 MD5sum: ac146bbd36bf405c8747472b78e910cf
 Homepage: http://twitter.com/ijulioverne
@@ -1270,7 +1270,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0)
 Conflicts: kr.iolate.simulatetouch
-Filename: ./com.julioverne.simulatetouch_0.7-17~beta5_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.simulatetouch_0.7-17~beta5_iphoneos-arm.deb
 Size: 15808
 MD5sum: d83da7a40aa506e40fe5c4abfb1129f2
 Description: Simulate fake touch and swipe. Support multi-touch
@@ -1285,7 +1285,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.siriifpossible_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.siriifpossible_0.0~beta1_iphoneos-arm.deb
 Size: 8758
 MD5sum: 256ebb05c7325d2d964c27deb05ae228
 Homepage: http://twitter.com/ijulioverne
@@ -1300,7 +1300,7 @@ Version: 0.1c
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.slackhistory_0.1c_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.slackhistory_0.1c_iphoneos-arm.deb
 Size: 15480
 MD5sum: f67af1064dd443f4a1fa6eb007f398f4
 Homepage: http://twitter.com/ijulioverne
@@ -1315,7 +1315,7 @@ Version: 0.2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.tb280_0.2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.tb280_0.2_iphoneos-arm.deb
 Size: 7072
 MD5sum: 366d035a20640c76f7953b0a36c2974c
 Homepage: http://twitter.com/ijulioverne
@@ -1330,7 +1330,7 @@ Version: 0.1-1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./com.julioverne.trustdevalert_0.1-1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.trustdevalert_0.1-1_iphoneos-arm.deb
 Size: 9358
 MD5sum: 7c0e61e9f5309166dc4c8b5233b66f5a
 Homepage: http://twitter.com/ijulioverne
@@ -1345,7 +1345,7 @@ Version: 0.2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.tw280_0.2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.tw280_0.2_iphoneos-arm.deb
 Size: 5914
 MD5sum: e7323832b8368edc6f66109b2ef22907
 Homepage: http://twitter.com/ijulioverne
@@ -1360,7 +1360,7 @@ Version: 0.1
 Section: Utilities
 Maintainer: Julio
 Depends: uikittools (= 1.1.12)
-Filename: ./com.julioverne.uicachefix10_0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.uicachefix10_0.1_iphoneos-arm.deb
 Size: 786
 MD5sum: f42e8ad259ce7f0fefc37d1776a249b2
 Homepage: http://twitter.com/ijulioverne
@@ -1376,7 +1376,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
 Conflicts: com.bd452.upscale
-Filename: ./com.julioverne.upscale_0.0.1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.upscale_0.0.1_iphoneos-arm.deb
 Size: 19980
 MD5sum: 1083cc7331adcc61f2ee387a523a79d3
 Description: Change Device Resolution
@@ -1393,7 +1393,7 @@ Maintainer: Julio
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
 Conflicts: com.skrew.vwallpaper2os11, com.skrew.vwallpaper2os
 Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9, com.skrew.vwallpaper2os10
-Filename: ./com.julioverne.vwallpaper2os11_0.5.0-3a_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.vwallpaper2os11_0.5.0-3a_iphoneos-arm.deb
 Size: 11336402
 MD5sum: a48aa195b2efc253e9f13b96e95a99be
 Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
@@ -1407,7 +1407,7 @@ Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.whilelotus_0.0~beta3_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.whilelotus_0.0~beta3_iphoneos-arm.deb
 Size: 9222
 MD5sum: 705985bd19c8092994fa23fb63949a1a
 Homepage: http://twitter.com/ijulioverne
@@ -1422,7 +1422,7 @@ Version: 3.5.4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: ./com.julioverne.widplayer_3.5.4_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.widplayer_3.5.4_iphoneos-arm.deb
 Size: 136852
 MD5sum: 24fe8751802a8512022e9e36c1b78227
 Homepage: http://twitter.com/ijulioverne
@@ -1438,7 +1438,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.wishdia_0.0~beta1_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.wishdia_0.0~beta1_iphoneos-arm.deb
 Size: 19078
 MD5sum: 5e3803320f0b4f65c99c4d491157a763
 Homepage: http://twitter.com/ijulioverne
@@ -1453,7 +1453,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.ytnoautoplay_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.ytnoautoplay_0.0~beta2_iphoneos-arm.deb
 Size: 14076
 MD5sum: 36633b6fcc6c1f5abf0d89dff04d66c5
 Homepage: http://twitter.com/ijulioverne
@@ -1468,7 +1468,7 @@ Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./com.julioverne.zaddyverifyroll_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.zaddyverifyroll_0.0~beta2_iphoneos-arm.deb
 Size: 7180
 MD5sum: 8b1b711f997e47707af1d3a30e305707
 Homepage: http://twitter.com/ijulioverne
