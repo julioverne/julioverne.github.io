@@ -1,0 +1,9 @@
+/**
+* jQuery asProgress v0.2.4
+* https://github.com/amazingSurge/jquery-asProgress
+*
+* Copyright (c) amazingSurge
+* Released under the LGPL-3.0 license
+*/
+.progress{height:20px;padding:1px;margin-bottom:20px;overflow:hidden;background-color:#f7f7f7; border-radius:5px;border:1px solid #eee}.progress__bar{display:block;height:100%;background:#5bc0de;border-radius:5px;}.progress__label{float:right;padding:4px 2px;font-size:12px;color:#fff}.progress--radius{border-radius:2px}.progress--round{border-radius:1000px}.progress--radius .progress__bar,.progress--round .progress__bar{border-radius:inherit}.progress--small{height:15px}.progress--large{height:10px}.progress--success .progress__bar{background-color:#43ac6a}.progress--alert .progress__bar{background-color:#f04124}.progress--striped .progress__bar{-webkit-background-size:40px 40px;background-size:40px 40px}
+/*# sourceMappingURL=asProgress.min.css.map */
