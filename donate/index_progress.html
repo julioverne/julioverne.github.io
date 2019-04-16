@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js">
+<head>
+  <title>julioverne's Donate</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/asProgress.min.css">
+  <style type="text/css">
+    body {
+      padding: 40px;
+    }
+  </style>
+</head>
+<body>
+  <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+  <section>
+    <h2>julioverne's Donate Page</h2>
+    <section>
+      <div class="row">
+        <div class="example">
+          <h4>Help me, <br>For a long time, I have been using only one device, iPhone 5S, that i got help buying. Sadly, I broke it a few weeks ago. While i'm currently away, I decided to create a donation page to help my getting a new iPhone. Also, I hope we will get many years of cool stuff comes in our JB Comunity.</h4>
+          <pre><code data-language="html"></code></pre>
+        </div>
+        <div class="show">
+		  <br>
+          <h5>Progress Status For A New Device:</h5>
+          <div class="progress" role="progressbar" data-goal="0" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress__bar"><span class="progress__label"></span></div>
+          </div>
+        </div>
+        <div>
+          <button id="button_donate" style="float: left;position: relative;left: 45%;">Donate</button>
+        </div>
+		<br/><br/>
+		<h3>(03/11/19) Status: ordered iPhone XR 128GB</h3>
+		<div class="example">
+          <h4>Today, we have Collected ~$1500, thats is equivalent to buy a new iPhone XR 128GB on my country(BR), the initial meta is for device iPhone XS 64GB, but for long time away i decided to order XR. And its done one more time, with help of comunity. Thanks again JB Comunity!</h4>
+          <pre><code data-language="html"></code></pre>
+        </div>
+		
+      </div>
+	  <p style="float:right"><i>julioverne</i></p>
+    </section>
+  </section>
+  <script type="text/javascript" src="../jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="js/jquery-asProgress.min.js"></script>
+  <script type="text/javascript">
+    jQuery(function($) {
+      $('.progress').asProgress({
+        'namespace': 'progress'
+      });	  
+	  $('.progress').asProgress('reset');
+	  var urlSelfParts = window.location.href.split('/donate');
+	  var urlPgr = urlSelfParts[0] + "/donate/progress.now";
+	  $.ajax({
+		url: urlPgr,
+		type: "GET",
+		cache: false,
+		crossDomain: true,
+		success: function (returnhtml) {
+			$("#tweakStatusInfo").hide();
+			var decodeResp = eval('('+returnhtml+')');
+			if(decodeResp.progress) {
+				$('.progress').asProgress('go', decodeResp.progress);
+			} else {
+			    $('.progress').asProgress('reset');
+			}
+        },
+		error: function (err) {
+			$('.progress').asProgress('reset');
+		}
+		});
+		$('#button_donate').on('click', function() {
+		    location.href = "https://paypal.me/julioverne";
+		});
+    });
+  </script>
+</body>
+</html>
