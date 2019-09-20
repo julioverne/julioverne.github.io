@@ -71,28 +71,79 @@ function loadPackageInfo() {
 		}
 	});
 }
-function loadRecentUpdates() {
-	var form_url = window.location.protocol+"//"+window.location.hostname+"/last.updates";
+
+
+var allPackages = null;
+var packagesSection = {};
+function openSection(sectionName)
+{
+	var sectionContent = "";
+	sectionContent += "<li><a onclick=\"loadMainSection()\"><img class='icon' src='./back.png'/><label><< Back</label></a></li>";
+	for (var keyNow in packagesSection[sectionName]) {
+		var dicNow = packagesSection[sectionName][keyNow];
+		var urlOpen = "cydia://package/"+dicNow.package;
+		if (navigator.userAgent.search(/Cydia/) == -1) {
+			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+dicNow.package;
+		}
+		sectionContent +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='./"+sectionName+".png'/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
+	}
+	
+	$("#browser").html(sectionContent);
+}
+function loadMainSection()
+{
+	var sectionContent = "";
+	for (var section in packagesSection) {
+		sectionContent += "<li><a onclick=\"openSection('"+section+"')\"><img class='icon' src='./"+section+".png'/><label>"+section+"</label></a></li>";
+	}
+	$("#browser").html(sectionContent);
+}
+function loadRecentUpdates()
+{
+	var htmlnews = "";
+	var count = 0;
+	for (var dicNow in allPackages) {
+		count++;
+		if(count > 5) {
+			break;
+		}
+		var urlOpen = "cydia://package/"+allPackages[dicNow].package;
+		if (navigator.userAgent.search(/Cydia/) == -1) {
+			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+allPackages[dicNow].package;
+		}
+		htmlnews +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='./"+allPackages[dicNow].section+".png'/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
+	}
+	$("#updates").html(htmlnews);
+}
+function loadPackages() {
+	var form_url = window.location.protocol+"//"+window.location.hostname+"/all.packages";
 	$.ajax({
 		url: form_url,
 		type: "GET",
 		cache: false,
 		crossDomain: true,
 		success: function (returnhtml) {
-			var decodeResp = eval('('+returnhtml+')');
+			allPackages = eval('('+returnhtml+')');
 			var htmlnews = "";
-			for (var dicNow in decodeResp) {
-				var urlOpen = "cydia://package/"+decodeResp[dicNow].package;
-				if (navigator.userAgent.search(/Cydia/) == -1) {
-					urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+decodeResp[dicNow].package;
+			for (var dicNow in allPackages) {
+				
+				var section = allPackages[dicNow].section;
+				if(section==null) {
+					section = "Unknown";
 				}
-				htmlnews +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='tweak.png'/><label>"+decodeResp[dicNow].name+" v"+decodeResp[dicNow].version+"</label></a></li>";
+				if(packagesSection[section] == null) {
+					packagesSection[section] = [];
+				}
+				packagesSection[section].push(allPackages[dicNow]);
 			}
-			$("#updates").html(htmlnews);
+			loadMainSection();
+			loadRecentUpdates();
+			$("#browser_").show();
 			$("#updates_").show();			
         },
 		error: function (err) {
-			$("#updates_").hide();	
+			$("#browser_").hide();	
+			$("#updates_").hide();
 		}
 	});
 }
