@@ -94,7 +94,7 @@ function loadMainSection()
 {
 	var sectionContent = "";
 	for (var section in packagesSection) {
-		sectionContent += "<li><a onclick=\"openSection('"+section+"')\"><img class='icon' src='./"+section+".png'/><label>"+section+"</label></a></li>";
+		sectionContent += "<li><a onclick=\"openSection('"+section+"')\"><img class='icon' src='./"+section+".png'/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
 	}
 	$("#browser").html(sectionContent);
 }
