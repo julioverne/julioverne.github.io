@@ -723,16 +723,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.google
 
 Package: com.julioverne.gravity
 Architecture: iphoneos-arm
-Version: 0.5
+Version: 0.6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.gravity_0.5_iphoneos-arm.deb
-Size: 148142
-MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
-SHA1: a7c4b89610e471c05d19d1449ba34aa257b99951
-SHA256: b5d08bd8dae545691da9018934848e59a8b6a451057892408a0e886210d1250c
-SHA512: 830cdefcd2a420c9d707a23912322481b5850e6afba43b1ae1e9a2224b026cf4fe2a7101f9f286eac8fe66eefb3dfd9b48050367a04d8ffc399e367a2384d026
+Filename: ./debfiles/com.julioverne.gravity_0.6_iphoneos-arm.deb
+Size: 229780
+MD5sum: 85210daf871e98dd41898f8f844bd036
+SHA1: 38538b6270934ccd8bed612b35a5b418a66ba4d2
+SHA256: 6c169cde642e61f135b7edb02d7d32d75d72a2d4248f99c33d17a6174c6c61a5
+SHA512: d682db07fee331cf3c9e3e681c0e35998e6bfcd7c201235ab48c23de328f0851d0482d0e0e4d5fc830ffbf2633c458246d33fe0f875869fe88b4f60f8dec28e9
 Homepage: http://twitter.com/ijulioverne
 Description: Graviboard alternative
 Name: Gravity
@@ -1127,16 +1127,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.miband
 
 Package: com.julioverne.mimport
 Architecture: iphoneos-arm
-Version: 0.0~beta34a
+Version: 0.0~beta35
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
-Filename: ./debfiles/com.julioverne.mimport_0.0~beta34a_iphoneos-arm.deb
-Size: 628510
-MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
-SHA1: 31a6664506201f3eb3c2dbb93b275e799910a87a
-SHA256: e6407bb1e4487898befe52f8a2fefdec39f4eeb00c1b8fbf7c73acb3ac5e0a64
-SHA512: 1fb001563273e8e566964d7866ef28d3e09b58c451175322924c8823bd5569e88833737f3ce3c5a4c07a539ebf301ef3c05db074410d9b2d6e1f7cce0f6a2e05
+Filename: ./debfiles/com.julioverne.mimport_0.0~beta35_iphoneos-arm.deb
+Size: 1186564
+MD5sum: 0f37d68b42ae0f36971d83c87774ab9a
+SHA1: 83b0bf5fb72dd0672d1b49e654b01561f3976c98
+SHA256: 098bfce52bd5daed645ca0810db1a8ecbcb28795c9fee9439f965692767131eb
+SHA512: 00b5ce92126a42396e5a74037a2e6440f17f092c1b7399372c1f122aaa93d4b9902406894f7868b577989aec79374a5109c00f05e0732b2337617a32f4eb01a8
 Homepage: http://twitter.com/ijulioverne
 Description: Media Importer Directly From Music App
 Name: MImport
