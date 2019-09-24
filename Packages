@@ -1307,16 +1307,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.nonces
 
 Package: com.julioverne.ntspeed
 Architecture: iphoneos-arm
-Version: 0.2~beta6a
+Version: 0.2~beta7
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.ntspeed_0.2~beta6a_iphoneos-arm.deb
-Size: 46050
-MD5sum: d2eb0cd528b3cc70729b63b930735c24
-SHA1: ac9ec44cf4c90f5b9760acbd86859723b3bc2dae
-SHA256: 420add913f4681b83ce4254808cbcc9d7e763722a89677949d10b7d30dd636d2
-SHA512: c81d8b39e43d13a4192e144af29a2ea794f82859d4b51b6fd993bdcc98167815b24cd6e951072a2fe9b36dfb68585cde55dea181c8cd9b1b68a155f5a68d5126
+Filename: ./debfiles/com.julioverne.ntspeed_0.2~beta7_iphoneos-arm.deb
+Size: 110788
+MD5sum: ef362c4050a24743dafc91feb02cac45
+SHA1: 55faba4da01bbb88f5f9d68f79516540cef48032
+SHA256: ef5cf1285d1fecf42e554a900f09b407c6012af7055bcc88d58a8743acb5bfa3
+SHA512: 27e79310635806d7d558645d1bc0e5e3a50b638ce8dcb719243abbd6959ce77fddbf9ce81d1e8fc2645c0575055d50dd99c9cfb741ffe0bd7416824eb2b8f70d
 Homepage: http://twitter.com/ijulioverne
 Description: See Active Traffic Network Speed
 Name: NtSpeed
