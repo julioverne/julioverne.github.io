@@ -150,16 +150,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.autosh
 
 Package: com.julioverne.autowall
 Architecture: iphoneos-arm
-Version: 0.0~beta1f
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.autowall_0.0~beta1f_iphoneos-arm.deb
-Size: 53442
-MD5sum: e5af898f06ce23e00c86e818d6882bbf
-SHA1: 3fad51c3f8b6c63ba6227c91490535b8ef8d1111
-SHA256: a6a7e66615ef1bd8d00e0d84e11d7066fa7dbca2faa825a049b776cfa5cf44fe
-SHA512: c39378f37ee53114041bb41a342e94ce124f5de26ca1b6dbe0daf070975261ae7dd16a83f4aed74409a19b4a2f087e2d842074c5c4c1d3577c300966f37b22c3
+Filename: ./debfiles/com.julioverne.autowall_0.0~beta2_iphoneos-arm.deb
+Size: 122106
+MD5sum: e152354aa3ea1214c0071c2ee878d342
+SHA1: 5d007b452c72dd94f1aa4a8b5b26feec0396c216
+SHA256: 086ed2aa75d82fd847ee2a543d4ef59298f19bdaf1eb6f809baddff1c54fdc30
+SHA512: d3ea91fed1ba0619eae5f5fe13e263b59337d3c06c0a045e41b753c45f8ab39b4202b511fa26f29191b2e60b991c956b1958ff7b91f1ecd4a91050813f5cdd39
 Homepage: http://twitter.com/ijulioverne
 Description: Scheduled Wallpapers
 Name: AutoWall
@@ -999,16 +999,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockan
 
 Package: com.julioverne.lockdroid
 Architecture: iphoneos-arm
-Version: 0.0~beta6
+Version: 0.0~beta7
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.julioverne.lockdroid_0.0~beta6_iphoneos-arm.deb
-Size: 101220
-MD5sum: e3491a2d5849108582b8084dd4f264d1
-SHA1: 4e457807d6429e367e4d644ac569de0bdff8fb23
-SHA256: 14920d289563da52d16bb89263d0a6e54c35eacf7e2b44084070c0fdcb34cd0e
-SHA512: 3f68f7f37a8a4e6db7a2dfa161b8efde57e53e59a62c58711e9ee4bfa5e7b9bc56e4965c6313304ed36c6b3d127548c324405fa78848b8aba437bf6e323280e7
+Filename: ./debfiles/com.julioverne.lockdroid_0.0~beta7_iphoneos-arm.deb
+Size: 209872
+MD5sum: fc684485160b3c4c51fa0b5d2acb2a0d
+SHA1: a8e0bf34a0ce1cc141c52192a2cc92c9caf6beb9
+SHA256: 63728ccad577910b046dee194a260cc6fe79b37cad83b8b96306345920cbce05
+SHA512: cb759c198f9b091b5566c98b05e788d6d03b3514c3a68ae6eb84ee40434a51845fda1729016a549a1a722fd6fa92be5554add162327c8e4a63a2a6b899d82fc2
 Homepage: http://twitter.com/ijulioverne
 Description: Android Lockscreen
 Name: LockDroid
