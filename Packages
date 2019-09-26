@@ -333,16 +333,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.celldi
 
 Package: com.julioverne.chargemode
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.chargemode_0.0~beta3_iphoneos-arm.deb
-Size: 23290
-MD5sum: 525d26712a39bb3f6ba2cc7cd4cc71d7
-SHA1: 46bef6cc3df117a8d3ada0b033a905e096639fe2
-SHA256: 685160880f0c4a2875110fcee790470b4ea41ae96dbc66d640339b81b1720d9c
-SHA512: 32dc9f229415ef41313d101e1b0b027a4ebeb97207cb558c44874144a5947a73295137d007d7d04cd3ea40f57e21a4b1c1719188b36584f2157717ec6538e778
+Filename: ./debfiles/com.julioverne.chargemode_0.0~beta4_iphoneos-arm.deb
+Size: 33340
+MD5sum: a272ecac3a8a3827f5d8d43862ee4d9a
+SHA1: e8287a13ccd645bfaf707f857baa1d00de3c0b73
+SHA256: 5cbc360d2488f8746a473d799319a7e2f77448753222ee0a4c324009df2d552f
+SHA512: 4cbee480d2405e59b2822641338aa124a7dcf09582bf56b2355315c13fa89f07f8b742eab3efd1e04c1c69a2f23af863af147a07bd0f685ca7991d10511f02ec
 Homepage: http://twitter.com/ijulioverne
 Description: Lite Charging View with Batt Dots and Hour.
 Name: ChargeMode
@@ -1361,16 +1361,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.phones
 
 Package: com.julioverne.pimport
 Architecture: iphoneos-arm
-Version: 0.0~beta3b
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./debfiles/com.julioverne.pimport_0.0~beta3b_iphoneos-arm.deb
-Size: 474934
-MD5sum: 7b0d865d5c707e0faee5a4bbacdc6d9d
-SHA1: b3deee5a435a8ea1965312e025d57e185e8fc99c
-SHA256: 8c7f19171046053a4e3f3532a3d9d8d1d61de2aee8e918340ff29895e809c622
-SHA512: 1977f0b5e17e37e7f37e4ec8a5f20573536e3fa05143136bf928805025b34389b17ec37119fee2b5ab5eb1109cb65eb57784d56e2a745237be18f480543d206c
+Filename: ./debfiles/com.julioverne.pimport_0.0~beta4_iphoneos-arm.deb
+Size: 636356
+MD5sum: b2cb48fd8b6fd8de49efb5876784743f
+SHA1: 1e288fb30578eef902e98a1444d0262f47ef611b
+SHA256: 0af43fb58f7c7c6f6678f29317d93b4bfbe66e7f3490ad0c52b95a366a602d6e
+SHA512: 64921b311a0ed97ce60bda689a53a68cbc5097f9d4bb24ffef5fdb9a2f57d68512825236c8ac518573f8dd2bcf87d656b4a28e713197f822d1e9e84db415f3a9
 Homepage: http://twitter.com/ijulioverne
 Description: Photo Importer Directly From Photo App
 Name: PImport
