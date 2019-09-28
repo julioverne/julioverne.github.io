@@ -1380,16 +1380,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.pimpor
 
 Package: com.julioverne.pipenabler
 Architecture: iphoneos-arm
-Version: 0.2
+Version: 0.3
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debfiles/com.julioverne.pipenabler_0.2_iphoneos-arm.deb
-Size: 51330
-MD5sum: 123bf8b4024833a599de4a48eb613550
-SHA1: cad1f1367e777110af1794c80b33ec52d4f41665
-SHA256: 7085c06a866b852b7b9b5d1dcb0e560a45b7ed40c21fad1891852ee4209bfc10
-SHA512: 58d001b78aab7a4ed831a83b15896ef9987375da0533eeb914f14af834b41bee4d46ec646f30ab2b21cdf5d398e8954fbb7f0c13f759f2ab4f8f2d84ee9b4d4d
+Filename: ./debfiles/com.julioverne.pipenabler_0.3_iphoneos-arm.deb
+Size: 93774
+MD5sum: 881d4d7ef387e88abfff2e2e78662d01
+SHA1: 65accfc38fa0801eceb980bd95763889e33472f9
+SHA256: ccceedc36b2a4b1de3ce114328a0864543bd0497a72c1ca7027e017b1fb9bb6e
+SHA512: 28ef78bf63d70b3d8ec0a9d088e38509d44112754c2e00a5d812cfc76c62c558f3418dab3ccd8fac836916c61f3cdf7518cbaa8e04cdc0a8c7b4a2c21066ed4a
 Homepage: http://twitter.com/ijulioverne
 Description: Enabler Picture In Picture Feature
 Name: PIPEnabler
@@ -1418,17 +1418,17 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.quicku
 
 Package: com.julioverne.raisetoanswer
 Architecture: iphoneos-arm
-Version: 1.0-1d
+Version: 1.1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
 Conflicts: com.mohammadag.raisetoanswer
-Filename: ./debfiles/com.julioverne.raisetoanswer_1.0-1d_iphoneos-arm.deb
-Size: 8650
-MD5sum: a991600ed235f35b8b701d2087834c84
-SHA1: fb0c4f19463e3cea062a97afddd0b6bd34080d8b
-SHA256: 34ce8656790973e2473bfb02d54260aa5077eb42fe1bf8abb9e3c598f34cdb53
-SHA512: a8d650533c752a266a449726d2e7e2608a7619525a3c7591406a699d14d43cc41f5309df692af1bda958892da4cf6ea831a4a132fa756304548de80227546c61
+Filename: ./debfiles/com.julioverne.raisetoanswer_1.1_iphoneos-arm.deb
+Size: 29844
+MD5sum: 23772739f95ccdb8aa01d68a507ec49f
+SHA1: f32e97e904e3c5ed01f5e38a9fc17175868516ff
+SHA256: abee59eff55c1c9a43516172e91d61a4fc22835a1abb7ecc5566d2ca744876d5
+SHA512: 5f0ae7c2d4980213030a6255f223a17150bed7691565117d284b00b17713ea813f5d371dd2dc8b4599ea8225bf0b1dbf1ad8f1c0635eded3c5a81bfe8ce614c0
 Description: Raise phone to answer phone calls
 Name: RaiseToAnswer (iOS 11)
 Author: MohammadAG, julioverne

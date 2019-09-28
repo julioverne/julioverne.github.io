@@ -1,0 +1,9 @@
+{
+	"name": "PIPEnabler",
+	"desc_short": "Enabler Picture In Picture Feature",
+	"desc_long": "Enable Picture In Picture Videos in some Apps.",
+	"compatitle": "iOS 11, 12",
+	"changelog": "<strong>0.3</strong><br>+ Support arm64e<br>",
+	"screenshot": null,
+	"open": true,
+}
