@@ -535,17 +535,17 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.edgeal
 
 Package: com.julioverne.epicentre11
 Architecture: iphoneos-arm
-Version: 2.0-2a
+Version: 2.0-2b
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Conflicts: com.phillipt.epicentre
-Filename: ./debfiles/com.julioverne.epicentre11_2.0-2a_iphoneos-arm.deb
-Size: 401994
-MD5sum: c80137ade3fb14fd39d3d42628d672f9
-SHA1: 525bc827de5692ea7622d87cbdf69b1ae22c6e46
-SHA256: e70e37642145d6ff4aff9b98c0262d3e9515e9a433f0b193718924c800c0b116
-SHA512: 3d908b539b888ccb57ed7fbdf49fc24ade65217d3652b053f18a0eedee0219331be01fedd7b684e019d35293cd1e38476355a853535d38a509c473e5eb4592d9
+Filename: ./debfiles/com.julioverne.epicentre11_2.0-2b_iphoneos-arm.deb
+Size: 459028
+MD5sum: 2717c255b67a9c9465eae7c33d49c1b1
+SHA1: 0b4b16ee73024aa8ab8506096288116bfe606e82
+SHA256: b7fa7d93c153883e00e40dabb29145d41451d7fff8e6350de2fe67513a137cef
+SHA512: 0c2f60ce623a1b3681762679c27a0b4fb80e8c1d47f298450341e51a51c0390b515438eb4b7708f7ee63bee546ccaf5279e45a2311d7a991ae34f2cef78dbc1d
 Description: A gorgeous passcode replacement
 Author: Phillip Tennen, julioverne
 Name: Epicentre (iOS 11)
@@ -555,17 +555,17 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.epicen
 
 Package: com.julioverne.exsto11
 Architecture: iphoneos-arm
-Version: 0.0.1.2-1
+Version: 0.0.1.2-2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Conflicts: com.zachatrocity.exsto
-Filename: ./debfiles/com.julioverne.exsto11_0.0.1.2-1_iphoneos-arm.deb
-Size: 117200
-MD5sum: 64b6d89f75557d29a1e0682624d358d8
-SHA1: 19c8b5046f00d46c398ff5c1389ba581a03b1361
-SHA256: 9ed04dd3bb4d52b543227944166d1757050176de88c520b77d7d5de265addceb
-SHA512: 243ec09f498496766e3ba862a12152ba0d57dc9ea372bb62e6d3bcb96183a266c7934e92240c2008685fd02ef1c8a5e8e4e3001b79c9c3ccaaf6cf8255124daa
+Filename: ./debfiles/com.julioverne.exsto11_0.0.1.2-2_iphoneos-arm.deb
+Size: 226142
+MD5sum: cc3682071470c771aa66076847cb1b8d
+SHA1: b85af610564d712eabdc7874202e2f29c0a1fa75
+SHA256: 97f5cc6ee0fd5a8007085b831656171dd1fa478c525efa0e7a07e28b3a8ad74f
+SHA512: 9751a47c5214dc9edba37daa9e8a8d21a2f141cb49e406ca0fc9059bcdc5cd83165d08e0b4743ddbd91f04643afee87875dfbbdea8c41f483b6aa4998174bd78
 Description: Unleash your folders
 Author: Zachary Russell, julioverne
 Name: Exsto (iOS 11)
@@ -632,16 +632,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fiona
 
 Package: com.julioverne.flipconvert
 Architecture: iphoneos-arm
-Version: 0.0~beta5
+Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
-Filename: ./debfiles/com.julioverne.flipconvert_0.0~beta5_iphoneos-arm.deb
-Size: 12096
-MD5sum: 693022ef5f547b74310d91b4c5493c5f
-SHA1: a338636fa9aea089973931af9cd1310462c6f3ba
-SHA256: 54737b61d903e6e624aa82123d6ad45b1b6de2dd358c869382350d790274785f
-SHA512: fd50c2d9fa582ba4087db68348bdc7a2b5297eb4167082565ffca0be91dad418fb60d3b988d6bbbae1b74b89fd65bc789d0b117d1f58f782889719556c38b59b
+Filename: ./debfiles/com.julioverne.flipconvert_0.0~beta6_iphoneos-arm.deb
+Size: 58740
+MD5sum: f8d33a120ad3e363d1809b0a34c5b3d3
+SHA1: 360bca671e03d0be2dc2da12532c5f5d6b3d6a6b
+SHA256: 377b581886f8b4873c4a58bc0cbf1ecdd1bbb7a00ec7da76f4a76ffd17987bab
+SHA512: 7036ac8e9cbfac4cb2e42f498a53d7c638535346bd70e0b052e0ec9dd3de2aa26e6973c50c51d2ec81fe23555023f76d5f40f12302291a37819c45ff3dd91dab
 Homepage: http://twitter.com/ijulioverne
 Description: Port Flipswitch Toggles With CCSupport
 Name: FlipConvert
