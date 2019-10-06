@@ -72,20 +72,20 @@ function loadPackageInfo() {
 	});
 }
 
-
+				
 var allPackages = null;
 var packagesSection = {};
 function openSection(sectionName)
 {
 	var sectionContent = "";
-	sectionContent += "<li><a onclick=\"loadMainSection()\"><img class='icon' src='./back.png'/><label><< Back</label></a></li>";
+	sectionContent += "<li class=\"has-icon\"><a onclick=\"loadMainSection()\" role=\"button\"><img style=\"border-radius: 20%;\" href=\"back.png\" alt=\"\" srcset=\"back.png 2x, back.png 3x\" class=\"icon\"/><label><< Back</label></a></li>";
 	for (var keyNow in packagesSection[sectionName]) {
 		var dicNow = packagesSection[sectionName][keyNow];
 		var urlOpen = "cydia://package/"+dicNow.package;
 		if (navigator.userAgent.search(/Cydia/) == -1) {
 			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+dicNow.package;
-		}
-		sectionContent +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='./"+sectionName+".png'/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
+		}		
+		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+sectionName+".png\" alt=\"\" srcset=\""+sectionName+".png 2x, "+sectionName+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
 	}
 	
 	$("#browser").html(sectionContent);
@@ -93,8 +93,8 @@ function openSection(sectionName)
 function loadMainSection()
 {
 	var sectionContent = "";
-	for (var section in packagesSection) {
-		sectionContent += "<li><a onclick=\"openSection('"+section+"')\"><img class='icon' src='./"+section+".png'/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
+	for (var section in packagesSection) {		
+		sectionContent += "<li class=\"has-icon\"><a onclick=\"openSection('"+section+"')\" role=\"button\"><img style=\"border-radius: 20%;\" href=\""+section+".png\" alt=\"\" srcset=\""+section+".png 2x, "+section+".png 3x\" class=\"icon\"/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
 	}
 	$("#browser").html(sectionContent);
 }
@@ -110,8 +110,8 @@ function loadRecentUpdates()
 		var urlOpen = "cydia://package/"+allPackages[dicNow].package;
 		if (navigator.userAgent.search(/Cydia/) == -1) {
 			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+allPackages[dicNow].package;
-		}
-		htmlnews +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='./"+allPackages[dicNow].section+".png'/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
+		}				
+		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+allPackages[dicNow].section+".png\" alt=\"\" srcset=\""+allPackages[dicNow].section+".png 2x, "+allPackages[dicNow].section+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
 	}
 	$("#updates").html(htmlnews);
 }
