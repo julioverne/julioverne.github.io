@@ -15,7 +15,6 @@ $(function() {
 function loadPackageInfo() {
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
-		$("#showAddRepoUrl_").show();
 	}
 	var urlSelfParts = window.location.href.split('description.html?id=');
 	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
@@ -85,7 +84,7 @@ function openSection(sectionName)
 		if (navigator.userAgent.search(/Cydia/) == -1) {
 			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+dicNow.package;
 		}		
-		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+sectionName+".png\" alt=\"\" srcset=\""+sectionName+".png 2x, "+sectionName+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
+		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(sectionName)+".png\" alt=\"\" srcset=\""+encodeURI(sectionName)+".png 2x, "+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
 	}
 	
 	$("#browser").html(sectionContent);
@@ -94,7 +93,7 @@ function loadMainSection()
 {
 	var sectionContent = "";
 	for (var section in packagesSection) {		
-		sectionContent += "<li class=\"has-icon\"><a onclick=\"openSection('"+section+"')\" role=\"button\"><img style=\"border-radius: 20%;\" href=\""+section+".png\" alt=\"\" srcset=\""+section+".png 2x, "+section+".png 3x\" class=\"icon\"/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
+		sectionContent += "<li class=\"has-icon\"><a onclick=\"openSection('"+section+"')\" role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(section)+".png\" alt=\"\" srcset=\""+encodeURI(section)+".png 2x, "+encodeURI(section)+".png 3x\" class=\"icon\"/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
 	}
 	$("#browser").html(sectionContent);
 }
@@ -111,7 +110,7 @@ function loadRecentUpdates()
 		if (navigator.userAgent.search(/Cydia/) == -1) {
 			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+allPackages[dicNow].package;
 		}				
-		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+allPackages[dicNow].section+".png\" alt=\"\" srcset=\""+allPackages[dicNow].section+".png 2x, "+allPackages[dicNow].section+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
+		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\""+encodeURI(allPackages[dicNow].section)+".png 2x, "+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
 	}
 	$("#updates").html(htmlnews);
 }
