@@ -48,7 +48,7 @@ function loadPackageInfo() {
 				$("#compatitle").html(decodeResp.compatitle);
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
-					$("#ios_ver").html("Current iOS: "+ios_ver);
+					$("#cur_ios").html("Current iOS: "+ios_ver);
 				}
 			}
 			if(decodeResp.changelog) {
