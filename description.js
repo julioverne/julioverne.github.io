@@ -44,10 +44,11 @@ function loadPackageInfo() {
 				$("#desc_long_").show();
 			}
 			if(decodeResp.compatitle) {
+				$("#compatitle_").show();
 				$("#compatitle").html(decodeResp.compatitle);
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
-					$("#compatitle_").html("Current iOS: "+ios_ver);
+					$("#ios_ver").html("Current iOS: "+ios_ver);
 				}
 			}
 			if(decodeResp.changelog) {
