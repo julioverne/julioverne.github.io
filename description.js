@@ -10,7 +10,7 @@ if(!theme) {
 	theme = "ios7.min";
 	localStorage.setItem('Theme', theme);
 }
-$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=a" type="text/css" />');
+$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=b" type="text/css" />');
 function toogleTheme()
 {
 	var themeNew = "ios7.min";
