@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
 	<title>julioverne's Repo</title>
-	<link rel="stylesheet" href="ios7.min.css?=2">
+	<noscript>
+		<link rel="stylesheet" href="ios7.min.css?_=a" type="text/css" />
+	</noscript>
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta charset="utf-8">
 </head>
 <script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=10"></script>
+<script src="description.js?_=a"></script>
 <body onload="loadPackages();">
 	<main id="content">
 		<h2 role="header">julioverne's Repo</h2>
@@ -21,6 +23,9 @@
 			</li>
 		</ul>
 		<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://julioverne.github.io/</p>
+		<noscript>
+			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
+		</noscript>
 		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
 		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
 		<h2 role="header">Social</h2>
@@ -41,6 +46,14 @@
 				<a href="https://twitter.com/iJulioVerne" target="_blank" role="button">
 					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
 					<label>Follow julioverne</label>
+				</a>
+			</li>
+		</ul>
+		<h2 role="header">Theme</h2>
+		<ul>
+			<li>
+				<a onclick="toogleTheme();" role="button">
+					<p>Change Theme</p>
 				</a>
 			</li>
 		</ul>

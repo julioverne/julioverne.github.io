@@ -5,6 +5,21 @@ function iOSVersion() {
 	}
 	return false;
 }
+var theme = localStorage.Theme;
+if(!theme) {
+	theme = "ios7.min";
+	localStorage.setItem('Theme', theme);
+}
+$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=a" type="text/css" />');
+function toogleTheme()
+{
+	var themeNew = "ios7.min";
+	if(localStorage.Theme === themeNew) {
+		themeNew = "ios7dark";
+	}
+	localStorage.setItem('Theme', themeNew);
+	window.location.reload(false);
+}
 $(function() {
   $("li").on("click",function() {
 	  if(this.id=="dnt") {
@@ -13,11 +28,11 @@ $(function() {
   });
 });
 function loadPackageInfo() {
+	var urlSelfParts = window.location.href.split('description.html?id=');
+	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
 	}
-	var urlSelfParts = window.location.href.split('description.html?id=');
-	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	$.ajax({
 		url: form_url,
 		type: "GET",

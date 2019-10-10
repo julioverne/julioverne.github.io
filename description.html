@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
 	<title>julioverne's Repo</title>
-	<link rel="stylesheet" href="ios7.min.css?=3">
+	<noscript>
+		<link rel="stylesheet" href="ios7.min.css?_=a" type="text/css" />
+	</noscript>
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta charset="utf-8">
 </head>
 <script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=10"></script>
+<script src="description.js?_=a"></script>
 <body onload="loadPackageInfo();loadPackages();">
 	<main id="content">
 		<span id="showAddRepo_" hidden>
@@ -23,6 +25,9 @@
 			</ul>
 			<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://julioverne.github.io/</p>
 		</span>
+		<noscript>
+			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
+		</noscript>
 		<span id="tweakStatusInfo"><h2></h2><ul style="background:#c6e8ff"><center><li><p id="errorInfo">Loading Description...</p></li></center></ul></span>
 		<span id="desc_short_" hidden><h2 id="name" hidden></h2><ul style="background:#c6e8ff"><center><li><p id="desc_short"></p></li></center></ul></span>
 		<span id="compatitle_" hidden>
@@ -57,6 +62,14 @@
 		</ul>
 		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
 		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
+		<h2 role="header">Theme</h2>
+		<ul>
+			<li>
+				<a onclick="toogleTheme();" role="button">
+					<p>Change Theme</p>
+				</a>
+			</li>
+		</ul>
 	</main>
 	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">julioverne © 2019</p>
 </body>
