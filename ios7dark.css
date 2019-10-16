@@ -1,4 +1,4 @@
-/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+
 button,
 hr,
 input {
@@ -233,14 +233,7 @@ template {
     display: none
 }
 
-/*!
- Basic iOS 7 CSS
- https://github.com/hbang/iOS-7-CSS
 
- HASHBANG Productions <https://hbang.ws/>
- Apache License 2.0 <https://www.apache.org/licenses/LICENSE-2.0.html>
- UI design copyright Apple Inc.
-*/
 .font-body,
 body {
     font:14px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
@@ -563,7 +556,6 @@ p{
     /*margin-left: 59px;*/
     color: #FFFFFF !important;
 }
-/*# sourceMappingURL=ios7.min.css.map */
 
 #screenshot img {
 	display: inline-block;
@@ -578,4 +570,10 @@ p{
 	overflow-y: hidden;
 	white-space: nowrap;
 	height:350px;
+}
+span .value {
+    color: #777;
+    float: right;
+    text-align: right;
+    margin-left: 8px;
 }

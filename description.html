@@ -3,14 +3,14 @@
 <head>
 	<title>julioverne's Repo</title>
 	<noscript>
-		<link rel="stylesheet" href="ios7.min.css?_=c" type="text/css" />
+		<link rel="stylesheet" href="ios7.min.css?_=d" type="text/css" />
 	</noscript>
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta charset="utf-8">
 </head>
 <script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=c"></script>
+<script src="description.js?_=d"></script>
 <body onload="loadPackageInfo();loadPackages();">
 	<main id="content">
 		<span id="showAddRepo_" hidden>
@@ -39,6 +39,15 @@
 		<span id="screenshot_" hidden><h2>Screenshot's</h2><ul><li><p id="screenshot"></p></li></ul></span>
 		<span id="is_open_source_" hidden><h2 id="name" hidden></h2><ul style="background:#c6e8ff"><center><li><p>This Package Is Open Source</p></li></center></ul></span>
 		<span id="changelog_" hidden><h2>Changelog</h2><ul><li><p id="changelog"></p></li></ul></span>
+		<span id="pkg_" hidden><h2 role="header">Package Info</h2><ul>
+			<li><p>Name<span class="value" id="pkg_name">-</span></p></li>
+			<li><p>Identifier<span class="value" id="pkg_id">-</span></p></li>
+			<li><p>Section<span class="value" id="pkg_section">-</span></p></li>
+			<li><p>Version<span class="value" id="pkg_version">-</span></p></li>
+			<li><p>Size<span class="value" id="pkg_size">-</span></p></li>
+			<li><p>Updated<span class="value" id="pkg_time">-</span></p></li>
+			</ul>
+		</span>
 		<h2 role="header">Social</h2>
 		<ul>
 			<li class="has-icon">
