@@ -122,9 +122,6 @@ function getPackageWithID(pkg_id)
 }
 function loadPackageDetail()
 {
-	if (navigator.userAgent.search(/Cydia/) == -1) {
-		return;
-	}
 	var packageID = window.location.href.split('description.html?id=')[1];
 	var packageInfo = getPackageWithID(packageID);
 	if(packageInfo!=null) {
