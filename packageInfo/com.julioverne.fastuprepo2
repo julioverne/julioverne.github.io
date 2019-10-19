@@ -1,7 +1,7 @@
 {
 	"name": "fastUpRepo2",
 	"desc_short": "SpeedUp Cydia Update Sources by blocking download translation.",
-	"desc_long": "Fast Up Cydia Refresh Repo by blocking:<br>- /InRelase<br>- Not Found .gpg<br>- Not Found /Packages in others compressions (.xz, .lzma, .bz2)<br>- Failed URL's Requests.<br><br>If you have a lot of Sources speed up will drastically notable.<br><br><p>Configure Oprions From Settings.",
+	"desc_long": "Fast Up Cydia Refresh Repo by blocking:<br>- /InRelase Requests<br>- Not Found .gpg<br>- Not Found /Packages in others compressions (.xz, .lzma, .bz2)<br>- Failed URL's Requests.<br><br>If you have a lot of Sources speed up will drastically notable.<br><br>Note: If having error in refresh sources try reset cache state or disable in Settings.<br><p>Configure Options From Settings.",
 	"compatitle": "iOS 12",
 	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
