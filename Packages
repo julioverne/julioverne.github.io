@@ -593,18 +593,37 @@ Name: Ext3nder Installer
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
 
-Package: com.julioverne.fastuprepo
+Package: com.julioverne.fastuprepo2
 Architecture: iphoneos-arm
-Version: 0.0~beta4
+Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64
-Filename: ./debfiles/com.julioverne.fastuprepo_0.0~beta4_iphoneos-arm.deb
-Size: 7810
-MD5sum: b8179fa786e3a990c47b009a0230c90e
-SHA1: 55cbf568701d119f9be67b03947e43766746e227
-SHA256: fdc9d0b3423197edf7a6f416ccc907eb1c9691e8f9117f96b049941cf55ba056
-SHA512: 5128299502e74240fc561e6afc6f5cec445b070b4e580c45430427ab5f64ca971bfcbeec8cf3e8de15d8edb791ef6c3f0cdc637f58b5c39d35ed4ca3bc673265
+Filename: ./debfiles/com.julioverne.fastuprepo2_0.0~beta1_iphoneos-arm.deb
+Size: 68454
+MD5sum: 7a941f51a68c791658eb3961d32698fb
+SHA1: 25581a1c43cb5c3a2743df8a7eb63fab6b61aa6c
+SHA256: 3e3600045d178cfa50500ea8733dd2e6c35355672b65e82fdb456d0594ed1500
+SHA512: f352be760a4a3846736d1db781f992a38ccc0f03309166515dfe23d2e5320d5123faa89deb70f82f33a629dead37901c5c8035457db849e96dac3a20e21ecab9
+Homepage: http://twitter.com/ijulioverne
+Description: SpeedUp Cydia Update Sources by blocking download translation.
+Name: fastUpRepo2
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fastuprepo2
+
+Package: com.julioverne.fastuprepo
+Architecture: iphoneos-arm
+Version: 0.0~beta4a
+Section: Tweaks
+Maintainer: Julio
+Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64, firmware (<< 11.0)
+Conflicts: com.julioverne.fastuprepo2
+Filename: ./debfiles/com.julioverne.fastuprepo_0.0~beta4a_iphoneos-arm.deb
+Size: 7814
+MD5sum: a5590bc15dc3402e739b41229a2f7224
+SHA1: ea478f755abecdd22c89202ed3233603d2fecfc8
+SHA256: e4db78b345529dce847c855357b95ae59d95e95347a57b8e357772dddcd0c362
+SHA512: 932ec29bd9c222a85eb3e9377f6e28037d62aaea0382f2510ecc9d88f3a94ddcef552c2363b6cef75de78103fc2a04e322dc4ade7295a312cf552acce2f7727d
 Homepage: http://twitter.com/ijulioverne
 Description: SpeedUp Cydia Update Sources by blocking download translation.
 Name: fastUpRepo
