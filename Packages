@@ -1603,16 +1603,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.tb280
 
 Package: com.julioverne.trustdevalert
 Architecture: iphoneos-arm
-Version: 0.2
+Version: 0.2a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debfiles/com.julioverne.trustdevalert_0.2_iphoneos-arm.deb
-Size: 16568
-MD5sum: 642a60ee71105e603e18587f59787563
-SHA1: 272edd8ba557193ac9ec19c67260556a82d40908
-SHA256: 6127a03361aa2aafdf00f4990face315cc621a1b5cedd845b96b9ba54df037d2
-SHA512: 7b43910c24da646c10d5a48f8dd5f2ac6994573771415d4147c7eded042b64cd355e10be3a6a1a05b178a29d3657d9d36a04786d515f73725a07c8861b247a60
+Filename: ./debfiles/com.julioverne.trustdevalert_0.2a_iphoneos-arm.deb
+Size: 16344
+MD5sum: 68982fc100fed530c120b4eb9129af12
+SHA1: db1ff6087eb6e4a48cbef98d8975cf06dd013eaa
+SHA256: 78c8935f929f41060bbd7defcde8c59a4074980e504db4ab45fea1cc96db3657
+SHA512: d1497ddd73ade9ab6e56de2e782e3d03810495257b66d17ff6b94f583324aa8a55823a651ec5f8dcec720a53e659c4f7830d84ce39311e88f118e6ebec2cc47e
 Homepage: http://twitter.com/ijulioverne
 Description: Add Trust Button In Alert Of Free Developer Profile Not Trusted.
 Name: trustDevAlert
