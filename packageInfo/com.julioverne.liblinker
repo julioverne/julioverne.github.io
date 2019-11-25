@@ -1,9 +1,9 @@
 {
 	"name": "liblinker",
 	"desc_short": "link library in executable that's already compiled",
-	"desc_long": "link library in executable/library that's already compiled. type on terminal:<br>liblinker [EXECUTABLE_PATH] [LIBRARY]<br><br>[EXECUTABLE_PATH]: Target file.<br>[LIBRARY]: Library to link in file.",
+	"desc_long": "link library in executable/library that's already compiled. type on terminal:<br><br><center>liblinker [EXECUTABLE_PATH] [LIBRARY]</center><br><br>[EXECUTABLE_PATH]: Target file.<br>[LIBRARY]: Library to link in file.",
 	"compatitle": "iOS 10, 11, 12",
-	"changelog": "<strong>0.2</strong><br>+ Support FAT file (archs), No need more to extract specific arch to make libliker work.<br>+ Support arm64e.<br><strong>0.1</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>0.2</strong><br>+ Support FAT file (archs), No need more to extract specific arch to make liblinker work.<br>+ Support arm64e.<br><strong>0.1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 	"open": false,
 }
