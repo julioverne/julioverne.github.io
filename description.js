@@ -32,7 +32,7 @@ function loadPackageInfo() {
 	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
-		$("#open_cydia").href("cydia://url/https://cydia.saurik.com/api/share#?source=https://julioverne.github.io/&package="+urlSelfParts[1]);
+		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://julioverne.github.io/&package="+urlSelfParts[1]);
 	}
 	$.ajax({
 		url: form_url,
