@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: julioverne's Tweaks
 MD5Sum:
- 822c4e7147c7ebac40d824e691d175d5 76451 Packages
- 320ef7a6c14e780973ef1721b4b079ec 20785 Packages.bz2
+ cb809e8bb3c96b2ba3f0363aac00b002 76451 Packages
+ ff57670e86ab097bea9cebefcfca2ef3 20775 Packages.bz2
