@@ -1146,16 +1146,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.miband
 
 Package: com.julioverne.mimport
 Architecture: iphoneos-arm
-Version: 0.0~beta36
+Version: 0.0~beta36a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
-Filename: ./debfiles/com.julioverne.mimport_0.0~beta36_iphoneos-arm.deb
-Size: 1033394
-MD5sum: e31ecf63a5876f9a9712d7950e62da47
-SHA1: 7be58258a81cfad21ccdca870fb34cbfbb4c2b56
-SHA256: 95f7e0f81fa080521746951b9f0c078a4a4ac0decd0506034d62822ef84b6abf
-SHA512: 595d3f6b3eecbee1e990658e6510a1b106367482e87c219445826e49d3815df5dbbaca5ab2c27ea28e9993374dfa511f2623c65c1e6291a51198b58076542d38
+Filename: ./debfiles/com.julioverne.mimport_0.0~beta36a_iphoneos-arm.deb
+Size: 887892
+MD5sum: fe6e0a43983306c524d88d4c3dab5190
+SHA1: a39427fec09c1a371f29a9aa1b07eaa1580a980c
+SHA256: 3d63db4e0892c9ece4e36ef7705d6bb297fa948e6ce05aa228fa9636568c9265
+SHA512: 26b2a4774c85848c9de98cd0023c8ad081286247889fc55d86bf6f2661ccd5e2dfec56711cc962566295d4fe82ea4a13e20129d928d0eeab11b276e92f406295
 Homepage: http://twitter.com/ijulioverne
 Description: Media Importer Directly From Music App
 Name: MImport

@@ -3,7 +3,7 @@
 	"desc_short": "Import Media Directly From Music App",
 	"desc_long": "✔️ Supported Audio files: mp3, m4a, m4r, aac, wav, aif, aiff, aifc, caf, amr<br>✔️ Supported Video files: mp4, m4v, mov, 3gp<br>✔️ Edit Tags before Import.<br>✔️ Select Multiples files to Import.<br>✔️ Import m4a/m4r as Ringtone.<br>✔️ Import Media Via Documents Share/Open In App<br>✔️ URL Schema to Import Media<br>✔️ One Click to Fetch Artwork, Metadatas<br><br>URL Schema like this: music:///mimport?path=/var/mobile/music_to_import.mp3",
 	"compatitle": "iOS 6 through 13",
-	"changelog": "<strong>0.0~beta36</strong><br>+ Fix iOS 13<br><strong>0.0~beta35</strong><br>+ Support arm64e<br><strong>0.0~beta34</strong><br>+ Fix Crash iOS 11.<br><strong>0.0~beta33</strong><br>+ Import From: Wi-Fi Sharing.<br><strong>0.0~beta32</strong><br>+ Fix Metadata Search.<br><strong>0.0~beta31</strong><br>+ Favorites section.<br><strong>0.0~beta30</strong><br>+ Import from Dropbox.<br>",
+	"changelog": "<strong>0.0~beta36a</strong><br>- Improved MImport SharePlugin;<br>- Disabled Open in Music on iOS > 11.0 (use MImport SharePlugin instead);<br><strong>0.0~beta36</strong><br>+ Fix iOS 13<br><strong>0.0~beta35</strong><br>+ Support arm64e<br><strong>0.0~beta34</strong><br>+ Fix Crash iOS 11.<br><strong>0.0~beta33</strong><br>+ Import From: Wi-Fi Sharing.<br><strong>0.0~beta32</strong><br>+ Fix Metadata Search.<br><strong>0.0~beta31</strong><br>+ Favorites section.<br><strong>0.0~beta30</strong><br>+ Import from Dropbox.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://i.imgur.com/yLZ7HkP.png' target='_blank'><img width=95% src='http://i.imgur.com/yLZ7HkP.png'/></a><br></div>",
 	"open": true,
 }
