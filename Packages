@@ -18,16 +18,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adbloc
 
 Package: com.julioverne.albumhider
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.albumhider_0.0~beta2_iphoneos-arm.deb
-Size: 37638
-MD5sum: c9238027c1aa1f41d389dfeee9ac1036
-SHA1: 8bcc3dcef38e3416f5e15ae548fb11ba35735207
-SHA256: 1064b1f6d04410bae4feaf34ce1de3055fd3a8af2b38644af9a1cb1f7a2ce493
-SHA512: df9e4c91938e6167ce2c9d77358967561b93e6b7041a5ecdffbe3a602e12658e13eec6f5271e078ae7e59f4adf3eccd6e586466ef8fcb25c85344d4afa76e983
+Filename: ./debfiles/com.julioverne.albumhider_0.0~beta3_iphoneos-arm.deb
+Size: 37136
+MD5sum: cddce178e452503b06242eb2b5522aaf
+SHA1: c77af8f9c3633e235a29718d8ebeffb4cc853f25
+SHA256: 654841e359ce93bdd374b9115060876e8c181cc80f11160d279d867849708d47
+SHA512: dfaf701cde33897ad4113b2c5ce28a255cd0f3fa76d8caf22b5279f1c5ab80b22db7b17a0cd4e9bc886aa97467f5a21a4100122a8bd5b6f06a0930eb462e731e
 Description: Hide Album's On Photo App
 Name: AlbumHider
 Author: julioverne
@@ -296,16 +296,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cachec
 
 Package: com.julioverne.cachewipe
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta1a
 Section: Addons (Flipswitch)
 Maintainer: Julio
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
-Filename: ./debfiles/com.julioverne.cachewipe_0.0~beta1_iphoneos-arm.deb
-Size: 17176
-MD5sum: 78cfdabc3bd5e8d556b103597f1d1857
-SHA1: 050929077c75afcfbc2a34d97b5472d9ed8fea5d
-SHA256: 7c8c2e98847d9f168470e2acf60a8e907b71053688faeaf2237704fcd57ec424
-SHA512: 533e8e3719dc886e0422890531a908a080ef2817d890c4f06c8e81268cc73249a69cae640d6a18f623d42ce56e7bf5f6d8321c03233fde36cf09caaae550dde7
+Filename: ./debfiles/com.julioverne.cachewipe_0.0~beta1a_iphoneos-arm.deb
+Size: 31056
+MD5sum: 639d644f47f3ce182a4b62abd59fa997
+SHA1: d107af8d37ec2e304c302b08a806ce16f180d2d7
+SHA256: e00e34bff7a5d64ecf908b69a75033b4988a486a6c64fee599874fbfd2d61185
+SHA512: 82f87a94d66fe236909a08c15ec487cdf36c36039ae71d20a23fb6a62239e9f2a2617b2685e0a2fc73d5dec78c6d70dbf0b41329cc4f6dc258dffff3b467dfc9
 Homepage: http://twitter.com/ijulioverne
 Description: Clear Apps Caches Switch
 Name: CacheWipe
@@ -1108,16 +1108,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mcast
 
 Package: com.julioverne.messagefile
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta2b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.messagefile_0.0~beta2_iphoneos-arm.deb
-Size: 37634
-MD5sum: 8bc4be06b1b5cae6d525d4f1c18f9efb
-SHA1: 309d2336781c57a87d0969d3e001644dbb5e3716
-SHA256: bc1b5d2f57d23885ac150e5ecae41a7fff0e3f4d91862cd227def53cb3ad33d4
-SHA512: 63ac16fa732c399d575083b62aad2f2b1d79f6cb9be0d9ba3a7816788aaefcc03ca68ae3d11ba939a0733d1468eeddaa885be1ad1a7eea62306ede437b549c0f
+Filename: ./debfiles/com.julioverne.messagefile_0.0~beta2b_iphoneos-arm.deb
+Size: 65010
+MD5sum: 56b2d97ac5c8d1da6201394009120710
+SHA1: dbf861b401f44152fa9e004931c2767cb989fb77
+SHA256: 0bed021f7e5aa83928393e77caf5f1a4b5a5052fa610858450fcc48ddfaa9cf6
+SHA512: c934f1a3cdcc3570643a722e19d7f83925f477008b37d0314363e958019b96c308217dba62628b1c5bf62a60ca6ae6f1e79ea85933192c3faa0ef823d99af709
 Homepage: http://twitter.com/ijulioverne
 Description: Message App Send Any Root Filesystem
 Name: MessageFile
