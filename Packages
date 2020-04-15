@@ -422,6 +422,24 @@ Name: CoverflowM
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.coverflowm
 
+Package: com.julioverne.coverflowm
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 10.0), com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.julioverne.coverflowm_0.2_iphoneos-arm.deb
+Size: 285746
+MD5sum: c71864d10755ca2cc996d1c2031a4682
+SHA1: 0355d23e7ea69d49320b612e0d5fd397aa47d913
+SHA256: 5db7731b59906cfa52536385802ac5670a9c7b566d4e6dfe092e960db4c5d32e
+SHA512: 85ee5b92ff3f503b395545bbef5e3d1ac7d42925a5e537e094c9a38f9206a35bcd229118896f807e6ae5035578fbf2fa85cad22757c3168ec91532a8dc523cdb
+Homepage: http://twitter.com/ijulioverne
+Description: Landscape Music Styles for Music App
+Name: CoverflowM
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.coverflowm
+
 Package: com.julioverne.cypush2
 Architecture: iphoneos-arm
 Version: 1.2
