@@ -3,7 +3,7 @@
 	"desc_short": "Chromecast from Music App",
 	"desc_long": "Cast Music from Now Playing View. tested in Chromecast model 2014",
 	"compatitle": "iOS 10 through 13",
-	"changelog": "<strong>0.0~beta4</strong><br>+ Support iOS 12, 13;<br><br>+ Support arm64e;<br><strong>0.0~beta3</strong><br>+ Better Detect Chromecast.<br><strong>0.0~beta1</strong><br>+ Initial Release<br>",
+	"changelog": "<strong>0.0~beta5</strong><br>+ Feature Auto Follow Current Media;<br><strong>0.0~beta4</strong><br>+ Support iOS 12, 13;<br>+ Support arm64e;<br><strong>0.0~beta3</strong><br>+ Better Detect Chromecast.<br><strong>0.0~beta1</strong><br>+ Initial Release<br>",
 	"screenshot": null,
 	"open": true,
 }
