@@ -406,24 +406,6 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cmdsap
 
 Package: com.julioverne.coverflowm
 Architecture: iphoneos-arm
-Version: 0.1b
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debfiles/com.julioverne.coverflowm_0.1b_iphoneos-arm.deb
-Size: 167876
-MD5sum: 521115f193c938e1f8a6bbf40ff6efdf
-SHA1: 4254ecf499f191e17d80900eccdbe07e5e0233e7
-SHA256: 9ee5355be66b1fe14a1c25817f0b6af116f997733963f34769dc28b03b6c96b4
-SHA512: c9bc31db9d51263771f1389e9efd1ab36d0e2c7ef94ee8520bbaa1eb02897fa3d5605490bc0c0123f9367ea6750037c8ac5b4f4726502ac290e8b2465c4b53b6
-Homepage: http://twitter.com/ijulioverne
-Description: Landscape Music Styles for Music App
-Name: CoverflowM
-Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.coverflowm
-
-Package: com.julioverne.coverflowm
-Architecture: iphoneos-arm
 Version: 0.2
 Section: Tweaks
 Maintainer: Julio
@@ -1126,16 +1108,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mcast
 
 Package: com.julioverne.messagefile
 Architecture: iphoneos-arm
-Version: 0.0~beta2b
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.messagefile_0.0~beta2b_iphoneos-arm.deb
-Size: 65010
-MD5sum: 56b2d97ac5c8d1da6201394009120710
-SHA1: dbf861b401f44152fa9e004931c2767cb989fb77
-SHA256: 0bed021f7e5aa83928393e77caf5f1a4b5a5052fa610858450fcc48ddfaa9cf6
-SHA512: c934f1a3cdcc3570643a722e19d7f83925f477008b37d0314363e958019b96c308217dba62628b1c5bf62a60ca6ae6f1e79ea85933192c3faa0ef823d99af709
+Filename: ./debfiles/com.julioverne.messagefile_0.0~beta3_iphoneos-arm.deb
+Size: 65434
+MD5sum: b77c24435d5492b6d23d66961b92bda6
+SHA1: ba97c263a1e369f55272b09920dfac376b81a07c
+SHA256: 764f5fdcc446b0bfe26d412173bf4c0343b991e4a2aaedd2f6e5244378d127db
+SHA512: b0c4d44de49f0409b8cf27d80a401f9329df507dab3fa4b42bf477ad52c0101c12d090e4a1c29e62f8136eda4cff6fa7289ca3e2dfb84a2957b5999c571b2859
 Homepage: http://twitter.com/ijulioverne
 Description: Message App Send Any Root Filesystem
 Name: MessageFile
