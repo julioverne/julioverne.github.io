@@ -1108,16 +1108,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.luxyve
 
 Package: com.julioverne.mcast
 Architecture: iphoneos-arm
-Version: 0.0~beta5
+Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.mcast_0.0~beta5_iphoneos-arm.deb
-Size: 289812
-MD5sum: 8ad5ef08689e6ef0cb5e1dc10506642f
-SHA1: b6d07db1274d94dfedbdbb1e60b81989695de915
-SHA256: caee8fa3ace94f821bad7e4143cf5eb47b781f143b3fad8fd57cb2da80a55b72
-SHA512: d4a72f514474c8f6afdee6fcbabd686f5489a65712ef97695f9034718a23d111ef3be6d474365556915f55ecd37d1f0ed54622dc6a09e47346bc94d835c83593
+Filename: ./debfiles/com.julioverne.mcast_0.0~beta6_iphoneos-arm.deb
+Size: 294090
+MD5sum: ea097040af5ece6374ead2857271c23b
+SHA1: a5984bdb711ba8d2ea19f5bc55894ddd9532df49
+SHA256: c57d13cee999e1a87120734ce431f09ce623128a39741ff609ef7e4572ec03d2
+SHA512: 22730c1b8ae57a3fe613c67645a976a3c082b22ad2ed6b941288c957b3bda4db851c9a6e0d48cf0e99584311ab097fa676f5ea1d43a32bb8f0519771b1a11732
 Homepage: http://twitter.com/ijulioverne
 Description: Chromecast from Music App... Cast Music from Now Playing View. tested in Chromecast model 2014
 Name: mCast
