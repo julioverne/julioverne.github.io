@@ -33,6 +33,25 @@ Name: AlbumHider
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumhider
 
+Package: com.julioverne.albumpref
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.julioverne.albumpref_0.0~beta1_iphoneos-arm.deb
+Size: 82360
+MD5sum: 2228553394bed4facca1065373f9a612
+SHA1: a676a18f6e908a1cc0ab23e195c60e47d37f9938
+SHA256: cdfb0b7de1accf4fcfdce8590205b4356498f633fb73dee5321125c37c929df3
+SHA512: 61b22a0e33ae1209489ff3560962aa1059ffdadbe93cecf67fe006fa991e59c281fc392b00924a6a2387348b602b2e7061fad9d8f44447963c607afbc60d3e2c
+Homepage: http://twitter.com/ijulioverne
+Description: Choose Preferred Album in Messages
+Name: AlbumPref
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/AlbumPrefSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumpref
+
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
 Version: 1.1-20b
