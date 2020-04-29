@@ -35,16 +35,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumh
 
 Package: com.julioverne.albumpref
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.albumpref_0.0~beta1_iphoneos-arm.deb
-Size: 82360
-MD5sum: 2228553394bed4facca1065373f9a612
-SHA1: a676a18f6e908a1cc0ab23e195c60e47d37f9938
-SHA256: cdfb0b7de1accf4fcfdce8590205b4356498f633fb73dee5321125c37c929df3
-SHA512: 61b22a0e33ae1209489ff3560962aa1059ffdadbe93cecf67fe006fa991e59c281fc392b00924a6a2387348b602b2e7061fad9d8f44447963c607afbc60d3e2c
+Filename: ./debfiles/com.julioverne.albumpref_0.0~beta2_iphoneos-arm.deb
+Size: 93672
+MD5sum: 38c4fb70ce6bc8f1c737e89e4dacc102
+SHA1: d52ef2de73cbd5f20c572e44deddb4558e301472
+SHA256: 96c1d09c2af45ae754817b1b2d462101b40477679606791541d85aee1f168dde
+SHA512: ea77cd00f805abec62199b21396c2fcd8a822553c111d1cedcaf20f574d7a6bbb68b851f64b634543cf541e0424dcf3a8f2e6caeac33ab65dca304b83d5a947b
 Homepage: http://twitter.com/ijulioverne
 Description: Choose Preferred Album in Messages
 Name: AlbumPref
