@@ -10,7 +10,7 @@ if(!theme) {
 	theme = "ios7.min";
 	localStorage.setItem('Theme', theme);
 }
-$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=d" type="text/css" />');
+$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=f" type="text/css" />');
 function toogleTheme()
 {
 	var themeNew = "ios7.min";
@@ -29,7 +29,8 @@ $(function() {
 });
 function loadPackageInfo() {
 	var urlSelfParts = window.location.href.split('description.html?id=');
-	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
+	var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
+	var form_url = current_url_path+"/packageInfo/"+urlSelfParts[1];
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
 		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://julioverne.github.io/&package="+urlSelfParts[1]);
@@ -97,7 +98,8 @@ function openSection(sectionName)
 		var dicNow = packagesSection[sectionName][keyNow];
 		var urlOpen = "cydia://package/"+dicNow.package;
 		if (navigator.userAgent.search(/Cydia/) == -1) {
-			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+dicNow.package;
+			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
+			urlOpen = current_url_path+"/description.html?id="+dicNow.package;
 		}		
 		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(sectionName)+".png\" alt=\"\" srcset=\""+encodeURI(sectionName)+".png 2x, "+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
 	}
@@ -146,14 +148,16 @@ function loadRecentUpdates()
 		}
 		var urlOpen = "cydia://package/"+allPackages[dicNow].package;
 		if (navigator.userAgent.search(/Cydia/) == -1) {
-			urlOpen = window.location.protocol+"//"+window.location.hostname+"/description.html?id="+allPackages[dicNow].package;
+			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
+			urlOpen = current_url_path+"/description.html?id="+allPackages[dicNow].package;
 		}				
 		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\""+encodeURI(allPackages[dicNow].section)+".png 2x, "+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
 	}
 	$("#updates").html(htmlnews);
 }
 function loadPackages() {
-	var form_url = window.location.protocol+"//"+window.location.hostname+"/all.packages";
+	var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
+	var form_url = current_url_path+"/all.packages";
 	$.ajax({
 		url: form_url,
 		type: "GET",

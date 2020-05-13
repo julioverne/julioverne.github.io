@@ -410,7 +410,7 @@ body>header h1 {
 ul {
     margin: 5px 0 35px;
     list-style: none;
-    background: #1c1c1d
+    background: #1c1c1d !important
 }
 
 ul:after,
