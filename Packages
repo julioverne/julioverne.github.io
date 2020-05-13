@@ -1000,16 +1000,15 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.keyswi
 
 Package: com.julioverne.liblinker
 Architecture: iphoneos-arm
-Version: 0.2
+Version: 0.3
 Section: Development
 Maintainer: Julio
-Depends: ldid (>= 1:1.2.1)
-Filename: ./debfiles/com.julioverne.liblinker_0.2_iphoneos-arm.deb
-Size: 36152
-MD5sum: 1c54bfd7946c5eff4d43003656a63b4b
-SHA1: 94b30db9376fa1c2413daeadb44a2690351f4bd4
-SHA256: fd667ce075d922784bcc64cc92f3029eef465589846b9591e44e68e26601ede7
-SHA512: 83d12a0949f4fbc9a7d193918cf2a1b53f09fe464ff6bd31e1355132de026edb258883eec396f66233bb68c7eb834dc323f420053c4db9ec6e68c9dea125e6ed
+Filename: ./debfiles/com.julioverne.liblinker_0.3_iphoneos-arm.deb
+Size: 34036
+MD5sum: 8d3856b647431a28466c19daa3fef3e6
+SHA1: fa7c3b505d7165dbc7ceb3fe340a0bc9fff8f10f
+SHA256: c138b76afa124be7aead6b9c81ae39e6708cdd44bcd22bfca708c98b2afee3e9
+SHA512: f3a0f4177b0f75b25f9da02160d3fad9fdecfdc9016f6f7616f1f86620bba3160fbf33cd5f05273c66e57f03ca1feee54afbbceff9a16fdbbd9f84cd8668e097
 Homepage: http://twitter.com/ijulioverne
 Description: link library in executable that's already compiled. type on terminal: liblinker [EXECUTABLE_PATH] [LIBRARY]
 Name: liblinker
