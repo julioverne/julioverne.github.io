@@ -1,0 +1,9 @@
+{
+	"name": "YTHDUnlocker",
+	"desc_short": "Unlocks HD Videos in YouTube App",
+	"desc_long": "Unlocks High Definition Videos Quality in YouTube App<br><br>Note's: Not Compatible With DRM Protected Videos.<br>Can Cause Fail to Load or Lags on Videos with HD Resolutions.<br><br>No Options To Configure.<br>",
+	"compatitle": "YouTube App",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/YAC96KW.jpg' target='_blank'><img width=95% src='https://i.imgur.com/YAC96KW.jpg'/></a><br></div>",
+	"open": true,
+}
