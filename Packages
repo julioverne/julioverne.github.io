@@ -1768,16 +1768,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.wishdi
 
 Package: com.julioverne.ythdunlocker
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta1a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.ythdunlocker_0.0~beta1_iphoneos-arm.deb
-Size: 39720
-MD5sum: b9a513ac244fae22367e9501dbbfcefb
-SHA1: 83af5f75794df6692b8f0141be6fc85eae33c5dd
-SHA256: 9e57a172e91963abe5b41d53566317043b49a9623559ec58a8680a45294f27ac
-SHA512: 4a30fd4e8ae6cb6bb8ab732a0a0d48443b40680767966c52f56f62a15a6858173ee12ca9bff15fba94fc43ce1500bccf330f642863dc076dff13ae393d3dd35e
+Filename: ./debfiles/com.julioverne.ythdunlocker_0.0~beta1a_iphoneos-arm.deb
+Size: 70706
+MD5sum: aca8b7b751a6241b177c5e51431ba1ad
+SHA1: 27e68a2cdbb247bcfa3c7faa3c24cdca145e6035
+SHA256: 0f90d933e15734f04b3c9c698a717f67d25f9d1f64253afb1093df906918de22
+SHA512: 082970788b62f4e3fc3b6abb0889f75b2c060859c9feb04a71561c8be2908288ccead6e28b755e45e9daa70008f05d1b739189c0e54e83fd7c2af7384b4f7515
 Homepage: http://twitter.com/ijulioverne
 Description: Unlocks HD Videos in YouTube App
 Name: YTHDUnlocker
