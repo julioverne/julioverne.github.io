@@ -1380,16 +1380,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.otablo
 
 Package: com.julioverne.phonescroll
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta2a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.phonescroll_0.0~beta2_iphoneos-arm.deb
-Size: 4660
-MD5sum: b3737781d1d32672a4529303ee3d95bd
-SHA1: 055d883356053c9e46bd0ad0da7324c426d2fcfe
-SHA256: 8cde498e7659ebc9c879c8a2b048ec8997fdb27c0e61717e23addd05318e1f6d
-SHA512: 4c605cd3d8611d58b5aa91f56875cfe1dd8a0eca8a23423be0104b6d45b89ba34b9db1d2587fffc6ecc5d6d14bd2451c918c9bbcae3e01be310701ce4867382b
+Filename: ./debfiles/com.julioverne.phonescroll_0.0~beta2a_iphoneos-arm.deb
+Size: 27908
+MD5sum: c35b44b9d0dd63fd524ec0085e8ef5d7
+SHA1: 1ff9cbdde8eaf1ec44933611fe441e46494d61f2
+SHA256: cdbdb41b891b1c55d087d88c2b914e9ec8a6890eaa8a36eb297b920361801bc4
+SHA512: 8b58e8f13d8d76a8db039fe1c85881102425f469991b9b6af244ae59675660fa04bc60359622e5135896aa7328c635ba8324b059d718eb2c16214d4406e528dd
 Homepage: http://twitter.com/ijulioverne
 Description: Tap In Selected Tap Bar For Scroll To Top
 Name: PhoneScroll

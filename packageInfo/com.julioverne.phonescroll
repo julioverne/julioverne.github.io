@@ -2,8 +2,8 @@
 	"name": "PhoneScroll",
 	"desc_short": "Tap In Selected Tap Bar For Scroll To Top",
 	"desc_long": "No Options To Configure.",
-	"compatitle": "iOS 11",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"compatitle": "iOS 11, 12, 13",
+	"changelog": "<strong>0.0~beta2a</strong><br>+ Support arm64e.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 	"open": true,
 }
