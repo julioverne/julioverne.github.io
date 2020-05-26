@@ -1272,16 +1272,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musicv
 
 Package: com.julioverne.musilyric
 Architecture: iphoneos-arm
-Version: 0.5~beta7a
+Version: 0.5~beta8
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.musilyric_0.5~beta7a_iphoneos-arm.deb
-Size: 103294
-MD5sum: 2eed38b39c18ed5a19f5b41d331e3e29
-SHA1: 1b4b155bac0345e6352cc73596aacebd64fec853
-SHA256: 5c16a0c225e5c5e978f2cb3542cbc4dab8442d2892b3a924339b8c2b04a86ff4
-SHA512: dc79a9265369efb029be2ccccf06162de7401d1a2eecd195f3a7d11544f7dd7fcd7686bc7bc3c18ce6ad5d940478fc8fdd9bc7375c41f6d2e7bc363304aa66ec
+Filename: ./debfiles/com.julioverne.musilyric_0.5~beta8_iphoneos-arm.deb
+Size: 122196
+MD5sum: 3c862d7cd6149a53940b3b6ba9f77251
+SHA1: 461bf3eec772a0ad355b68817927c4772009c75f
+SHA256: 42e64041eca480f3675aa40c94ceabdfe933451426dc485bc15763fb4f06bcb3
+SHA512: 66f339cb159d51d22160f4b6bda09e4bbd9428e8d1bc62d1352a1c38b545ca09125cba5048d1c8ee5548e1d5946a776ad6b826bb06bfabf3a2f72fa16b236572
 Homepage: http://twitter.com/ijulioverne
 Description: Best Lyrics Music
 Name: MusiLyric
