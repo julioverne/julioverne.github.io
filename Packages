@@ -1655,6 +1655,23 @@ Name: TW280
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.tw280
 
+Package: com.julioverne.twslidetoblock
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.twslidetoblock_0.0~beta1_iphoneos-arm.deb
+Size: 31128
+MD5sum: 3e1daca5c926eba5e1cb9d4d147c5ca9
+SHA1: 0fff3999f05dd0d4daa02eb8e0acefb4c21e53dc
+SHA256: 72dc7c94e9b2d3ea4d2692e8229c368388831b2d6842b0b629f8e6c087262584
+SHA512: 935c0de0704fb3771c0e4643c44253f0c74f0d2becf3e8a207ce47c5fcc67003fdce11a735385d560d9809b3562f9c287b8df5c13387456153631412d953d10f
+Description: Twitter Slide To Block/Mute in Liked/Rettweeted Section
+Author: julioverne
+Name: TWSlideToBlock
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.twslidetoblock
+
 Package: com.julioverne.uicachefix10
 Architecture: iphoneos-arm
 Version: 0.1
