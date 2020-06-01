@@ -1,7 +1,7 @@
 {
 	"name": "TWSlideToBlock",
-	"desc_short": "Twitter Slide To Block/Mute in Liked/Rettweeted Section",
-	"desc_long": "Lets You Slide To Block/Mute User from Liked/Rettweeted Section from an Tweet.<br><br>No Options to Configure.<br>",
+	"desc_short": "Twitter Slide To Block/Mute in Liked/Retweeted Section",
+	"desc_long": "Lets You Slide To Block/Mute User from Liked/Retweeted Section from an Tweet.<br><br>No Options to Configure.<br>",
 	"compatitle": "Twitter App",
 	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/vSi7EkE.jpg' target='_blank'><img width=95% src='https://i.imgur.com/vSi7EkE.jpg'/></a> <a href='https://i.imgur.com/zP8q5gW.jpg' target='_blank'><img width=95% src='https://i.imgur.com/zP8q5gW.jpg'/></a></div>",
