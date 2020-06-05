@@ -1601,6 +1601,26 @@ Name: SlackHistory
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.slackhistory
 
+Package: com.julioverne.sslkillswitch2
+Architecture: iphoneos-arm
+Version: 0.14a
+Section: Tweaks
+Maintainer: julioverne, Alban Diquet
+Depends: mobilesubstrate
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debfiles/com.julioverne.sslkillswitch2_0.14a_iphoneos-arm.deb
+Size: 39402
+MD5sum: c1c3606c383d819018bdda145ecf1a22
+SHA1: 5d07df05b0ec7cc1dba8c1ddfd2f4d528c383059
+SHA256: 4c261d80b6381e27139364548cdef18e4347e7d5641b85eb5ff6c43db805b0da
+SHA512: 1311fa51aa783d4f7e5b26932e1e19430dc0c35631717daf64c7dbc5184dc689c6673800552ac5d524086064815e1a7b6e8dc1ade14a5148eaad996351ea4be2
+Homepage: http://twitter.com/ijulioverne
+Description: Blackbox tool to disable SSL certificate validation and pinning
+Name: SSL Kill Switch 2 (iOS 13)
+Author: julioverne, Alban Diquet
+Icon: file:///Library/PreferenceLoader/Preferences/SSLKillSwitch.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sslkillswitch2
+
 Package: com.julioverne.tb280
 Architecture: iphoneos-arm
 Version: 0.2
