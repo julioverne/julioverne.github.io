@@ -1,9 +1,0 @@
-{
-	"name": "SSL Kill Switch 2 (iOS 13)",
-	"desc_short": "Blackbox tool to disable SSL certificate validation and pinning",
-	"desc_long": "Lets disable SSL certificate validation and certificate pinning, Helps for debugs SSL connections without install additional certificate.<br><br>SSL Kill Switch is <a href='https://github.com/julioverne/ssl-kill-switch2' target='_blank'>open source</a> and developed by <a href='https://github.com/iSECPartners/ios-ssl-kill-switch' target='_blank'>iSECPartners</a>.<br><br>Configure Options From Settings.<br>",
-	"compatitle": "iOS 13",
-	"changelog": "<strong>0.14a</strong><br>+ Initial Release<br>",
-	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/Vzl1Iiz.jpg' target='_blank'><img width=95% src='https://i.imgur.com/Vzl1Iiz.jpg'/></a> </div>",
-	"open": true,
-}
