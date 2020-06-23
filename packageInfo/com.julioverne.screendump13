@@ -4,6 +4,6 @@
 	"desc_long": "Lets you run a VNC Server in iOS !<br><br>Use any VNC Client to remote manage, default port is: 5900<br><br>Links:<br><a href='https://www.realvnc.com/connect/download/viewer/' target='_blank'>VNC Viewer</a><br><a href='https://www.uvnc.com/downloads/ultravnc.html' target='_blank'>UltraVnc</a><br><br>screendump is <a href='https://github.com/julioverne/screendump' target='_blank'>open source</a> and developed by <a href='https://github.com/cosmosgenius/screendump' target='_blank'>cosmosgenius</a>.<br><br><br>Configure Options From Settings.<br>",
 	"compatitle": "iOS 12, 13",
 	"changelog": "<strong>0.0.3b</strong><br>- Improve CPU Usage When disabled.<br><strong>0.0.3a</strong><br>+ Initial Release<br>",
-	"screenshot": "<video width='95%' height='90%' autoplay><source src='https://github.com/julioverne/screendump/blob/master/screendump13.mp4?raw=true' type='video/mp4'></video>",
+	"screenshot": "<video width='95%' height='90%' webkit-playsinline><source src='https://github.com/julioverne/screendump/blob/master/screendump13.mp4?raw=true' type='video/mp4'></video>",
 	"open": true,
 }
