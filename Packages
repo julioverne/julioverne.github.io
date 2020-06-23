@@ -1508,6 +1508,25 @@ Name: SCloudInfo
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.scloudinfo
 
+Package: com.julioverne.screendump13
+Architecture: iphoneos-arm
+Version: 0.0.3a
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cosmosgenius.screendump
+Filename: ./debfiles/com.julioverne.screendump13_0.0.3a_iphoneos-arm.deb
+Size: 1539236
+MD5sum: 85963d54c08ca01a651c7e07faad7651
+SHA1: 0144a9db073dc7dc44c38b1d54e74eb610e90b74
+SHA256: 66c7592724a24d8264d1a90e791668b62c18141e834425b73d5b429ed35b5211
+SHA512: 3988407cb5d5791ff818ef1fdc82f23b15a8e563393aafe7dd32d3abdca3f834bbcf105cb80878d97b8b93f9e12b6042c350be17022b721c8f4364f2ddc3bc16
+Description: VNC for ios
+Name: screendump (iOS 13)
+Author: julioverne, Sharat M R
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.screendump13
+Icon: file:///Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
+
 Package: com.julioverne.sftpenabler
 Architecture: iphoneos-arm
 Version: 0.1
