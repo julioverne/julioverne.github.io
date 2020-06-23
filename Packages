@@ -1510,17 +1510,17 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.scloud
 
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm
-Version: 0.0.3a
+Version: 0.0.3b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.cosmosgenius.screendump
-Filename: ./debfiles/com.julioverne.screendump13_0.0.3a_iphoneos-arm.deb
-Size: 1539236
-MD5sum: 85963d54c08ca01a651c7e07faad7651
-SHA1: 0144a9db073dc7dc44c38b1d54e74eb610e90b74
-SHA256: 66c7592724a24d8264d1a90e791668b62c18141e834425b73d5b429ed35b5211
-SHA512: 3988407cb5d5791ff818ef1fdc82f23b15a8e563393aafe7dd32d3abdca3f834bbcf105cb80878d97b8b93f9e12b6042c350be17022b721c8f4364f2ddc3bc16
+Filename: ./debfiles/com.julioverne.screendump13_0.0.3b_iphoneos-arm.deb
+Size: 1539212
+MD5sum: 8976c5b33a0553510c87fc37aa4927e1
+SHA1: 99628d974341c1b87f177c19cb8ea029ffee4cef
+SHA256: cf57725dde143b0c4ed9b37f2c193d7c347448c4135899ee98ecaf60ed69b617
+SHA512: cc1c0b178a05a485e4fbb81a3714763751f58ac75a6b128f655efabb185b46633615c7f1e2904ee6d8478608a79d17c71b2ce099a019e77fbf39b566ed8f28dd
 Description: VNC for ios
 Name: screendump (iOS 13)
 Author: julioverne, Sharat M R
