@@ -761,16 +761,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.google
 
 Package: com.julioverne.gravity
 Architecture: iphoneos-arm
-Version: 0.6
+Version: 0.7
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.gravity_0.6_iphoneos-arm.deb
-Size: 229780
-MD5sum: 85210daf871e98dd41898f8f844bd036
-SHA1: 38538b6270934ccd8bed612b35a5b418a66ba4d2
-SHA256: 6c169cde642e61f135b7edb02d7d32d75d72a2d4248f99c33d17a6174c6c61a5
-SHA512: d682db07fee331cf3c9e3e681c0e35998e6bfcd7c201235ab48c23de328f0851d0482d0e0e4d5fc830ffbf2633c458246d33fe0f875869fe88b4f60f8dec28e9
+Filename: ./debfiles/com.julioverne.gravity_0.7_iphoneos-arm.deb
+Size: 223624
+MD5sum: 56f8b813c82708ae3774e452ed47ca5a
+SHA1: 60ec173936d15fb5d10a1b8c2bb3f133f76260e5
+SHA256: 74a1249f9540c33be81f869ea762c96e4f2a144a1ae848bbda00a5055626eef2
+SHA512: 72bd61e59a82f5a9745b8344f50957b7e958f1dc7d9603bc1e4cbfec470804ac11c9227f0768be3869366f98dd789ebb78fded33195c1040fd2b08641e2f9ea4
 Homepage: http://twitter.com/ijulioverne
 Description: Graviboard alternative
 Name: Gravity
