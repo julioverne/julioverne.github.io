@@ -1434,6 +1434,24 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.pipenabler
 
+Package: com.julioverne.pipsize
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.pipsize_0.0~beta1_iphoneos-arm.deb
+Size: 23122
+MD5sum: 57dcf41cd9424096ecab42f308125f9e
+SHA1: c95a96928b0a701ee254c2fe14e4f492a2fdcce5
+SHA256: b20be59faaf8f44090f7bd33a39adc93a395b6b3405de4e3b9ad7b8c5c00265e
+SHA512: 1a1a3e92086826229f0738dcc510b7caacac9f92e7aa377dad59a51ea8245f0cfcb94b36658636fef905eae8bbe87fcb5cd73ff858b8e1eb9c389190dee7b122
+Homepage: http://twitter.com/ijulioverne
+Description: Resize Picture In Picture in any size
+Name: PIPSize
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.pipsize
+
 Package: com.julioverne.quickunlock11
 Architecture: iphoneos-arm
 Version: 1.0

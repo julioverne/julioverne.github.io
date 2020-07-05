@@ -1,0 +1,9 @@
+{
+	"name": "PIPSize",
+	"desc_short": "Resize Picture In Picture in any size",
+	"desc_long": "Some Features for PIP:<br>- Resize PIP in any size<br>- Allow in Multitask<br><br><br>No Options To Configure.<br>",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release<br>",
+	"screenshot": null,
+	"open": true,
+}
