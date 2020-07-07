@@ -1564,6 +1564,25 @@ Name: SFTPEnabler
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpenabler
 
+Package: com.julioverne.signaldbm
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.julioverne.signaldbm_0.0~beta1_iphoneos-arm.deb
+Size: 102110
+MD5sum: 890fa8a3144fb5dc32aafa58d6c6007c
+SHA1: 983aed72c639437022a22b3455270a464756b318
+SHA256: 1a2d761f8316584b6441ff355bd49bfdc0c5fb73f21e69731999ad7d75b93a7d
+SHA512: 3fca530b8484161d0530bce9b75fe1a9d16a4046895280ee6676c47507d18702080075e8b2f4b9d0e5febac80067bf02580eb2aa0f766f7508cf5b311d4248a7
+Homepage: http://twitter.com/ijulioverne
+Description: Replece Signal Bars with dBm level
+Name: SignaldBm
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/SignaldBmSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.signaldbm
+
 Package: com.julioverne.signalplane
 Architecture: iphoneos-arm
 Version: 0.0~beta3a

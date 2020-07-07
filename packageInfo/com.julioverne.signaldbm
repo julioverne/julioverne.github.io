@@ -1,0 +1,9 @@
+{
+	"name": "SignaldBm",
+	"desc_short": "Replece Signal Bars with dBm level",
+	"desc_long": "Lets you replece Cell/WiFi Signal Bars with dBm levels in Statusbar.<br><br><br>Configure Options From Settings.<br>",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/4xRW6pV.jpg' target='_blank'><img width=95% src='https://i.imgur.com/4xRW6pV.jpg'/></a><br></div>",
+	"open": true,
+}
