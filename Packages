@@ -334,18 +334,18 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cachew
 
 Package: com.julioverne.caixatemfast
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.caixatemfast_0.0~beta1_iphoneos-arm.deb
-Size: 25350
-MD5sum: 8815e00312df1719148d56fbb026ae35
-SHA1: bf77fb2eb0dc011af47ac8cc7af0b9c87b8a80c6
-SHA256: 01871d271017b047dba15de75bb04e3ea572391fda4907bfadbf8507b508470e
-SHA512: dc07a45944ad551c576335be91aff2f677781e0dd544c3a2171f3ef73ac0f923343d97b66562ca335c7d744260ab9ced1483be6c154ceaa3bc9ca16c9b04973f
+Filename: ./debfiles/com.julioverne.caixatemfast_0.0~beta2_iphoneos-arm.deb
+Size: 26192
+MD5sum: 7148a037dda4561a62b1784f13b90085
+SHA1: 62f807c704c80faf62424eb39f9999c80f255f86
+SHA256: ee66cea599e268ec405bc203df3eb3ef8218114461bb9d503cb28a4d788c3a7c
+SHA512: db21dec0c866eeb5e4d52dedce09e67bf7c5a1bb9528142c440b2b8c7fbeca2f400b7a672bcbaf7721a15a88341df0cc341e8fb05453e389e1d634e28c8fdb5e
 Homepage: http://twitter.com/ijulioverne
-Description: Brazilian Caixa Tem App No Queue Wait
+Description: Brazilian Caixa Tem App No Queue Wait, JB Detection Bypass
 Name: CaixaTemFast
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.caixatemfast
