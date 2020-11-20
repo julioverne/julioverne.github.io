@@ -203,6 +203,25 @@ Name: AVCache
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.avcache
 
+Package: com.julioverne.battrate
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.julioverne.battrate_0.0~beta1_iphoneos-arm.deb
+Size: 153778
+MD5sum: 38dbdf794dbae42af7d350a4a2b64380
+SHA1: 77cd27a5fd946e2a1af582aff7e1c1398be1e466
+SHA256: 3239b9d28f1aa54e77fd99bdd71ef4d4f14a1dc92b5965469f34ad5be9e0699a
+SHA512: e592b40c7c68def101df13a2c0763bc8489c75749d82f44a4d9b7998b7f8a7784850b0048612c2fb2816c0f3e1c547c12055e2c4ef56f9680380056dd2b2b492
+Homepage: http://twitter.com/ijulioverne
+Description: Battery Discharge Rate Monitor
+Name: BattRate
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/BattRateSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.battrate
+
 Package: com.julioverne.bgmodekill
 Architecture: iphoneos-arm
 Version: 0.0~beta
@@ -1879,16 +1898,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.wishdi
 
 Package: com.julioverne.ythdunlocker
 Architecture: iphoneos-arm
-Version: 0.0~beta1a
+Version: 0.0~beta1b
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.ythdunlocker_0.0~beta1a_iphoneos-arm.deb
-Size: 70706
-MD5sum: aca8b7b751a6241b177c5e51431ba1ad
-SHA1: 27e68a2cdbb247bcfa3c7faa3c24cdca145e6035
-SHA256: 0f90d933e15734f04b3c9c698a717f67d25f9d1f64253afb1093df906918de22
-SHA512: 082970788b62f4e3fc3b6abb0889f75b2c060859c9feb04a71561c8be2908288ccead6e28b755e45e9daa70008f05d1b739189c0e54e83fd7c2af7384b4f7515
+Filename: ./debfiles/com.julioverne.ythdunlocker_0.0~beta1b_iphoneos-arm.deb
+Size: 22174
+MD5sum: f670d8ce1addb5723db202e7beb6ae6e
+SHA1: 78b6ec0851a03d5903f3f6abe3eb95647deb394c
+SHA256: 871a979ebe8d2730f46fd95ae5b43929e92e394875b123e060cedf18cf4d4125
+SHA512: 32492a96af5b852dc410c0f801f428c4a8ba231b12365c56f5a36ebd6bd15eac42098fb3b1e01d99e1bcbf9ab5020410b5f98184fac51b738bfa0a473ee220d8
 Homepage: http://twitter.com/ijulioverne
 Description: Unlocks HD Videos in YouTube App
 Name: YTHDUnlocker
