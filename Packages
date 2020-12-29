@@ -762,16 +762,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fmydbl
 
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm
-Version: 0.0~beta5a
+Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.goodwifi_0.0~beta5a_iphoneos-arm.deb
-Size: 97816
-MD5sum: ad2c6dc15aa9bb0495ba307d9551d235
-SHA1: 90d5393ff0df619d71b67ce730053c0794ef42db
-SHA256: 07a03fe96c45d7aa7349225df72e13da1f8d1b6f82761c0dfefc595cd6ebcaca
-SHA512: 5ac8b9a2250ff57ac77f26c0138cce3e2f644314ab74cc51412f23a41444e1b96c91e93a6098d94dc515b46e409fcbca1af10b755053f7bf6120ec4ee8ae3f20
+Filename: ./debfiles/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155794
+MD5sum: b7a838690e17bd7cb1611640e849f50f
+SHA1: 440a1040b3886c698ad35fa2893ac7a1f418c3a5
+SHA256: 24455e831fd73bf9149f8d5eab91fee4cbec2dab103ebe63f070b8f5e7a1f377
+SHA512: 9083e98830472a1b3b8d4ee76638508278cad197d33f75f690db96ed528ef04a7ee3756e1eb1508e5752e307ec1f46edd76610dc611c096125deed865389af8f
 Homepage: http://twitter.com/ijulioverne
 Description: Better WiFi Preferences
 Name: GoodWiFi
