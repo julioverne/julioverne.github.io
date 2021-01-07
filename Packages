@@ -149,6 +149,25 @@ Name: Artworkify
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.artworkify
 
+Package: com.julioverne.autolockx
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.julioverne.autolockx_0.0~beta1_iphoneos-arm.deb
+Size: 94690
+MD5sum: 22fa2993acdca309ccd1c7856722faa2
+SHA1: 2274f135578abf7a44eb18755a4c7113a047ba7a
+SHA256: 73b02fd1901b01dc5531eb4f2ade8e35763ce3e98f70e0581422818b14afd3f1
+SHA512: db2001164153f0b67cd8b97d1bc1f3af79c362429ac6a0e1e18851177e01cbb3e937d20af53d1554bd791db7b1945193d6e2ddc376415977d5758898079e4c70
+Homepage: http://twitter.com/ijulioverne
+Description: Force Auto Lock Device
+Name: AutoLockX
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.autolockx
+
 Package: com.julioverne.autoshiftfix
 Architecture: iphoneos-arm
 Version: 0.1
@@ -205,16 +224,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.avcach
 
 Package: com.julioverne.battrate
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.battrate_0.0~beta1_iphoneos-arm.deb
-Size: 153778
-MD5sum: 38dbdf794dbae42af7d350a4a2b64380
-SHA1: 77cd27a5fd946e2a1af582aff7e1c1398be1e466
-SHA256: 3239b9d28f1aa54e77fd99bdd71ef4d4f14a1dc92b5965469f34ad5be9e0699a
-SHA512: e592b40c7c68def101df13a2c0763bc8489c75749d82f44a4d9b7998b7f8a7784850b0048612c2fb2816c0f3e1c547c12055e2c4ef56f9680380056dd2b2b492
+Filename: ./debfiles/com.julioverne.battrate_0.0~beta2_iphoneos-arm.deb
+Size: 158450
+MD5sum: 3c7ee33f9dfe22a8780bf68c5ca9ea47
+SHA1: fe0d48d9d8244d35cc75212732aa28d602637557
+SHA256: c5a3c13da598ff2102532055e3302a1ec6b3efcd729010c71dcf745b21d72066
+SHA512: cec74bbd2580f0a331e85e03ec8259cf38698e9166761d19f470a8987f6385f00c7c7eb3e31ee9f21077de609ea0cc9a3b107ec10e9610c23352e01c88cd1ca5
 Homepage: http://twitter.com/ijulioverne
 Description: Battery Discharge Rate Monitor
 Name: BattRate
