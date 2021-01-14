@@ -3,7 +3,7 @@
 	"desc_short": "Force Auto Lock Device",
 	"desc_long": "Lets your force auto lock if not interact to device when given timeout in any case even when playing media (like YouTube).<br><br><br>Configure Options from Settings.",
 	"compatitle": "iOS 13",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>0.0~beta2</strong><br>+ Fix Lock For iOS 8 and Lower.<br><strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/1LIXhXL.jpg' target='_blank'><img width=95% src='https://i.imgur.com/1LIXhXL.jpg'/></a><br></div>",
 	"open": true,
 }

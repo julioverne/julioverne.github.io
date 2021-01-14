@@ -151,16 +151,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.artwor
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.autolockx_0.0~beta1_iphoneos-arm.deb
-Size: 94690
-MD5sum: 22fa2993acdca309ccd1c7856722faa2
-SHA1: 2274f135578abf7a44eb18755a4c7113a047ba7a
-SHA256: 73b02fd1901b01dc5531eb4f2ade8e35763ce3e98f70e0581422818b14afd3f1
-SHA512: db2001164153f0b67cd8b97d1bc1f3af79c362429ac6a0e1e18851177e01cbb3e937d20af53d1554bd791db7b1945193d6e2ddc376415977d5758898079e4c70
+Filename: ./debfiles/com.julioverne.autolockx_0.0~beta2_iphoneos-arm.deb
+Size: 95670
+MD5sum: 3bd1f688f360de79dd7618fb9e6715f3
+SHA1: f8b9592faf286edc087dea3cb33ce29c21c9671c
+SHA256: bbddf106f45ee24891144e4a2ae2cb085d0660a021d83ef9dd725d5ad9f4fe41
+SHA512: b14cf3e8faa26858100bca1e021160b1f4b565659888f79471c5f8f362a8c669244968ae3bc0be9f27e12a54bc149c2b4c4c650b649403fc116bb5ccbcafa435
 Homepage: http://twitter.com/ijulioverne
 Description: Force Auto Lock Device
 Name: AutoLockX
