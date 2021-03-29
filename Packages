@@ -52,6 +52,24 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/AlbumPrefSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumpref
 
+Package: com.julioverne.alt5tore
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.alt5tore_0.0~beta1_iphoneos-arm.deb
+Size: 37166
+MD5sum: a4f5c8f8a40f9eb0d59df7b8155a9d37
+SHA1: 8bc79ff2a021aa67a5b07d9f04065cadce957603
+SHA256: ea38b715ce5e12e949cecd60b66098ea21671ceb3b9c33a707739e3cfdb1b340
+SHA512: 63cc46dd1b5916283654ddd450f0e6a28d06865c96175a0666ea0cee06c31293bb5ec2198112388d2d554c03a5d6cb51509315a8aab167e1ed0e4825e0c55d7c
+Homepage: http://twitter.com/ijulioverne
+Description: Extra Features For AltStore
+Name: Alt5tore
+Author: julioverne <julioverne@me.com>
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.alt5tore
+
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
 Version: 1.1-20b
