@@ -206,16 +206,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.autosh
 
 Package: com.julioverne.autowall
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.autowall_0.0~beta2_iphoneos-arm.deb
-Size: 122106
-MD5sum: e152354aa3ea1214c0071c2ee878d342
-SHA1: 5d007b452c72dd94f1aa4a8b5b26feec0396c216
-SHA256: 086ed2aa75d82fd847ee2a543d4ef59298f19bdaf1eb6f809baddff1c54fdc30
-SHA512: d3ea91fed1ba0619eae5f5fe13e263b59337d3c06c0a045e41b753c45f8ab39b4202b511fa26f29191b2e60b991c956b1958ff7b91f1ecd4a91050813f5cdd39
+Filename: ./debfiles/com.julioverne.autowall_0.0~beta3_iphoneos-arm.deb
+Size: 135526
+MD5sum: 1429f3b68601a4e992e5a1da0a107ca8
+SHA1: 74d6010e21c5d188f75b875de83ceef92f787a66
+SHA256: 8dcbe883bd3066a4a7a4441e9f5a7affea8764553a524f40d15e9e8964a6a326
+SHA512: 000bec76b5d12ee90a8b50578b8277381364ae86e8f58d88bd3ad3aa8b30a69c90ec02af333e97d87457bcecf4b8a1c157bc0a78b946883048e1c7e2ab3fbfd4
 Homepage: http://twitter.com/ijulioverne
 Description: Scheduled Wallpapers
 Name: AutoWall
@@ -1472,16 +1472,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.phones
 
 Package: com.julioverne.pimport
 Architecture: iphoneos-arm
-Version: 0.0~beta4
+Version: 0.0~beta5
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./debfiles/com.julioverne.pimport_0.0~beta4_iphoneos-arm.deb
-Size: 636356
-MD5sum: b2cb48fd8b6fd8de49efb5876784743f
-SHA1: 1e288fb30578eef902e98a1444d0262f47ef611b
-SHA256: 0af43fb58f7c7c6f6678f29317d93b4bfbe66e7f3490ad0c52b95a366a602d6e
-SHA512: 64921b311a0ed97ce60bda689a53a68cbc5097f9d4bb24ffef5fdb9a2f57d68512825236c8ac518573f8dd2bcf87d656b4a28e713197f822d1e9e84db415f3a9
+Filename: ./debfiles/com.julioverne.pimport_0.0~beta5_iphoneos-arm.deb
+Size: 783058
+MD5sum: a5816dd921dddb0cb1f877867d4a3b9b
+SHA1: 899f5310c170ccd3807dff63afa7676930aad32e
+SHA256: 62874d8e63f462dc3fb4876294db7aaa11985aec25bcf086c1d1230b3205dde7
+SHA512: 3bd4afa3f80f4bf0520fba213656edcdd1cdcde0488723fa11dda59c0159b618bee6aa61b187853ed09a91e5671048065bb823158a5eab99aa04b1e20f541581
 Homepage: http://twitter.com/ijulioverne
 Description: Photo Importer Directly From Photo App
 Name: PImport

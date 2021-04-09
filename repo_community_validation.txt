@@ -1,1 +1,0 @@
-community.repo.access: allow_forwarding_all
