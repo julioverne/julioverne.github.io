@@ -1418,16 +1418,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.nonces
 
 Package: com.julioverne.ntspeed
 Architecture: iphoneos-arm
-Version: 0.2~beta7
+Version: 0.2~beta8
 Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.ntspeed_0.2~beta7_iphoneos-arm.deb
-Size: 110788
-MD5sum: ef362c4050a24743dafc91feb02cac45
-SHA1: 55faba4da01bbb88f5f9d68f79516540cef48032
-SHA256: ef5cf1285d1fecf42e554a900f09b407c6012af7055bcc88d58a8743acb5bfa3
-SHA512: 27e79310635806d7d558645d1bc0e5e3a50b638ce8dcb719243abbd6959ce77fddbf9ce81d1e8fc2645c0575055d50dd99c9cfb741ffe0bd7416824eb2b8f70d
+Filename: ./debfiles/com.julioverne.ntspeed_0.2~beta8_iphoneos-arm.deb
+Size: 119692
+MD5sum: f7a8cdd3c0eb5987af0c748271e36515
+SHA1: d092ac443e3311ce876f93e2eb4fa4e927ef1c60
+SHA256: 483fe51bccac74b22e6442c83b108e4c47f6a9623ce1853d7c3659b2ede76666
+SHA512: d039e4a21eace35599f9597fedd266204e66b9e9e09a7c434372a57875b08380a89f68e2b6808b627f99805b0d6b741ee34a8052fc2c409f869ece207af4dc1b
 Homepage: http://twitter.com/ijulioverne
 Description: See Active Traffic Network Speed
 Name: NtSpeed
@@ -1640,16 +1640,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpen
 
 Package: com.julioverne.signaldbm
 Architecture: iphoneos-arm
-Version: 0.0~beta1a
+Version: 0.0~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.signaldbm_0.0~beta1a_iphoneos-arm.deb
-Size: 103194
-MD5sum: 5ae06840708016bd5125b7567ed00b6a
-SHA1: 6ec0a3e68c9a3982a66d5d4fa8b831683e2eb373
-SHA256: 01b85a4ddd5c5cbab843436209f403bd504aa201c033f53e4aa60ceaf1edf2f1
-SHA512: 75f73d1fd19a18dc64d8b298ae36bdc0c67f495a8157bcaed41556b55d842ca610a3a8c856ccddf8291c03fe8378ee430220f99d723717251b52989821dfa3df
+Filename: ./debfiles/com.julioverne.signaldbm_0.0~beta2_iphoneos-arm.deb
+Size: 107534
+MD5sum: c56b4ddfc3f687f8adc30d2dcb571984
+SHA1: 21db4f42828b1d0e8c21a6ada5acb62d27d7f47f
+SHA256: 3644d0331f275629f11888ae29a417a07ae54886e44064cefd6f2f8f25b5948d
+SHA512: 54f4d21a9692aa70c589d74cf8c95482f2faf4be3d0850fb0b23d54758f649424efc08bbf3498e02417c2df64067e516a13a6d100da14630c72545e86a238df3
 Homepage: http://twitter.com/ijulioverne
 Description: Replece Signal Bars with dBm level
 Name: SignaldBm
