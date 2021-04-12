@@ -944,6 +944,24 @@ Name: HSBC Bypass
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hsbcbypass
 
+Package: com.julioverne.igsaver
+Architecture: iphoneos-arm
+Version: 0.1~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.igsaver_0.1~beta1_iphoneos-arm.deb
+Size: 249400
+MD5sum: a7bb1a16f30763da97abac3e35d7e9fe
+SHA1: 2897d676ffd1841e5234b829b322bfdd31d6998a
+SHA256: 76501b5ca4080ad65cc7b60a83bb01c15bbdcfab321cadf962b66a1e3034df10
+SHA512: fdd650e6307223efb875c367843731fd5d3a3e8c28d431a14bdcc1d285ab5870dd181f8b66c572c49f10a8807f39393e59153cde2cb2787af378e80dc4694dd5
+Homepage: http://twitter.com/ijulioverne
+Description: Instagram Media Saver
+Name: IGSaver
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.igsaver
+
 Package: com.julioverne.illlooklater11
 Architecture: iphoneos-arm
 Version: 2.0-2
@@ -1640,16 +1658,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.sftpen
 
 Package: com.julioverne.signaldbm
 Architecture: iphoneos-arm
-Version: 0.0~beta2
+Version: 0.0~beta3
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.signaldbm_0.0~beta2_iphoneos-arm.deb
-Size: 107534
-MD5sum: c56b4ddfc3f687f8adc30d2dcb571984
-SHA1: 21db4f42828b1d0e8c21a6ada5acb62d27d7f47f
-SHA256: 3644d0331f275629f11888ae29a417a07ae54886e44064cefd6f2f8f25b5948d
-SHA512: 54f4d21a9692aa70c589d74cf8c95482f2faf4be3d0850fb0b23d54758f649424efc08bbf3498e02417c2df64067e516a13a6d100da14630c72545e86a238df3
+Filename: ./debfiles/com.julioverne.signaldbm_0.0~beta3_iphoneos-arm.deb
+Size: 121370
+MD5sum: 9edd85b417041c336a62d22688b98801
+SHA1: 2aeef07f11b64ea6661a80b6284fa002f4a85a1f
+SHA256: 525a7c81e4300ccbcc61f93fe298e8bae60fad7becbd3287dbdcf01906708442
+SHA512: bcf230a7a9733a0549f50537770067154ce262a404513601f08086b0ed9a53964b5c5722b9727a5337745807a32a24715dc8da3ab4deb1cb2f1da13ea4a4a134
 Homepage: http://twitter.com/ijulioverne
 Description: Replece Signal Bars with dBm level
 Name: SignaldBm
