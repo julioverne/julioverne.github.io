@@ -1380,6 +1380,24 @@ Name: MusiLyric
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musilyric
 
+Package: com.julioverne.nbkjb
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.nbkjb_0.0~beta1_iphoneos-arm.deb
+Size: 29662
+MD5sum: bf51c24de4d5eed70fd31306aaf56956
+SHA1: 2b63872266976b3160922cc345fd53ef99912373
+SHA256: 58f61cf3c9cdb2b474039757c01590a80150be59c11f3f2bc72a86851e91a5a5
+SHA512: 667761cbe9e335e0fc554ec1008a24ec4189a11b7946e56d6583a38a1059f6a6d02ed3fcc9d233633651741ac393502baf9a8bfbd19a002babf7a55d6d12fde8
+Homepage: http://twitter.com/ijulioverne
+Description: Bypass NBK Jailbreak Detection
+Name: NBKJB
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.nbkjb
+
 Package: com.julioverne.ncgroup
 Architecture: iphoneos-arm
 Version: 0.0~beta11

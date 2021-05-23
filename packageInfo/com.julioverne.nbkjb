@@ -1,0 +1,9 @@
+{
+	"name": "NBKJB",
+	"desc_short": "Bypass NBK Jailbreak Detection",
+	"desc_long": "Jailbreak Detection Bypass For NBK Mobile Banking.<br/><br/>No Options To Configure.",
+	"compatitle": "NBK from AppStore",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/MUdgO0D.jpg' target='_blank'><img width=95% src='https://i.imgur.com/MUdgO0D.jpg'/></a><br></div>",
+	"open": false,
+}
