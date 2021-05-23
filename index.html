@@ -3,14 +3,14 @@
 <head>
 	<title>julioverne's Repo</title>
 	<noscript>
-		<link rel="stylesheet" href="ios7.min.css?_=f" type="text/css" />
+		<link rel="stylesheet" href="ios7.min.css?_=ff" type="text/css" />
 	</noscript>
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta charset="utf-8">
 </head>
 <script src="jquery-3.5.1.min.js"></script>
-<script src="description.js?_=f"></script>
+<script src="description.js?_=ff"></script>
 <body onload="loadPackages();">
 	<main id="content">
 		<h2 role="header">julioverne's Repo</h2>
@@ -69,10 +69,19 @@
 				</form>
 				</center>
 			</li-->
-			<li>
+			<li class="has-icon">
+				
 				<center>
-				<p>via Bitcoin</p><br/>
-				<textarea style="width:100%;height:100%;border-style: inset;border-width: 0px;background-color: rgba(0,0,0,0.0);text-align:center;">367bVUyupGj29Zjxp9Ye7itFSeDghr1mFA</textarea>
+				<img style = "border-radius: 20%;" href="btc.png" alt="" srcset="btc.png 2x, btc.png 3x" class="icon"/>
+				<p>BTC - Bitcoin</p><br/>
+				<textarea onClick="this.select();" style="width:100%;height:100%;border-style: inset;border-width: 0px;background-color: rgba(0,0,0,0.0);text-align:center;" readonly>367bVUyupGj29Zjxp9Ye7itFSeDghr1mFA</textarea>
+				</center>
+			</li>
+			<li class="has-icon">
+				<img style = "border-radius: 20%;" href="ltc.png" alt="" srcset="ltc.png 2x, ltc.png 3x" class="icon"/>
+				<center>
+				<p>LTC - Litecoin</p><br/>
+				<textarea onClick="this.select();" style="width:100%;height:100%;border-style: inset;border-width: 0px;background-color: rgba(0,0,0,0.0);text-align:center;" readonly>MNJJcwTUKWVfcfEoe2d2kWnVNAfBBLkHg5</textarea>
 				</center>
 			</li>
 		</ul>
@@ -86,6 +95,6 @@
 			</li>
 		</ul>
 	</main>
-	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">julioverne © 2020</p>
+	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">julioverne © 2021</p>
 </body>
 </html>

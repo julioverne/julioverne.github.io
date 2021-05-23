@@ -150,6 +150,10 @@ textarea {
     margin: 0
 }
 
+textarea {
+	color: white;
+}
+
 button,
 input {}
 
