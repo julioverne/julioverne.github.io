@@ -646,6 +646,24 @@ dev: phillipt
 Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.epicentre11
 
+Package: com.julioverne.exchangent2
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate
+Conflicts: com.derv82.exchangent
+Filename: ./debfiles/com.julioverne.exchangent2_0.0~beta1_iphoneos-arm.deb
+Size: 128956
+MD5sum: 42976d00e5d5023625bb9c3d2feefa60
+SHA1: 5e6cc3e3a4c06941f6b0f3c2e9226f05edec3a94
+SHA256: 352f67084f615f29da291cfaeb127e6b65b1a12435c3974b2db5095ca079afe1
+SHA512: bc211bbb96d46449919ab126275e0a30a4e5a48cd386281cbd615cdface8a65b74590c94f2940b4532dfc8d164080d8e54d4f8b871415748b7c7d3a580095839
+Description: Spoof Exchange/ActiveSync User-Agent
+Name: Exchangent2
+Author: derv82 & julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.exchangent2
+
 Package: com.julioverne.exsto11
 Architecture: iphoneos-arm
 Version: 0.0.1.2-2
