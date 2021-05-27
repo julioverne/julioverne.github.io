@@ -648,17 +648,17 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.epicen
 
 Package: com.julioverne.exchangent2
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: preferenceloader, mobilesubstrate
 Conflicts: com.derv82.exchangent
-Filename: ./debfiles/com.julioverne.exchangent2_0.0~beta3_iphoneos-arm.deb
-Size: 126458
-MD5sum: 4493847c379899c8187af091d432da94
-SHA1: d089cc8c45911bf46c6db190bdbbbc2cd5a6bc75
-SHA256: 1b0a6208707e61693ae10cc3567656e997319e70aadf615daa15b9537ca871e9
-SHA512: 07b761356f30a3760e6685ae118fab6f60bb20da9d1bf9ace73398db3389728733825625e78430ef915fdcd51e70e4970135d6c8efcf76a017565087af48cd82
+Filename: ./debfiles/com.julioverne.exchangent2_0.0~beta4_iphoneos-arm.deb
+Size: 124042
+MD5sum: 8abb2e184efcfbaba82638cb73bedc79
+SHA1: 752ef090246fa452534b83a52c627102290a4462
+SHA256: 0635b32dfef0fa4bd6667b06a7ebf4a1b821b3245d147c7b8d77aae875d9e310
+SHA512: 68e6b956f346cd119365c972bb917da9597beb29d3b2f3f09ae5036cedd48c5fdbc0f0ca8ab60752e2788f18e6e6efa18e0148e4ccfa777f2d7796bf3e20cb48
 Description: Spoof Exchange/ActiveSync User-Agent
 Name: Exchangent2
 Author: derv82 & julioverne
