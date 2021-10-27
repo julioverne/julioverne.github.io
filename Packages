@@ -964,16 +964,16 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.hsbcby
 
 Package: com.julioverne.igsaver
 Architecture: iphoneos-arm
-Version: 0.1~beta1
+Version: 0.1~beta2
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.igsaver_0.1~beta1_iphoneos-arm.deb
-Size: 249400
-MD5sum: a7bb1a16f30763da97abac3e35d7e9fe
-SHA1: 2897d676ffd1841e5234b829b322bfdd31d6998a
-SHA256: 76501b5ca4080ad65cc7b60a83bb01c15bbdcfab321cadf962b66a1e3034df10
-SHA512: fdd650e6307223efb875c367843731fd5d3a3e8c28d431a14bdcc1d285ab5870dd181f8b66c572c49f10a8807f39393e59153cde2cb2787af378e80dc4694dd5
+Filename: ./debfiles/com.julioverne.igsaver_0.1~beta2_iphoneos-arm.deb
+Size: 252314
+MD5sum: e42361abc8801897abd323b3274867f3
+SHA1: 9ec90afb590e1ae73764cb2a2a563826110f59f2
+SHA256: 092c01ab5fd4ef00fa272f7c5db67b8dddbb0e2262ed5aa42cd5136a368a19c4
+SHA512: e9732bfc0cbea5bb50fe4307f42163b2c4c41a7c2413c193e22be32477721b1accf18587638a873bffb97361968063a491659c818f7838afe786b6d7ff2ce186
 Homepage: http://twitter.com/ijulioverne
 Description: Instagram Media Saver
 Name: IGSaver

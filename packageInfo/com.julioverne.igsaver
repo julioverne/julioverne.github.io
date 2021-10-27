@@ -3,7 +3,7 @@
 	"desc_short": "Instagram Media Saver",
 	"desc_long": "Save Media To Camera Roll.<br><br><br>Configure Options From IGSaver In Instagram Settings.<br>",
 	"compatitle": "Instagram App",
-	"changelog": "<strong>0.1~beta1</strong><br>+ Initial Release<br>",
+	"changelog": "<strong>0.1~beta2</strong><br>+ Button Icon<br>- BugFix<br><strong>0.1~beta1</strong><br>+ Initial Release<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/oVsxSdK.jpg' target='_blank'><img width=95% src='https://i.imgur.com/oVsxSdK.jpg'/></a> <a href='https://i.imgur.com/kPF9VOp.jpg' target='_blank'><img width=95% src='https://i.imgur.com/kPF9VOp.jpg'/></a> <a href='https://i.imgur.com/3aQFWid.jpg' target='_blank'><img width=95% src='https://i.imgur.com/3aQFWid.jpg'/></a><br></div>",
 	"open": false,
 }
