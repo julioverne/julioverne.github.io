@@ -3,7 +3,7 @@
 	"desc_short": "See Active Traffic Network Speed",
 	"desc_long": "Configure Options From Settings.",
 	"compatitle": "iOS 6 through 14",
-	"changelog": "<strong>0.0~beta8</strong><br>+ Adjust Settings<br><strong>0.0~beta7</strong><br>+ Support arm64e.<br><strong>0.0~beta6</strong><br>+ Now Ignore Touch Inside NtSpeed view.<br>",
+	"changelog": "<strong>0.0~beta9</strong><br>- Fix Possible Crash<br><strong>0.0~beta8</strong><br>+ Adjust Settings<br><strong>0.0~beta7</strong><br>+ Support arm64e.<br><strong>0.0~beta6</strong><br>+ Now Ignore Touch Inside NtSpeed view.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://media.idownloadblog.com/wp-content/uploads/2016/11/NtSpeed-Header-639x500.jpg' target='_blank'><img width=95% src='http://media.idownloadblog.com/wp-content/uploads/2016/11/NtSpeed-Header-639x500.jpg'/></a><br></div>",
 	"open": true,
 }
