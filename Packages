@@ -1524,6 +1524,24 @@ Name: PhoneScroll
 Author: julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.phonescroll
 
+Package: com.julioverne.picjb
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.picjb_0.0~beta1_iphoneos-arm.deb
+Size: 49590
+MD5sum: 802c458a73a01201efcda04adb9c65e3
+SHA1: f9110c03c1d4d6b70e0679b2a148a41b7c3f4ca5
+SHA256: 974ac2362bb013b7f116ce422aa0fc01b89250f8a567a49127ba0355d54b16f2
+SHA512: 9bfb0a8b046ba0e6483b88cade08178bf1f3566d1247398a5867c2fcb31c4279936e478b1cce2c617f3dfed734268732be1c2fd44d0e74064e8a371bdfc5f503
+Homepage: http://twitter.com/ijulioverne
+Description: Bypass PicPay Jailbreak Detection
+Name: PicJB
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.picjb
+
 Package: com.julioverne.pimport
 Architecture: iphoneos-arm
 Version: 0.0~beta5
