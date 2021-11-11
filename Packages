@@ -998,6 +998,24 @@ Name: IllLookLater (iOS 11)
 Author: N104, julioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.illlooklater11
 
+Package: com.julioverne.intejb
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.intejb_0.0~beta1_iphoneos-arm.deb
+Size: 49916
+MD5sum: 7828040e020da1b31e662b430847233f
+SHA1: 949bb15dd8626d7bfe045055537120b9365cd128
+SHA256: 87dd6f2a0a880173df230234491228b6040450b857001d4886ccd4b7dc413326
+SHA512: db280e726aa1ba4fc44171c2320e090e9635a2df31b0ce1640613e42f8d4b1d1dc534b4e3972aba0768d7a80a5eeb1be94cfe509c780e03ce60f51a2931ccdbf
+Homepage: http://twitter.com/ijulioverne
+Description: Bypass Inter Jailbreak Detection
+Name: InteJB
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.intejb
+
 Package: com.julioverne.jailprotect
 Architecture: iphoneos-arm
 Version: 0.0~beta4a
