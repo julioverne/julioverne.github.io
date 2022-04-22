@@ -11,6 +11,13 @@ if(!theme) {
 	localStorage.setItem('Theme', theme);
 }
 $('head').append('<link rel="stylesheet" href="'+theme+'.css?_=f" type="text/css" />');
+
+$(document).ready(function () {
+	if(theme==="ios7dark") {
+		$("#toggleDark").attr({ "src": "DarkMode-Dark.png" });
+	}
+});
+
 function toogleTheme()
 {
 	var themeNew = "ios7.min";
