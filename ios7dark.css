@@ -522,8 +522,8 @@ ul li [role=link]:after {
     position: absolute;
     top: 50%;
     right: 15px;
-    width: 10px;
-    height: 13px;
+    width: 14px;
+    height: 14px;
     margin-top: -7px;
     background-size: 100% 100%
 }
