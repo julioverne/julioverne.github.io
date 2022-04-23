@@ -285,7 +285,7 @@ ul:before {
     display: block;
     width: 100%;
     height: 1px;
-    background: #161616
+    background: hsla(0,0%,100%,0.25)
 }
 
 .has-subpixel .subpixel-line,
