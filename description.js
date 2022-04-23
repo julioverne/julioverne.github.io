@@ -94,7 +94,7 @@ function loadPackageInfo() {
 	});
 }
 
-				
+
 var allPackages = null;
 var packagesSection = {};
 function openSection(sectionName)
@@ -184,7 +184,6 @@ function loadPackages() {
 				}
 				packagesSection[section].push(allPackages[dicNow]);
 			}
-			loadMainSection();
 			loadRecentUpdates();
 			$("#browser_").show();
 			$("#updates_").show();
