@@ -1200,16 +1200,16 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockd
 
 Package: com.julioverne.lowerinstall
 Architecture: iphoneos-arm
-Version: 0.0~beta3
+Version: 0.0~beta4
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.lowerinstall_0.0~beta3_iphoneos-arm.deb
-Size: 39590
-MD5sum: 6ef61949803fbca8736ad7ac5577e49f
-SHA1: 19b3aaa01c2ed3ec1893b7795b77dd24b539b6b6
-SHA256: a7af4e400ab0331885de667c08b1b1f2b7e33e98d393211be6927697bb8ae1ff
-SHA512: fb239e1bd3cf3c222b72498c6385f24d51909685ce6b38f9d7a34515f5176d8061e746ee4d052d8b4e69deaec8e07ba2c094560f0e3bdba811d83e216208186e
+Filename: ./debfiles/com.julioverne.lowerinstall_0.0~beta4_iphoneos-arm.deb
+Size: 93278
+MD5sum: e7fbedd3fe2edbcde6ed199b7081762a
+SHA1: 4ab726d17b78680f82780d6b0eb359d57df0728a
+SHA256: e79b2ffa5bd3fc575f9306f4785f825b2ba8d2c6518d047c8f0c3a4b71147703
+SHA512: 657b408010a492e6653830e447edb069f454c1013b71825ba55254ed2cb0e6c617d32d19f0bf3b95028ccf83ac1c81e2cdfd3bb7a10549f382b76aba4dcefc11
 Homepage: https://twitter.com/ijulioverne
 Description: Install Apps In Lower iOS Version
 Name: LowerInstall
