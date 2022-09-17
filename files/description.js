@@ -10,11 +10,11 @@ if(!theme) {
 	theme = "ios7.min";
 	localStorage.setItem('Theme', theme);
 }
-$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=f" type="text/css" />');
+$('head').append('<link rel="stylesheet" href="./files/'+theme+'.css?_=f" type="text/css" />');
 
 $(document).ready(function () {
 	if(theme==="ios7dark") {
-		$("#toggleDark").attr({ "src": "DarkMode-Dark.png" });
+		$("#toggleDark").attr({ "src": "./files/DarkMode-Dark.png" });
 	}
 });
 
@@ -100,7 +100,7 @@ var packagesSection = {};
 function openSection(sectionName)
 {
 	var sectionContent = "";
-	sectionContent += "<li class=\"has-icon\"><a onclick=\"loadMainSection()\" role=\"button\"><img style=\"border-radius: 20%;\" href=\"back.png\" alt=\"\" srcset=\"back.png 2x, back.png 3x\" class=\"icon\"/><label><< Back</label></a></li>";
+	sectionContent += "<li class=\"has-icon\"><a onclick=\"loadMainSection()\" role=\"button\"><img style=\"border-radius: 20%;\" href=\"./files/back.png\" alt=\"\" srcset=\"./files/back.png 2x, ./files/back.png 3x\" class=\"icon\"/><label><< Back</label></a></li>";
 	for (var keyNow in packagesSection[sectionName]) {
 		var dicNow = packagesSection[sectionName][keyNow];
 		var urlOpen = "cydia://package/"+dicNow.package;
@@ -108,7 +108,7 @@ function openSection(sectionName)
 			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
 			urlOpen = current_url_path+"/description.html?id="+dicNow.package;
 		}		
-		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(sectionName)+".png\" alt=\"\" srcset=\""+encodeURI(sectionName)+".png 2x, "+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
+		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\"./files/"+encodeURI(sectionName)+".png\" alt=\"\" srcset=\"./files/"+encodeURI(sectionName)+".png 2x, ./files/"+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
 	}
 	
 	$("#browser").html(sectionContent);
@@ -117,7 +117,7 @@ function loadMainSection()
 {
 	var sectionContent = "";
 	for (var section in packagesSection) {		
-		sectionContent += "<li class=\"has-icon\"><a onclick=\"openSection('"+section+"')\" role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(section)+".png\" alt=\"\" srcset=\""+encodeURI(section)+".png 2x, "+encodeURI(section)+".png 3x\" class=\"icon\"/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
+		sectionContent += "<li class=\"has-icon\"><a onclick=\"openSection('"+section+"')\" role=\"button\"><img style=\"border-radius: 20%;\" href=\"./files/"+encodeURI(section)+".png\" alt=\"\" srcset=\"./files/"+encodeURI(section)+".png 2x, ./files/"+encodeURI(section)+".png 3x\" class=\"icon\"/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
 	}
 	$("#browser").html(sectionContent);
 }
@@ -158,7 +158,7 @@ function loadRecentUpdates()
 			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
 			urlOpen = current_url_path+"/description.html?id="+allPackages[dicNow].package;
 		}				
-		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\""+encodeURI(allPackages[dicNow].section)+".png 2x, "+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
+		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\"./files/"+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\"./files/"+encodeURI(allPackages[dicNow].section)+".png 2x, ./files/"+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
 	}
 	$("#updates").html(htmlnews);
 }

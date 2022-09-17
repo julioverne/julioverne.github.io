@@ -3,14 +3,14 @@
 <head>
 	<title>julioverne's Repo</title>
 	<noscript>
-		<link rel="stylesheet" href="ios7.min.css?_=ff" type="text/css" />
+		<link rel="stylesheet" href="./files/ios7.min.css?_=ff" type="text/css" />
 	</noscript>
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta charset="utf-8">
 </head>
-<script src="jquery-3.5.1.min.js"></script>
-<script src="description.js?_=fff"></script>
+<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+<script src="./files/description.js?_=fff"></script>
 <body onload="loadPackageInfo();loadPackages();">
 	<main id="content">
 		<span id="showAddRepo_" hidden>
@@ -18,7 +18,7 @@
 			<ul>
 				<li class="has-icon">
 					<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://julioverne.github.io/" role="button" id="open_cydia">
-						<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
+						<img style = "border-radius: 20%;" href="./files/cydia7.png" alt="" srcset="./files/cydia7.png 2x, ./files/cydia7.png 3x" class="icon"/>
 						<label>Open Cydia</label>
 					</a>
 				</li>
@@ -52,25 +52,25 @@
 		<ul>
 			<li class="has-icon">
 				<a href="https://github.com/julioverne" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="github.png" alt="" srcset="github.png 2x, github.png 3x" class="icon"/>
+					<img style = "border-radius: 20%;" href="./files/github.png" alt="" srcset="./files/github.png 2x, ./files/github.png 3x" class="icon"/>
 					<label>GitHub</label>
 				</a>
 			</li>
 			<li class="has-icon">
 				<a href="https://www.reddit.com/user/julioverne" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="reddit.png" alt="" srcset="reddit.png 2x, reddit.png 3x" class="icon"/>
+					<img style = "border-radius: 20%;" href="./files/reddit.png" alt="" srcset="./files/reddit.png 2x, ./files/reddit.png 3x" class="icon"/>
 					<label>Reddit</label>
 				</a>
 			</li>
 			<li class="has-icon">
 				<a href="https://twitter.com/iJulioVerne" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
+					<img style = "border-radius: 20%;" href="./files/twitter.png" alt="" srcset="./files/twitter.png 2x, ./files/twitter.png 3x" class="icon"/>
 					<label>Follow julioverne</label>
 				</a>
 			</li>
 			<li class="has-icon">
 				<a href="https://www.patreon.com/julioverne" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="patreon.png" alt="" srcset="patreon.png 2x, patreon.png 3x" class="icon"/>
+					<img style = "border-radius: 20%;" href="./files/patreon.png" alt="" srcset="./files/patreon.png 2x, ./files/patreon.png 3x" class="icon"/>
 					<label>Patreon</label>
 				</a>
 			</li>
@@ -80,7 +80,7 @@
 		<ul>
 			<li class="has-icon">
 				<a href="https://ipawind.com?ref=74266" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="ipawind.png" alt="" srcset="ipawind.png 2x, ipawind.png 3x" class="icon"/>
+					<img style = "border-radius: 20%;" href="./files/ipawind.png" alt="" srcset="./files/ipawind.png 2x, ./files/ipawind.png 3x" class="icon"/>
 					<label>iPAWiND - CodeSign Utility</label>
 				</a>
 			</li>
@@ -102,13 +102,13 @@
 			<li class="has-icon">
 				
 				<center>
-				<img style = "border-radius: 20%;" href="btc.png" alt="" srcset="btc.png 2x, btc.png 3x" class="icon"/>
+				<img style = "border-radius: 20%;" href="./files/btc.png" alt="" srcset="./files/btc.png 2x, ./files/btc.png 3x" class="icon"/>
 				<p>BTC - Bitcoin</p><br/>
 				<textarea onClick="this.select();" style="width:100%;height:100%;border-style: inset;border-width: 0px;background-color: rgba(0,0,0,0.0);text-align:center;" readonly>367bVUyupGj29Zjxp9Ye7itFSeDghr1mFA</textarea>
 				</center>
 			</li>
 			<li class="has-icon">
-				<img style = "border-radius: 20%;" href="ltc.png" alt="" srcset="ltc.png 2x, ltc.png 3x" class="icon"/>
+				<img style = "border-radius: 20%;" href="./files/ltc.png" alt="" srcset="./files/ltc.png 2x, ./files/ltc.png 3x" class="icon"/>
 				<center>
 				<p>LTC - Litecoin</p><br/>
 				<textarea onClick="this.select();" style="width:100%;height:100%;border-style: inset;border-width: 0px;background-color: rgba(0,0,0,0.0);text-align:center;" readonly>MNJJcwTUKWVfcfEoe2d2kWnVNAfBBLkHg5</textarea>
@@ -118,12 +118,12 @@
 		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
 		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"><li class="has-icon">
 				<a onClick="loadMainSection();" role="button">
-					<img style = "border-radius: 20%;" href="package.png" alt="" srcset="package.png 2x, package.png 3x" class="icon"/>
+					<img style = "border-radius: 20%;" href="./files/package.png" alt="" srcset="./files/package.png 2x, ./files/package.png 3x" class="icon"/>
 					<label>View All Packages</label>
 				</a>
 		</li></ul></span>
 		
-		<p align="center" style="margin:0;"><a onclick="toogleTheme();" role="button"><img width="32" height="32" src="DarkMode-Light.png" id="toggleDark"/></a></p>
+		<p align="center" style="margin:0;"><a onclick="toogleTheme();" role="button"><img width="32" height="32" src="./files/DarkMode-Light.png" id="toggleDark"/></a></p>
 	</main>
 	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">julioverne © 2022</p>
 </body>
