@@ -10,7 +10,7 @@ if(!theme) {
 	theme = "ios7.min";
 	localStorage.setItem('Theme', theme);
 }
-$('head').append('<link rel="stylesheet" href="./files/'+theme+'.css?_=f" type="text/css" />');
+$('head').append('<link rel="stylesheet" href="./files/'+theme+'.css?_=sss" type="text/css" />');
 
 $(document).ready(function () {
 	if(theme==="ios7dark") {

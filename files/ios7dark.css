@@ -581,3 +581,21 @@ span .value {
     text-align: right;
     margin-left: 8px;
 }
+
+.column {
+	float: left;
+	width:22%;
+}
+.row div + div {
+	border-left: solid black 1px;
+	border-left-color: #777;
+}
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.row {
+	margin: auto;
+
+}
